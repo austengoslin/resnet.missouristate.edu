@@ -1,0 +1,373 @@
+body {
+
+	font-family:Georgia, Platino Linotype, Serif;
+}
+.more {
+	text-align:right;
+}
+
+h1 {
+	
+}
+h2  {
+	font-size: 20px;
+	font-weight:800;
+	font-family:Verdana, Geneva, sans-serif;
+	padding-bottom:6px;
+
+}
+h3  {
+	font-size: 16px;
+	font-family:Verdana, Geneva, sans-serif;
+	padding-top:10px;
+	padding-bottom:6px;
+
+}
+
+.logo { display:none; }
+#headerBar { display:none; }
+#navWrap { display:none; }
+#topNav {
+	display:none;
+}
+#wrapper {
+	width: 300px;
+	background-color:#fff;
+	text-align:left;
+}
+
+
+
+#navigation {
+	display:none;
+}
+
+
+/* This is the layout setup for a two column layout */
+
+#tutWrap {
+	padding-left:12px;
+}
+#content {
+	padding-top:10px;
+}
+
+#leftColumn {
+	width:100%;
+	font-size: 16px;
+	font-weight: normal;
+	text-transform: normal;
+	line-height: 1.5em;
+	padding-bottom:25px;
+	padding-left:10px;
+
+}
+.imgBorder {
+	border:1px solid #f0f0f0;
+    padding:5px;
+	margin:10px;
+	float:none;
+}
+.imgBorderFloatLeft {
+	border:1px solid #f0f0f0;
+    padding:5px;
+	margin:10px;
+	float:left;
+}
+.labText {
+	margin:10px;
+	
+}
+
+
+#leftColumn #tutorial table {
+	width:75%;
+	border:2px solid #5e0009;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+#leftColumn #tutorial th {
+	background-color:#5e0009;
+	color:#fff;
+	padding:6px;
+}
+#leftColumn #tutorial td {
+	padding:3px;
+}
+#leftColumn #tutorial tr:nth-child(even) {
+	background-color:#f0f0f0;
+}
+
+
+#leftColumn #tutorial td {
+	padding-left:10px;
+}
+#tutorial ol {
+	list-style-type:decimal-leading-zero;
+	list-style-position:outside;
+	
+	
+}
+#tutorial ol li {
+	padding:4px;
+	margin-left:35px;	
+}
+
+#tutorial ul {
+	list-style-type:square;
+	list-style-position:outside;
+	margin-left:30px;
+}
+#tutorial ul li {
+	margin-bottom:4px;
+}
+#tutorial ul li ul li {
+	list-style-type:circle;
+	list-style-position:outside;
+	margin-left:10px;
+}
+#tutorial ul li ul li ul li{
+	list-style-type:disc;
+	list-style-position:outside;
+	margin-left:10px;
+}
+.shadowBox {
+	border: 1px solid #ccc;
+	
+}
+
+#leftColumn h2  {
+	font-family:Verdana, Arial, San Serif;
+	font-size:20px;
+	background-color:#000;
+	width:100%;
+	padding:10px;
+	color:#FFF;
+
+
+}
+#leftColumn h3 {
+	font-family:Verdana, Arial, San Serif;
+	font-size:16px;
+
+}
+
+#leftColumn a {
+	color: #5e0009;
+	text-decoration:underline;
+}
+#leftColumn a:hover {
+	color: #5e0000;
+	text-decoration:none;
+}
+
+#leftColumn .date {
+	background-color:#f0f0f0;
+	padding:2px;
+}
+
+
+#rightColumn {
+	display:none;
+}
+
+#leftColumn .answer img {
+	border:none;
+    padding:5px;
+
+}
+
+.labBox {
+	width:150px;
+	float:left;
+	margin:5px;
+	
+}
+.center {
+	text-align:center;
+}
+.clear {
+   clear:both;
+   height:1px;
+   overflow:hidden;
+  }
+
+.welcome p {
+	padding-bottom:0.6em;
+}
+/* end of two column layout */
+
+/* This is the layout setup for a single column layout */
+#fullWidth {
+	width:100%;
+	padding-left:6px;
+	padding-right:6px;
+	padding-bottom:25px;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+#fullWidth #block h3 {
+	padding-top:0px;
+}
+
+#fullWidth #block #left-info-block {
+	height:100px;
+	padding:20px;
+	float:left;
+	width:410px;
+	margin-right:20px;
+	background-color:#f0f0f0;
+}
+#fullWidth #block #right-info-block {
+	height:100px;
+	padding:20px;
+	float:left;
+	width:435px;
+	background-color:#f0f0f0;
+}
+
+#fullWidth form label {
+
+	width:160px;
+	float: left;
+	text-align: left;
+	font-size:14px;
+	margin-right:10px
+}
+
+#fullWidth fieldset {
+	float:left;
+	margin-left:4px;
+	padding-bottom:20px;
+	float:left;
+	border:1px solid #f0f0f0 ;
+	padding:6px;
+	margin:10px;
+	width:438px;
+	
+}
+#fullWidth legend {
+	background-color:#f0f0f0;
+	color:#333;
+	font-size:16px;
+	font-family:Verdana, Geneva, sans-serif;
+	padding:5px;
+
+}
+#fullWidth form input {
+	font-size:14px;
+	padding:6px;
+	width:222px;
+}
+#fullWidth form .radio {
+	padding:6px;
+	width:25px;
+}
+
+#fullWidth form select {
+	font-size:14px;
+	padding:6px;
+	width:240px;
+}
+#fullWidth form textarea {
+	font-size:14px;
+	padding:8px;
+	width:400px;
+}
+#fullWidth form .submit {
+	font-size:14px;
+	padding:4px;
+	width:120px;
+	margin-top:10px;
+	margin-left:175px;
+	border: none; 
+}
+#fullWidth form .submit:hover{
+	background-color:#5e0009;
+	color:#fff;
+	cursor: pointer;
+}
+
+#fullWidth form input:focus {
+	background-color:#f0f0f0;
+}
+#fullWidth form textarea:focus {
+	background-color:#f0f0f0;
+}
+#fullWidth form select:focus:hover {
+	background-color:#f0f0f0;
+}
+
+#fullWidth form ul {
+	width: 100%;
+	list-style: none;
+	margin: 10px 0 0 0;
+	padding: 0;
+}
+
+#fullWidth form ul li {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+}
+
+/* end of single column layout */
+
+
+#alertBox {
+	width: 300px;
+	background-color:#B99094;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;
+}
+
+
+#boxWrap {
+	display: inline-block;
+	display: block;
+	overflow: hidden;
+	background-color: #f0f0f0;
+	width: 268px;
+	text-align:center;
+	padding:10px;
+	}
+
+
+
+#rightColumn #box {
+	display:none;
+	}
+#rightColumn h2 {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#333;
+}
+#rightColumn h2 a {
+	color:#333;
+	text-decoration:none;
+}
+#rightColumn h2 a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+#rightColumn ul { padding:4px; }
+#rightColumn img { vertical-align:middle; padding-right:5px; }
+
+#rightColumn ul li {font-size:14px;	margin-bottom:5px; padding:1px; }
+rightColumn ul li ul { list-style:circle; }
+
+#rightColumn ul li ul li { margin-left:10px; padding:1px; list-style-type:square; list-style-position:inside; }
+
+#rightColumn ul li a { color:#5e0009; text-decoration:none; }
+
+.answer { background-color:#f0f0f0;	padding:6px; margin:10px; }
+
+.answer a { color:#5e0009; }
+
+.paragraph { padding:8px; }
+.paragraph a { color:#5e0009; }
+.paragraph a:hover { text-decoration:none;	}
+.indent { margin-left:10px; padding:5px; }
+
+#subFooter { display:none; }

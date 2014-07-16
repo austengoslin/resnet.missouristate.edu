@@ -1,0 +1,889 @@
+body {
+	text-align:center;
+	background-image: url(../images/background_no_repeat.png);
+	background-repeat: repeat-x;
+	background-color: transparent;
+	background-position:center top;
+	background-color: #ccc;
+	font-family:Georgia, Platino Linotype, Serif;
+}
+.more {
+	text-align:right;
+}
+#header {
+
+}
+#homeCopy {
+	background-color:#000;
+    color: #f1f1f1;
+    font-family: Georgia;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 22px;
+    margin-bottom: 2px;
+    padding: 10px;
+    width: 940px;
+	text-align:center;
+}
+#homeCopy a {
+	color: #fff;
+	font-weight: none;
+}
+.homeTutorialWrapper{
+	position: relative;
+	float: left;
+	left: 0px;
+	width: 960px;
+	padding-top:4px;
+	padding-bottom:0px;
+	background-image: url(../images/tutorials/tutorialWrapperBackground.png);
+	background-repeat: repeat-x;
+	height:116px;
+	
+}
+
+.post {
+	margin-top:15px;
+	border-bottom:3px;
+	border-bottom-style:solid;
+	border-bottom-color:#f0f0f0;
+	margin-left:10px;
+}
+
+.post .title  { 
+
+   font-size: 20px;
+   font-family:Georgia;
+   font-style: italic;
+   line-height: 22px;
+   
+
+}
+.post .title a:link { 
+   color:#222; 
+}
+
+.post-meta {
+	margin: .5em 0 .3em 0;
+	font:1em/1em sans-serif;
+	color:#999; 
+	font:11px/11px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	text-transform:uppercase;
+
+}
+#rightColumn .post-meta {
+	text-align:center;
+}
+.post-meta a {
+	color:#999;
+	text-decoration:none;
+}
+.post-meta a:hover {
+	color:#5e0009;
+	text-decoration:underline;
+}
+.post-meta .small {text-transform:lowercase;}
+
+.post { margin-bottom:5px; }
+
+.entry  {}
+
+.entry p {
+	font-size: 14px;
+   	font-family:Georgia;
+   	line-height: 22px;
+	text-indent:0px;
+	margin-bottom: 1.2em;
+}
+
+
+.entry img, img.thumbnail { padding: 5px; border: 1px solid #e6e6e6; background:#F8F8F8; }
+.alignleft  { float: left; width: auto; margin: 5px 15px 15px 0; }
+img.aligncenter  { margin-left:auto; margin-right:auto; display:block; }
+.contactButton {
+	background-image:url(../images/rightColumnContactBG.png);
+	background-repeat:repeat-x;
+	padding:10px;
+	
+}
+.textHeader {
+	background-image:url(../images/rightColumnOtherBg.png);
+	background-repeat:repeat-x;
+	font-size: 20px;
+   	font-family:Verdana;
+	height:26px;
+   	line-height: 22px;
+	text-align:center;
+	padding-top:7px;
+}
+.sidePanelHeader {
+	background-image:url(../images/sidePanelH3Header.png);
+	background-repeat:repeat-x;
+	height:26px;
+	padding-top:2px;
+	text-align:center;
+	padding-top:12px;
+	font-size:15px;
+}
+
+/*
+.homeTutorialWrapper img {
+	border:3px;
+	border-bottom-style:solid;
+	border-color:#ccc;
+}
+*/
+.left1{
+   position: relative;
+   float: left;
+   left: 0px;
+   width: 270px;
+   font-family:Georgia;
+   font-style: italic;
+   line-height: 22px;
+   font-size:12px;
+   text-align:center;
+ }
+ .left1 a {
+   color:#333;
+ }
+.left1 h2 {
+   font-size: 16px;
+   font-family:Georgia;
+   font-style: italic;
+   line-height: 22px;
+}
+.left2{
+   position: relative;
+   float: left;
+   left: 10px;
+   width: 220px;
+   
+}
+.left3{
+   position: relative;
+   float: left;
+   left: 20px;
+   width: 220px;
+   
+}
+.right{
+   position: relative;
+   float: right;
+   right: 0px;
+   width: 220px;
+  
+}
+#bar {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFF;
+	text-align:center;
+	margin-top:10px;
+}
+
+h1 {
+	font-size: 20px;
+	font-weight:800;
+}
+h2  {
+	font-size: 20px;
+	font-weight:800;
+	font-family:Geneva, sans-serif;
+	padding-bottom:6px;
+
+}
+h3  {
+	font-size: 16px;
+	font-family:Verdana, Geneva, sans-serif;
+	padding-top:10px;
+	padding-bottom:6px;
+
+}
+.dc-1 {
+    font-size: 50px;
+    color: #207ab8;
+    float: left;
+    line-height: 0px;
+    margin: 5px 10px 0px 0px;
+}
+
+.dc-2 {
+    color: #fff;
+    float: left;
+    font-size: 40px;
+    background: #5e0009;
+    margin: 0px 15px 5px 0px;
+    padding: 5px 10px 0px;
+}
+
+.navText {
+	font-size:18px;
+}
+.logo {
+	width:328px;
+	height:160px;
+	margin-top: -110px;
+	margin-left: 10px;
+	
+	float:left;
+	position:absolute;
+}
+
+#headerBar {
+	height:5px;
+	background-color:#333;
+	}
+#navWrap {
+	width:960px;
+	margin-right:auto;
+	margin-left:auto;
+}
+#topNav {
+	float:right;
+	text-align:center;
+	background-image: 	url(../images/topNavBack.png);
+	background-repeat: repeat-x;
+	background-color:	transparent;
+	padding:3px;
+	width:312px;
+	height:24px;
+	font-family:Verdana, Arial, San Serif;
+	font-size:12px;
+	color:#fff;
+}
+#wrapper {
+	width: 960px;
+	background-color:#fff;
+	margin-top:120px;
+	padding:5px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+}
+
+#topNav ul { margin-top:2px; }
+#topNav ul li {	display:inline; }
+#topNav a { color:#D0D0D0; text-decoration:none; padding:8px; }
+#topNav a:hover {color:#fff;}
+
+.searchBlock {width:315px; height:60px; margin-top: -70px; margin-left: 645px; float:right; position:absolute;}
+.search label {	visibility:hidden;}
+.searchField { 
+	width:200px; 
+	border: 1px solid #DBDBDB; 
+	padding:10px; 
+	color:#fff;
+	background: url(../images/search_icon.png) no-repeat 10px #8B8D8E;
+	padding-left:30px;
+	
+}
+
+.submitButton { 
+	background-image: url(../images/search_button_background.png); 
+	background-repeat: no-repeat; 
+	background-color: transparent; 
+	height:38px; 
+	width:68px; 
+	text-indent:-999em;	
+	border: 1px solid #DBDBDB; 
+
+}
+.submitButton:hover { 
+	background-image: url(../images/search_button_background_hover.png); 
+	cursor:pointer;
+}
+
+
+#navigation {
+	background-color:#5e0009;
+	height: 65px;
+	margin-bottom:4px;
+}
+
+#banner {
+	padding-bottom:5px;
+	border-bottom:5px;
+	border-color:#5e0009;
+	border-bottom-style:solid;
+	background-image:url(../images/homepageBanners/mobileBanner.png);
+	background-repeat:no-repeat;
+	margin-bottom:5px;	
+	height:210px;
+}
+#banner #bar {
+	height:45px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:18px;
+	color:#FFF;
+	text-align:center;
+	padding-top:20px;
+	float:left;
+	width:960px;
+	margin-top:160px;
+	background-image:url(../images/homepageBanners/bar.png);
+	background-repeat:no-repeat;
+}
+
+#bar {
+
+}
+
+#navigation ol {
+	float:right;
+	padding-top:25px;
+	padding-right:10px;
+}
+#navigation ol li {
+	display:inline;	
+}
+#navigation ol li a{
+	text-decoration:none;
+	padding:6px;
+	color:#fff;
+}
+#navigation ol li a:hover{
+	color:#f0f0f0;
+	background-color:#660D16;
+}
+
+
+/* This is the layout setup for a two column layout */
+
+#tutWrap {
+	padding-left:12px;
+}
+#content {
+	padding-top:0px;
+}
+.imgBorder {
+	border:1px solid #f0f0f0;
+    padding:5px;
+	margin:10px;
+	float:none;
+}
+.imgBorderFloatLeft {
+	border:1px solid #f0f0f0;
+    padding:5px;
+	margin:10px;
+	float:left;
+}
+.labText {
+	margin:10px;
+	height:240px;
+	
+	
+}
+
+#leftColumn {
+	width:660px;
+	float:left;
+	font-family: Georgia, serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.5em;
+	padding-bottom:25px;
+	
+
+}
+
+
+#leftColumn #tutorial table {
+	width:575px;
+	border:2px solid #5e0009;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+#leftColumn #tutorial th {
+	background-color:#5e0009;
+	color:#fff;
+	padding:6px;
+}
+#leftColumn #tutorial td {
+	padding:3px;
+}
+/*
+#leftColumn p
+{
+text-indent: 1.6em;
+}
+*/
+#leftColumn #tutorial tr:nth-child(even) {
+	background-color:#f0f0f0;
+}
+
+
+#leftColumn #tutorial td {
+	padding-left:10px;
+}
+#tutorial ol {
+	list-style-type:decimal-leading-zero;
+	list-style-position:outside;
+	
+	
+}
+#tutorial ol li {
+	padding:4px;
+	margin-left:35px;	
+}
+
+#tutorial ul {
+	list-style-type:square;
+	list-style-position:outside;
+	margin-left:30px;
+}
+#tutorial ul li {
+	margin-bottom:4px;
+}
+#tutorial ul li ul li {
+	list-style-type:circle;
+	list-style-position:outside;
+	margin-left:10px;
+}
+#tutorial ul li ul li ul li{
+	list-style-type:disc;
+	list-style-position:outside;
+	margin-left:10px;
+}
+.shadowBox {
+	border: 1px solid #ccc;
+	
+}
+
+#leftColumn h2  {
+	font-family:Verdana, Arial, San Serif;
+	font-size:18px;
+	background-color:#000;
+	width:640px;
+	padding:10px;
+	color:#FFF;
+
+
+}
+#leftColumn h3 {
+	font-family:Verdana, Arial, San Serif;
+	font-size:16px;
+
+}
+
+#leftColumn a {
+	color: #5e0009;
+	text-decoration:underline;
+}
+#leftColumn a:hover {
+	color: #5e0000;
+	text-decoration:none;
+}
+
+#leftColumn .date {
+	background-color:#f0f0f0;
+	padding:2px;
+	
+}
+
+#leftColumn .lists ul {
+
+		
+}
+#leftColumn .lists li {
+	margin-left:22px;
+	line-height:22px;
+	list-style-position:outside;
+	list-style-type:square;
+}
+.recommended {
+	border-style:solid;
+	border-color:#ccc;
+	border-width:1px;
+	background-color:#FFF4F4;
+	padding:2px;
+}
+.recommended :hover {
+	border-style:solid;
+	border-color:#999;
+	border-width:1px;
+	background-color:#FFE6E6;
+	padding:6px;
+}
+#leftColumn .answer img {
+	border:none;
+    padding:5px;
+
+}
+.superPlain {
+	padding-left:1.0em;	
+}
+.superPlain{
+	line-height:1.6em;	
+}
+.slickBox {
+	margin-left:1.5em;
+	background-color:#f0f0f0;
+	line-height:1.7em;	
+	padding:0.5em;
+}
+.labBox {
+	width:150px;
+	float:left;
+	margin:5px;
+	
+}
+.center {
+	text-align:center;
+}
+.clear {
+   clear:both;
+   height:1px;
+   overflow:hidden;
+  }
+
+.welcome p {
+	padding-bottom:0.6em;
+}
+/* end of two column layout */
+
+/* This is the layout setup for a single column layout */
+#fullWidth {
+	width:960px;
+	float:left;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:25px;
+	font-family: Georgia, serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+#fullWidth #block h3 {
+	padding-top:0px;
+}
+
+#fullWidth #block #left-info-block {
+	height:100px;
+	padding:20px;
+	float:left;
+	width:410px;
+	margin-right:20px;
+	background-color:#f0f0f0;
+}
+#fullWidth #block #right-info-block {
+	height:100px;
+	padding:20px;
+	float:left;
+	width:435px;
+	background-color:#f0f0f0;
+}
+
+#fullWidth form label {
+
+	width:160px;
+	float: left;
+	text-align: left;
+	font-size:14px;
+	margin-right:10px
+}
+
+#fullWidth fieldset {
+	float:left;
+	margin-left:4px;
+	padding-bottom:20px;
+	float:left;
+	border:1px solid #f0f0f0 ;
+	padding:6px;
+	margin:10px;
+	width:438px;
+	
+}
+#fullWidth legend {
+	background-color:#f0f0f0;
+	color:#333;
+	font-size:16px;
+	font-family:Verdana, Geneva, sans-serif;
+	padding:5px;
+
+}
+#fullWidth form input {
+	font-size:14px;
+	padding:6px;
+	width:222px;
+}
+#fullWidth form .radio {
+	padding:6px;
+	width:25px;
+}
+
+#fullWidth form select {
+	font-size:14px;
+	padding:6px;
+	width:240px;
+}
+#fullWidth form textarea {
+	font-size:14px;
+	padding:8px;
+	width:400px;
+}
+#fullWidth form .submit {
+	font-size:14px;
+	padding:4px;
+	width:120px;
+	margin-top:10px;
+	margin-left:175px;
+	border: none; 
+}
+#fullWidth form .submit:hover{
+	background-color:#5e0009;
+	color:#fff;
+	cursor: pointer;
+}
+
+#fullWidth form input:focus {
+	background-color:#f0f0f0;
+}
+#fullWidth form textarea:focus {
+	background-color:#f0f0f0;
+}
+#fullWidth form select:focus:hover {
+	background-color:#f0f0f0;
+}
+
+#fullWidth form ul {
+	width: 100%;
+	list-style: none;
+	margin: 10px 0 0 0;
+	padding: 0;
+}
+
+#fullWidth form ul li {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+}
+/* end of single column layout */
+
+/* EMPLOYMENT.PHP SPECIFIC CSS */
+#empBoxWrapper {
+	width: 690px;	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:22px;
+	padding:5px;
+	font-family:Georgia;
+    line-height: 22px;
+}
+.empBox {
+	width:305px;
+	float:left;
+	padding:14px;
+	font-family:inherit;
+    line-height: inherit;
+    font-size:12px;
+	background-color:#FFF0F0;
+	margin:6px;
+}
+.empBox h2 {
+	line-height: 22px;
+    font-size:18px;
+	font-style:normal;
+}
+.empBoxFooter {
+	background-color:#000;
+	padding:6px;
+	width:666px;
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	color:#FFF;
+	font-style:italic;
+}
+.siteUpdates {
+	padding:10px;
+	line-height:22px;
+}
+ul.siteUpdates li   {
+	padding-bottom:10px;
+	margin:5px;
+	background-color:#FFF4F4;
+}
+ul.siteUpdates li a   {
+	color:#5e0009;
+	
+	}
+ul.siteUpdates li a:hover   {
+	color:#333;
+	text-decoration:none;
+	
+	}
+.siteUpdates sup {
+	font-size:10px;
+}
+
+
+#alertBox {
+	width: 300px;
+	background-color:#B99094;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;
+}
+	p.contactError    {
+	padding:6px;
+	margin-bottom:4px;
+	background-color:#FFA6A6;
+	font-style:italic;
+}
+	p.contactError:hover    {
+	padding:6px;
+	
+	background-color:#000;
+	font-style:italic;
+	color:#fff;
+}
+
+#boxWrap {
+	display: inline-block;
+	display: block;
+	overflow: hidden;
+	background-color: #f0f0f0;
+	width: 280px;
+	text-align:center;
+	
+	}
+
+/* RIGHT COLUMN SPECIFIC CSS */
+#rightColumn {
+	width:280px;
+	float:left;
+	padding-left:20px;
+	
+}
+#rightColumn #box {
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#fff;
+	text-align:left;
+	padding:0px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	
+	}
+#rightColumn h2 {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#333;
+}
+#rightColumn h2 a {
+	color:#333;
+	text-decoration:none;
+}
+#rightColumn h2 a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+#rightColumn ul {
+	padding:4px;
+
+	
+}
+#rightColumn img {
+	vertical-align:middle;
+	padding-right:5px;
+}
+
+#rightColumn ul li {
+	font-size:14px;
+	margin-bottom:5px;
+	padding:1px;
+
+}
+rightColumn ul li ul {
+	list-style:circle;
+
+	
+}
+
+#rightColumn ul li ul li {
+	margin-left:10px;
+	padding:1px;
+	list-style-type:square;
+	list-style-position:inside;
+}
+
+#rightColumn ul li a {
+	color:#5e0009;
+	text-decoration:none;
+}
+#rightColumn ul li a:hover {
+	color:#5e0009;
+	text-decoration:underline;
+		
+}
+
+#column {
+	text-align:left;
+	float:left;
+	width:150px;
+}
+.answer {
+	background-color:#f0f0f0;
+	padding:6px;
+	margin:10px;
+}
+
+.answer a {
+	color:#5e0009;
+}
+.answer a:hover {
+	text-decoration:none;
+}
+.paragraph {
+	padding:8px;	
+}
+.paragraph a {
+	color:#5e0009;	
+}
+.paragraph a:hover {
+	text-decoration:none;	
+}
+.indent {
+	margin-left:10px;
+	padding:5px;
+}
+
+#subFooter {
+	font-size:14px;
+	clear:both;
+	background-image: 	url(../images/footerBackGround.png);
+	background-color:	transparent;
+	height: 152px;
+	padding:6px;
+	text-align:center;
+	color: #fff;
+}
+#subFooter p {
+	padding:3px;
+}
+#subFooter a {
+	color:#999;
+	text-decoration:none;	
+}
+#subFooter a:hover {
+	text-decoration:underline;	
+}
+
+#subFooter ul {
+	
+}
+#subFooter h4 {
+	font-family:Verdana, Geneva, sans-serif;	
+	margin-bottom:10px;
+}
+
+#subFooter ul li {
+	padding:2px;	
+}
+
+.multiColumnFooter {
+	float:left;
+	text-align:left;
+	width:227px;
+	padding-left:10px;
+}

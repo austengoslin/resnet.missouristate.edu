@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id = "contactForm" action="employment.php">
+			     <fieldset>
+                    <legend> Contact Information </legend>
+                    <ul>
+						<li><label for = "name">Full Name:</label>
+							<input type = "text" id = "name" name = "name" size = "25"/></li>
+						<li><label for = "email">Your Email Address:</label>
+				    		<input type = "text" id = "email" name = "email" size = "25"/></li>
+						<li><label for = "phone">Phone #:</label>
+							<input type = "text" id = "phone" name = "phone" size = "25"/></li>
+						<li><label for = "mobile">Mobile #:</label>
+							<input type = "text" id = "mobile" name = "mobile" size = "25"/></li>
+						<li><label for = "address">Local Address:</label>
+							<input type = "text" id = "address" name = "address" size = "25"/></li>							
+                        </li>
+
+						</ul>
+
+                </fieldset>
+                <fieldset class="floatLeft">
+                    <legend>Work Preference</legend>
+                    <ul>
+                        <li><label for="class">Position Desired:</label>
+                        <select id="class" name="class" >
+                        	<option value="Resnet Technician">Resnet Technician</option> 
+                        	<option value="Graphic Designer">Graphic Designer</option> 
+                        	<option value="Web/Program Development">Web/Program Development</option>
+                        	<option value="All Positions">All Positions</option> 
+                        </select>
+                                                           
+                       </li>
+                        <li><label for="workSummer">Can you work this summer?:</label> Yes&nbsp;
+                            <input name="workSummer" type="radio" class="radio" id="workSummer" value="Yes" />
+                            No&nbsp;<input name="workSummer" type="radio" class="radio" id="workSummer" value="No" />
+                        </li><br />
+                        <li><label for="beforeFall">Can you start working one week prior to this Fall? </label>
+                        Yes<input name="beforeFall" type="radio" class="radio" id="beforeFall" value="Yes" />
+                        No<input name="beforeFall" type="radio" class="radio" id="beforeFall" value="No" />
+                        </li><br /><br />
+                        <li><label for="hoursWork">How many hours/week can you work next semester?</label>
+                            <input type="text" name="hoursWork" id="hoursWork" size="3" />
+                        </li>
+                        
+                    </ul>
+                </fieldset>
+                <input type = "submit" value = "submit" class = "submit" />
+          </form>
+</body>
+</html>

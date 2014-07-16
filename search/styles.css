@@ -1,0 +1,77 @@
+#searchForm{
+	/* The search form. */
+	background-color:#CCC;
+	position:relative;
+	margin-top: 1px;
+	margin-right: 0;
+	margin-bottom: 6px;
+	margin-left: 0;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-bottom: 15px;
+	padding-left: 75px;
+}
+
+fieldset{
+	border:none;
+}
+
+#s{
+	width:400px; 
+	border: 1px solid #DBDBDB; 
+	padding:10px; 
+	color:#fff;
+	background: url(../images/search_icon.png) no-repeat 10px #8B8D8E;
+	padding-left:30px;
+}
+.icons{
+	list-style:none;
+	margin:10px 0 0 335px;
+	height:19px;
+	position:relative;
+}
+
+.icons li{
+	
+	float:left;
+	height:19px;
+	text-indent:-999px;
+	cursor:pointer;
+	margin-right:5px;
+}
+
+
+/* Web & news results */
+
+
+.webResult h3{
+	margin-left:10px;
+
+
+}
+
+.webResult h2 a{ color:#eee;border:none;}
+.webResult p{ 
+	line-height:22px;
+	padding-left:20px;
+	padding-bottom:10px;
+	
+}
+.searchHeader {
+	background-color:#f0f0f0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.webResult > a{ margin-left:20px;}
+
+
+#more{
+	width:83px;
+	height:24px;
+	background:url('img/more.png') no-repeat;
+	cursor:pointer;
+	margin:40px auto;
+}
+
+#more:hover{
+	background-position:left bottom;
+}

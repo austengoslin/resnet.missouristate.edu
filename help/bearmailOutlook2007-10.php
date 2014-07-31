@@ -21,7 +21,7 @@
 
 </script>
     
-<title>Resnet :: Tutorials :: Mail Clients :: Outlook 2007 and 2010</title>
+<title>Resnet :: Tutorials :: Mail Clients :: Outlook 2007, 2010, and 2013</title>
 </head>
 
 <body>
@@ -34,7 +34,7 @@
            		
     		<div id="tutorial"> 
             <!-- start content -->		
-            <h2>Microsoft Outlook 2007 and 2010 Setup for Live@edu</h2>
+            <h2>Microsoft Outlook 2007, 2010, and 2013 Setup for Live@edu</h2>
             
             <p class="answer">
                 <strong>Note: </strong>Staff wishing to set up Outlook will need to view <a href="Outlook2007SGF.php" title="Outlook 2007 for Staff">this guide</a> for connecting to the servers. 
@@ -46,7 +46,7 @@
 			<p>This guide works if you are currently living on-campus. If you are currently setting up Outlook from off-campus, please follow <a href="#OffCampus">this guide</a>.
 			</p>
             <ol class="indent">
-				<li>Before you begin setting up Outlook, you should ensure you are using the correct password. Open up an Internet browser and go to <a href="http://outlook.com">Outlook.com</a>
+				<li>Before you begin setting up Outlook, you should ensure you are using the correct password. Open up an Internet browser and go to <a href="http://outlook.office365.com" target="_blank">Outlook.com</a>
 					<ul class="normal">
 						<li>For your Windows Live ID, enter your <strong>BearPass login</strong> followed by <strong>@live.missouristate.edu</strong></li>
                         <li>For your Password, enter your Live@EDU E-mail password. If it does not work, you may need to change your password at <a href="https://cams.missouristate.edu/selfservice/changepassword.aspx">cams.missouristate.edu</a></li>                        						

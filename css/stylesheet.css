@@ -368,7 +368,7 @@ a.second-link {
     display: block;
 }
 
-.slide-btn, .first-link {
+.slide-btn, .first-link, .second-link {
     -webkit-transition: 0.3s;
     -moz-transition: 0.3s;
     -ms-transition: 0.3s;
@@ -401,12 +401,16 @@ a.second-link {
     margin-bottom: auto;
 }
 
+.second-link:hover {
+    color: #000000;
+}
+
 .slide-btn:hover .first-link {
     margin-top: -9em;
 }
 /*End slide button styles*/
 
-/*34 column layout*/
+/*4 column layout*/
 .fourColumn {
     -webkit-column-count: 4;
     -moz-column-count: 4;

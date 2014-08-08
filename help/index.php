@@ -33,17 +33,20 @@
                     <a class="first-link" href=""><img src="../images/tutorials/printerIcon.png" alt="Printers" width="75" height="75" /><br />
                    Printers
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/printerSetup.php#WINVISTA7PRINT">
+                        Windows 7
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/printerSetup.php#WIN8PRINT">
+                        Windows 8 and 8.1
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/printerSetup.php#LEOPARDPRINT">
+                        Mac OS X (10.5, 10.6)
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/printerSetup.php#LIONPRINT">
+                        Mac OS X (10.7, 10.8, 10.9)
+                    </a>
+                    <a class="second-link" href="../help/printerSetup.php#UBUNTUPRINT">
+                        Ubuntu
                     </a>
                 </div>
 
@@ -65,20 +68,20 @@
                     </a>
                 </div>
                 <div class="slide-btn">
-                    <a class="first-link" href=""><img src="../images/tutorials/emailIcon.png" alt="Mail" width="75" height="75" /><br />
-                   Mail
+                    <a class="first-link" href=""><img src="../images/tutorials/wifiIcon.png" alt="WiFi" width="75" height="75" /><br />
+                   Networks
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../wireless/index.php">
+                        WiFi Setup
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/resreg.php">
+                        Wired Registration
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/netShares.php">
+                        Network Shares
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/findMACid.php">
+                        Finding A MAC Address (PC/Mac)
                     </a>
                 </div>
                 <div class="slide-btn">
@@ -99,20 +102,23 @@
                     </a>
                 </div>
                 <div class="slide-btn">
-                    <a class="first-link" href=""><img src="../images/tutorials/wifiIcon.png" alt="WiFi" width="75" height="75" /><br />
-                   WiFi
+                    <a class="first-link" href=""><img src="../images/tutorials/emailIcon.png" alt="Mail" width="75" height="75" /><br />
+                   Mail
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmailandroid.php">
+                        Android
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmail-iPhone.php">
+                        iOS
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmailApple.php">
+                        Apple Mail
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmailOutlook2007-10.php">
+                        Outlook
+                    </a>
+                    <a class="second-link" href="http://resnet.missouristate.edu/help/mailClient.php">
+                        Additional Email Tutorials
                     </a>
                 </div>
                 <div class="slide-btn">
@@ -133,20 +139,23 @@
                     </a>
                 </div>
                 <div class="slide-btn">
-                    <a class="first-link" href=""><img src="../images/tutorials/consoleIcon.png" alt="Consoles" width="75" height="75" /><br />
-                   Game Consoles
+                    <a class="first-link" href=""><img src="../images/tutorials/consoleIcon.png" alt="Entertainment & Media" width="75" height="75" /><br />
+                   Entertainment & Media
                     </a>
                     <a class="second-link" href="">
-                        Demo
+                        Xbox One
                     </a>
                     <a class="second-link" href="">
-                        Demo
+                        PlayStation 4
                     </a>
                     <a class="second-link" href="">
-                        Demo
+                        AppleTV
                     </a>
                     <a class="second-link" href="">
-                        Demo
+                        Other Consoles
+                    </a>
+                    <a class="second-link" href="">
+                        Other Media Streaming Devices
                     </a>
                 </div>
                 <div class="slide-btn">

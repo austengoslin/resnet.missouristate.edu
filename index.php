@@ -59,7 +59,7 @@
                     <h4 class="title">ResPrint has been Reset</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> April 4, 2014</span></p>
+                        <span class="post-date"><span class="small">on</span> August 12, 2014</span></p>
 
                     <div class="entry">
                         <p class="paragraph">

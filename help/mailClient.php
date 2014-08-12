@@ -73,7 +73,7 @@
             <h3>Tutorials</h3>
             <ul>
 				<li><a href="bearmailandroid.php">Android E-mail client</a></li>
-            	<li><a href="bearmail-iPhone.php">Apple iPhone / iPod Touch Configuration</a></li>
+            	<li><a href="bearmail-iPhone.php">Apple iPhone / iPod Touch / iPad Configuration</a></li>
                 <li><a href="bearmailApple.php">Apple Mail Configuration</a></li>
                 <li><a href="bearmailBlackBerry.php">BlackBerry Configuration</a></li>
                 <li><a href="bearmailEntourage.php">Microsoft Entourage 2008</a></li>

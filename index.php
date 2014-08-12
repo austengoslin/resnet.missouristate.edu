@@ -150,14 +150,14 @@ if($mobile==true){
         </div>
 		<div>
 			<h3 class="textHeader">Office Hours</h3>
-			<p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, MO campus.</p>
+			<p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
 			<p class="post-meta">Monday: 8am - 5pm</p>
 			<p class="post-meta">Tuesday: 8am - 5pm</p>
 			<p class="post-meta">Wednesday: 8am - 5pm</p>
 			<p class="post-meta">Thursday: 8am - 5pm</p>
 			<p class="post-meta">Friday: 8am - 5pm</p>
-			<!--<p class="post-meta">Saturday: 12pm - 4pm</p>
-			<p class="post-meta">Sunday: 12pm - 4pm</p>-->
+			<p class="post-meta">Saturday: 12pm - 4pm</p>
+			<p class="post-meta">Sunday: 12pm - 4pm</p>
 			<br />
 			<p class="post-meta">ResNet is open from 10am-6pm on the Saturday and Sunday preceding the beginning of the Fall and Spring semsters. ResNet observes all Missouri State University holidays and will be closed if university offices are closed.</p>
 			<br />

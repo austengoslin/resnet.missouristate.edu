@@ -33,20 +33,12 @@
            		
     		<div id="tutorial"> 
              <!-- start content -->		
-            <h2>Apple iPhone / iPod Touch /iPad Mail Setup</h2>
-            <h3>Jump To</h3>
-            <ul>
-            	<li><a href="#Exchange">Exchange Setup</a></li>
-                <li><a href="#IMAP">IMAP Setup</a></li>
-            </ul>
- 
-			<h3><a name="Exchange">Exchange Setup</a></h3>
+            <h2>Apple iPhone / iPod Touch /iPad Mail Setup</h2> 
+			<h3><a name="Exchange">Microsoft Exchange Setup</a></h3>
             <p class="answer">
             <strong>Note:</strong> You must have <a href="http://www.apple.com/iphone/softwareupdate/">iPhone 2.0 Software Update</a> or better to utilize Microsoft Exchange.
-            <br />
-            <a href="http://resnet.missouristate.edu/PDF/MailConfiguration/Apple-iPhone-iPod-Touch-Mail-Setup.pdf">Printer Friendly Version (PDF)</a> 
           	<br />
-            <em>Staff looking for instructions to connect to the mail server should contact ResNet.
+            <em>Staff looking for instructions to connect to the mail server should contact <a href="/contact.php">ResNet</a>.
           
             </em>
             

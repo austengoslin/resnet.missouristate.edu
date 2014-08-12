@@ -36,14 +36,12 @@
             <h2>Apple iPhone / iPod Touch /iPad Mail Setup</h2> 
 			<h3><a name="Exchange">Microsoft Exchange Setup</a></h3>
             <p class="answer">
-            <strong>Note:</strong> You must have <a href="http://www.apple.com/iphone/softwareupdate/">iPhone 2.0 Software Update</a> or better to utilize Microsoft Exchange.
-          	<br />
-            <em>Staff looking for instructions to connect to the mail server should contact <a href="/contact.php">ResNet</a>.
+            <em>Staff members looking for instructions configure BearMail should contact <a href="/contact.php">ResNet</a>.
           
             </em>
             
             <ol class="indent">
-            	<li>On your iPhone, tap <strong>Settings</strong>.</li>
+            	<li>On your iOS device, tap <strong>Settings</strong>.</li>
                     <img class="imgBorder" src="../images/Office365/office365-ipad-1.png" alt="iPhone Home Screen">
   				<li>Tap <strong>Mail, Contacts, and Calendars</strong>. <strong>Tap Add Account...</strong></li>
                     <img class="imgBorder" src="../images/Office365/office365-ipad-2.png" alt="iPhone Settings Screen">

@@ -67,8 +67,7 @@
                 <li>Tap <strong>Next</strong></li>
                     <img class="imgBorder" src="../images/Office365/office365-ipad-4.png" alt="iPhone Exchange Account Information Screen">
                     <img class="imgBorder" src="../images/Office365/office365-ipad-5.png" alt="iPhone Exchange Account Information Screen">
-                <li>Tap <strong>Save</strong> to complete the setup.
-                    <strong>Warning:</strong> If you synchronize "Contacts" or "Calendars" any information stored on these items in your phone will be overwritten by your Exchange information.</li> 
+                <li>Tap <strong>Save</strong> to complete the setup.</li> 
                     <img class="imgBorder" src="../images/Office365/office365-ipad-6.png" alt="">   
             </ol>
             <p class="indent">Congratulations, your account has been set up!</p>

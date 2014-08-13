@@ -52,7 +52,7 @@
                     	<li>Email: <strong>BearPass Login@live.missouristate.edu</strong></li>
                         <li>Server: <strong>You can enter outlook.office 365.com, m.outlook.com, or pod51000.outlook.com into this field.</strong></li>
                         <li>User Name: <strong>BearPass Login@live.missouristate.edu</strong></li>
-                        <li>Password: <strong>Your Office 365 password. If you don't know your Office 365 password, you can change it by going to <a href="cams.missouristate.edu">cams.missouristate.edu</a></strong></li>
+                        <li>Password: <strong>Your Office 365 password. If you don't know your Office 365 password, you can change it by going to <a href="http://cams.missouristate.edu">cams.missouristate.edu</a></strong></li>
                     </ul> 
                 <li>Tap <strong>Next</strong></li>
                     <img class="imgBorder" src="../images/Office365/office365-ipad-4.png" alt="iPhone Exchange Account Information Screen">

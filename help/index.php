@@ -54,17 +54,17 @@
                     <a class="first-link" href=""><img src="../images/tutorials/windowsLogo.png" alt="Windows" width="75" height="75" /><br />
                    Windows
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../wireless/resnet40-Win8.php">
+                        WiFi
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/printerSetup.php#WIN8PRINT">
+                        Printers
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/findMACid.php#VISTA">
+                        Finding Your MAC Address
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/bearmailWindowsLiveMail.php">
+                        Windows Live Mail
                     </a>
                 </div>
                 <div class="slide-btn">
@@ -88,96 +88,97 @@
                     <a class="first-link" href=""><img src="../images/tutorials/appleLogo.png" alt="Apple" width="75" height="75" /><br />
                    Apple
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <!-- <a class="second-link" href="">
+                        WiFi
+                    </a> -->
+                    <a class="second-link" href="../help/printerSetup.php#LIONPRINT">
+                        Printers
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/findMACid.php#OSX">
+                        Finding Your MAC Address
                     </a>
-                    <a class="second-link" href="">
-                        Demo
-                    </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/bearmailApple.php">
+                        Configuring Apple Mail
                     </a>
                 </div>
                 <div class="slide-btn">
                     <a class="first-link" href=""><img src="../images/tutorials/emailIcon.png" alt="Mail" width="75" height="75" /><br />
                    Mail
                     </a>
-                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmailandroid.php">
+                    <a class="second-link" href="../help/bearmailandroid.php">
                         Android
                     </a>
-                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmail-iPhone.php">
+                    <a class="second-link" href="../help/bearmail-iPhone.php">
                         iOS
                     </a>
-                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmailApple.php">
+                    <a class="second-link" href="../help/bearmailApple.php">
                         Apple Mail
                     </a>
-                    <a class="second-link" href="http://resnet.missouristate.edu/help/bearmailOutlook2007-10.php">
+                    <a class="second-link" href="../help/bearmailOutlook2007-10.php">
                         Outlook
                     </a>
-                    <a class="second-link" href="http://resnet.missouristate.edu/help/mailClient.php">
+                    <a class="second-link" href="../help/mailClient.php">
                         Additional Email Tutorials
-                    </a>
-                </div>
-                <div class="slide-btn">
-                    <a class="first-link" href=""><img src="../images/tutorials/linuxLogo.png" alt="Linux" width="75" height="75" /><br />
-                   Linux
-                    </a>
-                    <a class="second-link" href="">
-                        Demo
-                    </a>
-                    <a class="second-link" href="">
-                        Demo
-                    </a>
-                    <a class="second-link" href="">
-                        Demo
-                    </a>
-                    <a class="second-link" href="">
-                        Demo
-                    </a>
-                </div>
-                <div class="slide-btn">
-                    <a class="first-link" href=""><img src="../images/tutorials/consoleIcon.png" alt="Entertainment & Media" width="75" height="75" /><br />
-                   Entertainment & Media
-                    </a>
-                    <a class="second-link" href="">
-                        Xbox One
-                    </a>
-                    <a class="second-link" href="">
-                        PlayStation 4
-                    </a>
-                    <a class="second-link" href="">
-                        AppleTV
-                    </a>
-                    <a class="second-link" href="">
-                        Other Consoles
-                    </a>
-                    <a class="second-link" href="">
-                        Other Media Streaming Devices
                     </a>
                 </div>
                 <div class="slide-btn">
                     <a class="first-link" href=""><img src="../images/tutorials/mobileIcon.png" alt="Mobile" width="75" height="75" /><br />
                    Mobile
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../wireless/android.php">
+                        Android WiFi
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../wireless/resnet40-iphone.php">
+                        iOS WiFi
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/bearmailandroid.php">
+                        Android Email
                     </a>
-                    <a class="second-link" href="">
-                        Demo
+                    <a class="second-link" href="../help/bearmail-iPhone.php">
+                        iOS Email
                     </a>
                 </div>
-            </div>
-
-
+                <div class="slide-btn">
+                    <a class="first-link" href=""><img src="../images/tutorials/consoleIcon.png" alt="Entertainment & Media" width="75" height="75" /><br />
+                   Entertainment & Media
+                    </a>
+                    <a class="second-link" href="../help/consoles-xbox360.php">
+                        Xbox 360
+                    </a>
+                    <a class="second-link" href="../help/consoles-ps3.php">
+                        PlayStation 3
+                    </a>
+                    <!-- <a class="second-link" href="">
+                        Xbox One
+                    </a>
+                    <a class="second-link" href="">
+                        PlayStation 4
+                    </a> -->
+                    <a class="second-link" href="../help/other-appletv.php">
+                        AppleTV
+                    </a>
+                    <a class="second-link" href="../help/consoles.php">
+                        Other Consoles
+                    </a>
+                    <!-- <a class="second-link" href="">
+                        Other Media Streaming Devices
+                    </a> -->
+                </div>
+                <div class="slide-btn">
+                    <a class="first-link" href=""><img src="../images/tutorials/gears.png" alt="Other" width="75" height="75" /><br />
+                   Other
+                    </a>
+                    <a class="second-link" href="../help/printerSetup.php#UBUNTUPRINT">
+                        Linux Printers
+                    </a>
+                    <a class="second-link" href="../help/recom.php">
+                        Computer Recommendations
+                    </a>
+                    <a class="second-link" href="../help/netShares.php">
+                        Connect To Network Shares
+                    </a>
+                </div>
+                </div>
             <?php include_once("../includes/footer.inc.php") ?>
         </div>
 

@@ -153,8 +153,8 @@
                     <p class="post-meta">Wednesday: 8am - 5pm</p>
                     <p class="post-meta">Thursday: 8am - 5pm</p>
                     <p class="post-meta">Friday: 8am - 5pm</p>
-                    <p class="post-meta">Saturday: 12pm - 4pm</p>
-                    <p class="post-meta">Sunday: 12pm - 4pm</p>
+                    <p class="post-meta" id="satHours">Saturday: 12pm - 4pm</p>
+                    <p class="post-meta" id="sunHours">Sunday: 12pm - 4pm</p>
                     <br />
                     <p class="post-meta">ResNet is open from 10am-6pm on the Saturday and Sunday preceding the beginning of the Fall and Spring semsters. ResNet observes all Missouri State University holidays and will be closed if university offices are closed.</p>
                     <br />

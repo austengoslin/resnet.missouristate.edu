@@ -56,12 +56,11 @@
                 <img class="imgBorder" src="../images/consoles/consoles-ps3-03.png" alt="consoles-ps3-03">
                 <li>Your MAC Address will be the first item listed.</li>
                 <img class="imgBorder" src="../images/consoles/consoles-ps3-04.png" alt="consoles-ps3-04">
-              
+                <li>Now that you have found your MAC address, you can now <a href="consoles.php">register your console.</a></li>             
             </ol>
           		<p class="answer">
                 	If you have any difficulties with this tutorial, please feel free to 
-                	<a href="../contact.php" title="contact us">contact</a> either the ResNet Offices (417 836-6100) 
-                	or the open access computer labs (417 836-5891 option #4) for assistance.
+                	<a href="../contact.php" title="contact us">contact</a> the ResNet Offices at 417-836-6100 or email us at resnet@missouristate.edu.
            	  </p>
             
             </div>

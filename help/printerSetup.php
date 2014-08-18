@@ -331,7 +331,7 @@
                 
                   <li>
                         <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers from <a href="../images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
-						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="../images/HP-LaserJet-600-M601-M602-M603_v11.0.0.dmg">here</a>.<br />
+						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="../images/HP-LaserJet-600-M601-M602-M603_v12.28.0.dmg">here</a>.<br />
 		(Please only click on the link once and wait for the download to finish.)</li>
 <img class="imgBorder" src="../images/Picture%201.png" width="575" alt="">
                     <li>
@@ -449,7 +449,7 @@
                                 
 					<li>
                         <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers from <a href="../images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
-						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="../images/HP-LaserJet-600-M601-M602-M603_v11.0.0.dmg">here</a>.<br />
+						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="../images/HP-LaserJet-600-M601-M602-M603_v12.28.0.dmg">here</a>.<br />
 					(Please only click on the link once and wait for the download to finish.)</li>
 					<img class="imgBorder" src="../images/Picture%201.png" width="575" alt="">
                     <li>

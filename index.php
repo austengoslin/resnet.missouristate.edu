@@ -80,7 +80,7 @@
                     <div class="entry">
                         <p class="paragraph">
 						Freddy has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
-						ResPrint. For more information, please click <a href="http://resnet/help/printerSetup.php">here</a>.
+						ResPrint. For more information, please click <a href="./help/printerSetup.php">here</a>.
                         </p>
                     </div>
                 </div>

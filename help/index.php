@@ -33,19 +33,19 @@
                     <a class="first-link" href=""><img src="../images/tutorials/printerIcon.png" alt="Printers" width="75" height="75" /><br />
                    Printers
                     </a>
-                    <a class="second-link" href="../help/printerSetup.php#WINVISTA7PRINT">
+                    <a class="second-link" href="../help/printerSetupWin7.php">
                         Windows 7
                     </a>
-                    <a class="second-link" href="../help/printerSetup.php#WIN8PRINT">
+                    <a class="second-link" href="../help/printerSetupWin8.php">
                         Windows 8 and 8.1
                     </a>
-                    <a class="second-link" href="../help/printerSetup.php#LEOPARDPRINT">
+                    <a class="second-link" href="../help/printerSetupMacLegacy.php">
                         Mac OS X (10.5, 10.6)
                     </a>
-                    <a class="second-link" href="../help/printerSetup.php#LIONPRINT">
+                    <a class="second-link" href="../help/printerSetupMacModern.php">
                         Mac OS X (10.7, 10.8, 10.9)
                     </a>
-                    <a class="second-link" href="../help/printerSetup.php#UBUNTUPRINT">
+                    <a class="second-link" href="../help/printerSetupUbuntu.php">
                         Ubuntu
                     </a>
                 </div>

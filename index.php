@@ -159,16 +159,13 @@
                     <p class="post-meta">ResNet is open from 10am-6pm on the Saturday and Sunday preceding the beginning of the Fall and Spring semsters. ResNet observes all Missouri State University holidays and will be closed if university offices are closed.</p>
                     <br />
                 </div>
-
                 <h3 class="textHeader">Free Anti-Virus</h3>
                 <p>
-                    <a href="http://www.iantivirus.com/"><img name="iantiviruslogo" src="images/iantivirus-logo.png" width="275" height="68" border="0" id="iantiviruslogo" alt="Anti-Virus for Mac" /></a><a href="http://www.microsoft.com/security_essentials/"><img name="microsoftsecurityessentials" src="images/microsoft-security-essentials.png" width="275" height="70" border="0" id="microsoftsecurityessentials" alt="Anti-Virus for Windows" /></a></p>
-
+                    <a href="http://www.iantivirus.com/"><img id="iantiviruslogo" src="images/iantivirus-logo.png" width="275" height="68" alt="Anti-Virus for Mac" /></a>
+                    <a href="http://www.microsoft.com/security_essentials/"><img id="microsoftsecurityessentials" src="images/microsoft-security-essentials.png" width="275" height="70" alt="Anti-Virus for Windows" /></a>
+                </p>
             </div>
-
             <?php include_once("includes/footer.inc.php"); ?>
         </div>
-
-
     </body>
 </html>

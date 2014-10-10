@@ -73,12 +73,12 @@
             <h3>Tutorials</h3>
             <ul>
 				<li><a href="bearmailandroid.php">Android E-mail client</a></li>
-            	<li><a href="bearmail-iPhone.php">Apple iPhone / iPod Touch Configuration</a></li>
+            	<li><a href="bearmail-iPhone.php">Apple iPhone / iPod Touch / iPad Configuration</a></li>
                 <li><a href="bearmailApple.php">Apple Mail Configuration</a></li>
                 <li><a href="bearmailBlackBerry.php">BlackBerry Configuration</a></li>
                 <li><a href="bearmailEntourage.php">Microsoft Entourage 2008</a></li>
                 <li><a href="bearmailOutlook.php">Microsoft Outlook 2003 Configuration</a></li>
-                <li><a href="bearmailOutlook2007-10.php">Microsoft Outlook 2007 and 2010 Configuration</a></li>
+                <li><a href="bearmailOutlook2007-10.php">Microsoft Outlook 2007, 2010 and 2013 Configuration</a></li>
                 <li><a href="bearmailThunder.php">Mozilla Thunderbird Configuration</a></li>
                 <li><a href="bearmailOperaMail.php">Opera Mail Configuration</a></li>
                 <li><a href="bearmailWindowsLiveMail.php">Windows Live Mail</a></li>

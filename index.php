@@ -46,6 +46,22 @@
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">ResPrint has been Reset</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> August 12, 2014</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this 
+                            by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
                     <h4 class="title">Freddy has a New Front Desk Printer!</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
@@ -91,21 +107,6 @@
                     </div>
                 </div>
                 <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/mobo.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Interested in Working for ResNet? Sign up for Employment Notifications!</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> September 4, 2013</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-				Each year we hire student workers to join the ResNet team. We currently aren't hiring, but we will be hiring sometime this school year. We have three different student positions. You can find more information about them <a href="http://resnet.missouristate.edu/employment.php">here</a>. If you want to be notified when the application period opens, please email <a href="mailto:resnet@missouristate.edu" target="_top">ResNet@MissouriState.edu</a> and specify which position you are interested in and please specify your first name, last name, and an email address you wish to be reached at. We will send you an email when the application for your desired position opens.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
             </div>
 
             <div id="rightColumn">
@@ -136,7 +137,7 @@
                 </div>
                 <div>
                     <h3 class="textHeader">Office Hours</h3>
-                    <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, MO campus.</p>
+                    <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
                     <p class="post-meta">Monday: 8am - 5pm</p>
                     <p class="post-meta">Tuesday: 8am - 5pm</p>
                     <p class="post-meta">Wednesday: 8am - 5pm</p>

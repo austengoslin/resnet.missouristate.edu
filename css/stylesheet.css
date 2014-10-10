@@ -489,10 +489,11 @@ a.second-link {
 }
 
 .imgBorder {
-    border: 1px solid #f0f0f0;
-    padding: 5px;
-    margin: 10px;
-    float: none;
+	border:1px solid #f0f0f0;
+    padding:5px;
+	margin:10px;
+	float:none;
+    max-width: 600px;
 }
 
 .imgBorderFloatLeft {

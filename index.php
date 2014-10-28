@@ -43,6 +43,23 @@
             </div>
 
             <div id="leftColumn">
+                 <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> October 28, 2014</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+						    There is an issue with printing from Mac computers running OSX 10.10 Yosemite to front desk printers, excluding the Freddy and Wells front desk printers.
+                            We are aware of the situation and are attempting to find a solution. According to Apple and HP, the manufacturer of our printers, there aren't any print drivers
+                            for OS 10.10 Yosemite for these printers at this time. We are investigating alternate solutions and will update this post accordingly. We apologize for any inconvenience this may have caused.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />

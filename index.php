@@ -43,6 +43,22 @@
             </div>
 
             <div id="leftColumn">
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite Resolved!</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> November 4, 2014</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
+                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/printerSetupMacYosemite.php">here</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
                  <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />

@@ -1,37 +1,60 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<link rel="stylesheet" href="css/reset.css" type="text/css" />
-<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-<link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <link rel="stylesheet" href="css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="css/contact.css" type="text/css" />
+        <title>ResNet :: Contact Us</title>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-2196753-3', 'missouristate.edu');
+            ga('send', 'pageview');
+            
+        </script>
+    </head>
 
-  ga('create', 'UA-2196753-3', 'missouristate.edu');
-  ga('send', 'pageview');
+    <body>
+        <?php include_once("includes/navBar_primary.inc.php"); ?>
+        <div id="wrapper">
+            <?php include_once("includes/header_primary.inc.php"); ?>
 
-</script>
-
-<title>Resnet :: Email Us</title>
-</head>
-
-<body>
-	<?php include_once("includes/navBar_primary.inc.php"); ?>
-		
-	<div id = "wrapper">
-	<?php include_once("includes/header.inc.php"); ?>
-		<div id="content">
+            <div class="contactheader">Contact Us</div>
+            <div class="contactcontent">
+            You can contact us through phone, walk-ins, or via email. 
+            We apologize ahead of time since we are unable to quickly respond during our out of office hours.
+            Feel free to send emails and leave voicemails and we will get
+            back to you as soon as possible. For students we return calls after
+            10 AM.
+            </div>
+            <div class="contactheader2">Office Hours</div>
+            <div class="contactcontent2">
+            ResNet is Located in the basement of Hutchens House at<br/>
+            Missouri State University's Springfield Campus.<br/>
+            Phone: <u>(417)-836-6100</u><br/><br/>
+            <table class="center">
+            <tr><th>MONDAY</th><th>:</th><th> 8AM - 5PM</th></tr>
+            <tr><th>TUESDAY</th><th>:</th><th> 8AM - 5PM</th></tr>
+            <tr><th>WEDNESDAY</th><th>:</th><th> 8AM - 5PM</th></tr>
+            <tr><th>THURSDAY</th><th>:</th><th> 8AM - 5PM</th></tr>
+            <tr><th>FRIDAY</th><th>:</th><th> 8AM - 5PM</th></tr>
+            <tr><th>SATURDAY</th><th>:</th><th> 12PM - 4PM</th></tr>
+            <tr><th>SUNDAY</th><th>:</th><th> 12PM - 4PM</th></tr>
+            </table>
+            <br/>
+            Resnet is open from 10AM-6PM on the Saturday and Sunday preceding the begining <br/>
+            of the Fall and Spring Semesters. ResNet observes all Missouri State University Holidays<br/>
+            and will be closed if university offices are closed.
+            </div>
+            <div class="contactheader2">Email Us</div><br/>
+            <div id="content">
 			<!-- Content -->
-        
-        
-
-        <div id="fullWidth">
+            <div id="fullWidth">
 	
             <?php
 
@@ -297,12 +320,8 @@ if(isset($_POST['submit'])) {
           
 		</div>
      </div>
-       
-          <!-- End Content -->
-	<?php include_once("includes/footer.inc.php") ?>
-    </div>
 
-
-
-</body>
+            <?php include_once("includes/footer.inc.php"); ?>
+        </div>
+    </body>
 </html>

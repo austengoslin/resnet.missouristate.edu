@@ -33,7 +33,7 @@
             10 AM.
             </div>
             <div class="contactheader2">Office Hours</div>
-            <div class="contactcontent2">
+            <div class="contactcontent">
             ResNet is Located in the basement of Hutchens House at<br/>
             Missouri State University's Springfield Campus.<br/>
             Phone: <u>(417)-836-6100</u><br/><br/>
@@ -47,8 +47,8 @@
             <tr><th>SUNDAY</th><th>:</th><th> 12PM - 4PM</th></tr>
             </table>
             <br/>
-            Resnet is open from 10AM-6PM on the Saturday and Sunday preceding the begining <br/>
-            of the Fall and Spring Semesters. ResNet observes all Missouri State University Holidays<br/>
+            Resnet is open from 10AM-6PM on the Saturday and Sunday preceding the begining
+            of the Fall and Spring Semesters. ResNet observes all Missouri State University Holidays
             and will be closed if university offices are closed.
             </div>
             <div class="contactheader2">Email Us</div><br/>

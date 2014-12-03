@@ -28,13 +28,13 @@
             <?php include_once("includes/header_primary.inc.php"); ?>
             <div id="homeCopy"></div>
 
-            
+
             <div class="homeTutorialWrapper">
                 <div class="Welcome">
                     <h1>Welcome to ResNet!</h1>
                     <br />
                     <p>
-                        ResNet is the technology hub for residents who live on campus at Missouri State University's Springfield, Missouri campus. All of our services are free to all current 
+                        ResNet is the technology hub for residents who live on campus at Missouri State University's Springfield, Missouri campus. All of our services are free to all current
                         residents who live on the Springfield campus. Our services include, but are not limited to:
                     </p>
 
@@ -49,28 +49,27 @@
                         If you are having issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any that we can.
                     </p>
                     <p>- Seth Thoenen, ResNet Administrator</p>
-                    
+
                 </div>
                 <div class="hr"></div>
-                <!--
-                <div class="left1">
-
+                                    <!--
+                                                                            <div class="left1">
                     
-                    <h2>ResNet Video Tutorials</h2>
-                    <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
-                        <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
-                        <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
-                        
-                </div>
-                <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
-                <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
-                <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
-                -->
-
+                    
+                                                                                <h2>ResNet Video Tutorials</h2>
+                                                                                <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
+                                                                                    <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                                    <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
+                                                                                    <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                                    <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
+                    
+                                                                            </div>
+                                                                            <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
+                                                                            <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
+                                                                            <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
+                                                                            -->
             </div>
-            
+
 
             <div id="leftColumn">
                 <!-- Post Starts -->
@@ -89,7 +88,7 @@
                     </div>
                 </div>
                 <!-- /.post -->
-                 <!-- Post Starts -->
+                <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
                     <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite</h4>
@@ -116,7 +115,7 @@
 
                     <div class="entry">
                         <p class="paragraph">
-						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this 
+						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this
                             by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
                         </p>
                     </div>
@@ -173,27 +172,6 @@
             </div>
 
             <div id="rightColumn">
-
-                <h3 class="textHeader">Internet Speedtest</h3>
-                <!-- BEGIN SPEED TEST - DO NOT ALTER BELOW-->
-                <script type="text/javascript" src="speedtest/swfobject.js?v=2.2"></script>
-                <div id="mini-demo">
-     		Speedtest.net Mini requires at least version 8 of Flash. Please <a href="http://get.adobe.com/flashplayer/">update your client</a>.
-                </div><!--/mini-demo-->
-                <script type="text/javascript">
-                    var flashvars = {
-                        upload_extension: "php"
-                    };
-                    var params = {
-                        wmode: "transparent",
-                        quality: "high",
-                        menu: "false",
-                        allowScriptAccess: "always"
-                    };
-                    var attributes = {};
-                    swfobject.embedSWF("speedtest.swf?v=2.1.8", "mini-demo", "280", "150", "9.0.0", "speedtest/expressInstall.swf", flashvars, params, attributes);
-                </script>
-                <!-- END SPEED TEST - DO NOT ALTER ABOVE -->
                 <div class="contactButton">
                     <a href="contact.php"><img class="aligncenter" src="images/contactUsButtonText.png" alt="Contact Us" /></a>
                     <p class="post-meta">(417) 836-6100  |  <a href="/contact.php" title="contact us">resnet@missouristate.edu</a></p>

@@ -20,7 +20,7 @@
             
         </script>
     </head>
-
+    git 
     <body>
         <?php include_once("includes/navBar_primary.inc.php"); ?>
 
@@ -31,8 +31,6 @@
             
             <div class="homeTutorialWrapper">
                 <div class="Welcome">
-                    <h1>Welcome to ResNet!</h1>
-                    <br />
                     <p>
                         ResNet is the technology hub for residents who live on campus at Missouri State University's Springfield, Missouri campus. All of our services are free to all current 
                         residents who live on the Springfield campus. Our services include, but are not limited to:

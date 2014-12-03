@@ -28,21 +28,67 @@
             <?php include_once("includes/header_primary.inc.php"); ?>
             <div id="homeCopy"></div>
 
+            
             <div class="homeTutorialWrapper">
+                <div class="Welcome">
+                    <h1>Welcome to ResNet!</h1>
+                    <br />
+                    <p>
+                        ResNet is the technology hub for residents who live on campus at Missouri State University's Springfield, Missouri campus. All of our services are free to all current 
+                        residents who live on the Springfield campus. Our services include, but are not limited to:
+                    </p>
+
+                    <ul class="paragraph">
+                        <li>Computer hardware and software troubleshooting. Virus removal, operating system installations, hard drive diagnostics, etc.</li>
+                        <li>Printing support for printers located at residence hall front desks as well as personal printers.</li>
+                        <li>Support for connecting to the University's network; both wireless and in-room wired connections.</li>
+                        <li>Support for connecting game consoles, Smart TVs and media streaming devices to the University's network.</li>
+                        <li>And much <a href="/help/">more</a>.</li>
+                    </ul>
+                    <p>
+                        If you are having issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any that we can.
+                    </p>
+                    <p>- Seth Thoenen, ResNet Administrator</p>
+                    
+                </div>
+                <div class="hr"></div>
+                <!--
                 <div class="left1">
+
+                    
                     <h2>ResNet Video Tutorials</h2>
                     <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
                         <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
                         <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
+                        
                 </div>
                 <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
                 <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
                 <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
+                -->
+
             </div>
+            
 
             <div id="leftColumn">
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite Resolved!</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> November 4, 2014</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
+                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/printerSetupMacYosemite.php">here</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
                  <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />

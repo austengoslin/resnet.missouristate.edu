@@ -32,42 +32,47 @@
                 <img src="\images\banner.jpg" />
             </div>
             <div class="homeTutorialWrapper">
-                <div class="Welcome">
-                    <p>
-                        ResNet is the technology hub for residents who live on campus at Missouri State University's Springfield, Missouri campus. All of our services are free to all current
-                        residents who live on the Springfield campus. Our services include, but are not limited to:
-                    </p>
-
-                    <ul class="paragraph">
-                        <li>Computer hardware and software troubleshooting. Virus removal, operating system installations, hard drive diagnostics, etc.</li>
-                        <li>Printing support for printers located at residence hall front desks as well as personal printers.</li>
-                        <li>Support for connecting to the University's network; both wireless and in-room wired connections.</li>
-                        <li>Support for connecting game consoles, Smart TVs and media streaming devices to the University's network.</li>
-                        <li>And much <a href="/help/">more</a>.</li>
-                    </ul>
-                    <p>
-                        If you are having issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any that we can.
-                    </p>
-                    <p>- Seth Thoenen, ResNet Administrator</p>
+                <div class="Welcome" style="height: 210px;">
+                    <div style="float: right;width: 500px;">
+                        <ul class="paragraph">
+                            <li>Computer hardware and software troubleshooting </li>
+                            <li>Virus removal, hard drive diagnostics, etc.</li>
+                            <li>Printing support</li>
+                            <li>Support for connecting to the University's network</li>
+                            <li>Support for game consoles, Smart TVs and media streaming devices</li>
+                            <li>And much <a href="/help/">more</a>.</li>
+                        </ul>
+                    </div>
+                    <div style="float: left;width: 400px; line-height: 30px; padding:  10px;">
+                        ResNet is the technology hub for students who live on campus at Missouri State University in 
+                        Springfield.  All of our services are free of charge to on-campus residents. If you are having 
+                        issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any that we can.
+                        <br />
+                        -Seth Thoenen, ResNet Administrator
+                    </div>                    
+                    <div>
+                        
+                    </div>
+                    
 
                 </div>
                 <div class="hr"></div>
-                                    <!--
-                                                                            <div class="left1">
+                <!--
+                <div class="left1">
                     
                     
-                                                                                <h2>ResNet Video Tutorials</h2>
-                                                                                <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
-                                                                                    <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                                    <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
-                                                                                    <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                                    <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
+                    <h2>ResNet Video Tutorials</h2>
+                    <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
+                        <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
+                        <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
                     
-                                                                            </div>
-                                                                            <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
-                                                                            <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
-                                                                            <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
-                                                                            -->
+                </div>
+                <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
+                <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
+                <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
+                -->
             </div>
 
 

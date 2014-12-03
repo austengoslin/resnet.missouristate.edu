@@ -26,9 +26,11 @@
 
         <div id="wrapper">
             <?php include_once("includes/header_primary.inc.php"); ?>
-            <div id="homeCopy"></div>
+            <!-- <div id="homeCopy"></div> -->
 
-
+            <div class="banner">
+                <img src="\images\banner.jpg" />
+            </div>
             <div class="homeTutorialWrapper">
                 <div class="Welcome">
                     <p>

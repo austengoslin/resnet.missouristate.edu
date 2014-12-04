@@ -2,19 +2,12 @@
 <script src="js/cufon-yui.js" type="text/javascript"></script>
 <script src="js/Museo_Sans_500_400.font.js" type="text/javascript" ></script>
 
-		<script type="text/javascript">
-			Cufon.replace('.h2'); 
-			Cufon.replace('.h1');
-			
-		</script>
-
-
 <!DOCTYPE html>
 <html>
 	<head>
     	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
 
-		<title>Resnet - Mobile Version</title>
+		<title>Resnet Mobile</title>
 		<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
 
 		<script>
@@ -32,19 +25,16 @@
 	<body>
 		<div id="wrapper">
 			<div id="header">
-			<div class="logo" id="logo"><img src="images/logo.png" alt="ResNet"></div>
+			<img src="images/logo.png" alt="ResNet"/>
 			</div>
             
-            
-            <div id="navBar">
-            
-          <ul class="navigation">
-            	<li><span class="navText"> <a href="index.php" title="Home">Home</a></span></li> 
-				<li> <span class="navText"> <a href="tutorials.php" title="Tutorials">Tutorials</a></span></li>
-                <li> <span class="navText"> <a href="contact.php" title="Contact">Contact</a></span></li>  
+          <div id="nav">
+            <ul>
+            	<a href="index.php" title="Home"><li>Home</li></a>
+				<a href="tutorials.php" title="Tutorials"><li>Tutorials</li></a>
+                <a href="contact.php" title="Contact"><li class="selected">Contact</li></a>  
             </ul>
-            
-            </div>
+          </div>
             
             
             <div id="content">
@@ -67,13 +57,8 @@
                 Saturday - Sunday, 12PM - 4PM</p>
                 <h2>How To Find Us On Campus</h2>
                 <p> ResNet is located in the west hallway on the lower level of Hutchens House, across from the kitchen. </p>
-              
-			 
-		  </div>
-		
-		</div>
-        	<div id="footer">
-			<p>&copy; Copyright 2014 - Resnet | ResLife</p>
-			</div>
+          </div>
+
+       </div>
 	</body>
 </html>

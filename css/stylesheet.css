@@ -39,9 +39,28 @@ body {
     width: 960px;
     padding-top: 4px;
     padding-bottom: 0px;
-    background-image: url(../images/tutorials/tutorialWrapperBackground.png);
+    
+}
+
+.hr {
+    background-image: url(../images/tutorials/tutorialWrapperBackground-small.png);
     background-repeat: repeat-x;
-    height: 116px;
+    width: 960px;
+    height: 11px;
+}
+
+.Welcome{
+    padding:  8px;
+    margin-bottom:  1.2em;
+    line-height:  24px;
+    font-family: helvetica;
+}
+
+.Welcome ul {
+    list-style: circle;
+    padding-left: 25px;
+    padding-top: 5px;
+    line-height: 30px;
 }
 
 .post {

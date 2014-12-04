@@ -32,6 +32,7 @@ if ($iphone || $android || $palmpre || $ipod || $berry == true)
             
         </script>
     </head>
+    git 
     <body>
         <?php include_once("includes/navBar_primary.inc.php"); ?>
         

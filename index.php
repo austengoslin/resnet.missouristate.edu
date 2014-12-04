@@ -7,7 +7,7 @@ $ipod = strpos($_SERVER['HTTP_USER_AGENT'],"iPod");
 
 if ($iphone || $android || $palmpre || $ipod || $berry == true) 
 {
-    header("Location: http://localhost:41009/mobile/tutorials.php");
+    header("Location: /mobile/tutorials.php");
  }
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

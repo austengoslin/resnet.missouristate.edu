@@ -61,7 +61,7 @@ li.selected {
 #content ol {
     padding: 0;
     margin: .75em;
-    margin-right: .1em;
+    margin-left: 4em;
 }
 
 #content p, ol li {
@@ -72,6 +72,6 @@ li.selected {
 }
 
 #content img {
-    width: 60em;
+    width: 55em;
     margin: 1em .1em 1em 0em;
 }

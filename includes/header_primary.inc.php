@@ -20,8 +20,8 @@
             <div id = "navigation">
 				<ol>
 					<li><span class="navText"><a href = "/help/" tabindex="8" accesskey="t">Tutorials</a></span></li>
-					<li><span class="navText"><a href = "/info/" tabindex="9" accesskey="u">Useful Information</a></span></li>
-					<li><span class="navText"><a href = "/downloads.php" tabindex="10" accesskey="d">Downloads</a></span></li>
+					<li><span class="navText"><a href = "/about.php" tabindex="9" accesskey="u">About</a></span></li>
+					<li><span class="navText"><a href = "/contact.php" tabindex="10" accesskey="d">Contact</a></span></li>
 				</ol>
 				
 			</div>

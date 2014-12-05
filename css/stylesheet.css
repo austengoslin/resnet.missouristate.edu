@@ -762,7 +762,7 @@ text-indent: 1.6em;
 
 /* This is the layout setup for a single column layout */
 #fullWidth {
-    width: 960px;
+    width: 660px;
     float: left;
     padding-left: 0px;
     padding-right: 0px;

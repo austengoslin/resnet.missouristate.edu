@@ -3,9 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<link rel="stylesheet" href="css/reset.css" type="text/css" />
-<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-<link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
 <title>Resnet :: Acceptable Use Policy</title>
 
 <script>
@@ -19,13 +19,17 @@
 
 </script>
 
+<?php
+    $path = $_SERVER['DOCUMENT_ROOT'];
+?>
+
 </head>
 
 <body>
-	<?php include_once("includes/navBar_primary.inc.php"); ?>
+	<?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
 		
 	<div id = "wrapper">
-	<?php include_once("includes/header_primary.inc.php"); ?>
+	<?php include_once($path . "/includes/header_primary.inc.php"); ?>
 
 		<!-- Content -->
 		  <div id = "Main">
@@ -39,9 +43,9 @@
 
          	
 	<div id="LeftNav">
-        <?php include_once("includes/LeftNav.php"); ?>
+        <?php include_once($path . "/includes/LeftNav.php"); ?>
      </div>
-	<?php include_once("includes/footer.inc.php") ?>
+	<?php include_once($path . "/includes/footer.inc.php") ?>
     </div>
 
 

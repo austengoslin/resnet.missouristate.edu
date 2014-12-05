@@ -3,9 +3,9 @@
         <a href="/"><li>
             Home
         </li></a>
-        <li>
+        <a href="/about.php"><li>
             About
-        </li>
+        </li></a>
         <a href="/contact.php"><li>
             Contact
         </li></a>

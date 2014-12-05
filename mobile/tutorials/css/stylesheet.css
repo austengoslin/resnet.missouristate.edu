@@ -75,3 +75,18 @@ li.selected {
     width: 55em;
     margin: 1em .1em 1em 0em;
 }
+
+#footer {
+    margin-top: 1em;
+    position: relative;
+    text-align: center;
+    background: #303031;
+    color: #ccc;
+    height: 6em;
+}
+
+#footer a {
+    text-decoration: none;
+    margin: 2em;
+    font-size: 3em;
+}

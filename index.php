@@ -1,15 +1,3 @@
-<?php
-$iphone = strpos($_SERVER['HTTP_USER_AGENT'],"iPhone");
-$android = strpos($_SERVER['HTTP_USER_AGENT'],"Android");
-$palmpre = strpos($_SERVER['HTTP_USER_AGENT'],"webOS");
-$berry = strpos($_SERVER['HTTP_USER_AGENT'],"BlackBerry");
-$ipod = strpos($_SERVER['HTTP_USER_AGENT'],"iPod");
-
-if ($iphone || $android || $palmpre || $ipod || $berry == true) 
-{
-    header("Location: /mobile/index.html");
- }
-?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
@@ -30,6 +18,13 @@ if ($iphone || $android || $palmpre || $ipod || $berry == true)
             ga('create', 'UA-2196753-3', 'missouristate.edu');
             ga('send', 'pageview');
             
+        </script>
+        <script type="text/javascript">
+            if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
+                window.location = "http://resnet.missouristate.edu/mobile/index.html";
+            } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
+                window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
+            }
         </script>
     </head>
     <body>

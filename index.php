@@ -86,9 +86,25 @@ if ($iphone || $android || $palmpre || $ipod || $berry == true)
                 <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
                 -->
             </div>
+            <div id="LeftNav">
+                <?php include_once("includes/LeftNav.php"); ?>
+                <div>
+                    <h3 class="textHeader">Office Hours</h3>
+                    <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
+                    <p class="post-meta">Monday: 8am - 5pm</p>
+                    <p class="post-meta">Tuesday: 8am - 5pm</p>
+                    <p class="post-meta">Wednesday: 8am - 5pm</p>
+                    <p class="post-meta">Thursday: 8am - 5pm</p>
+                    <p class="post-meta">Friday: 8am - 5pm</p>
+                    <p class="post-meta" id="satHours">Saturday: 12pm - 4pm</p>
+                    <p class="post-meta" id="sunHours">Sunday: 12pm - 4pm</p>
+                    <br />
+                    <p class="post-meta">ResNet is open from 10am-6pm on the Saturday and Sunday preceding the beginning of the Fall and Spring semsters. ResNet observes all Missouri State University holidays and will be closed if university offices are closed.</p>
+                    <br />
+                </div>
+            </div>
 
-
-            <div id="leftColumn">
+            <div id="Main">
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
@@ -188,31 +204,6 @@ if ($iphone || $android || $palmpre || $ipod || $berry == true)
                 <!-- /.post -->
             </div>
 
-            <div id="rightColumn">
-                <div class="contactButton">
-                    <a href="contact.php"><img class="aligncenter" src="images/contactUsButtonText.png" alt="Contact Us" /></a>
-                    <p class="post-meta">(417) 836-6100  |  <a href="/contact.php" title="contact us">resnet@missouristate.edu</a></p>
-                </div>
-                <div>
-                    <h3 class="textHeader">Office Hours</h3>
-                    <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
-                    <p class="post-meta">Monday: 8am - 5pm</p>
-                    <p class="post-meta">Tuesday: 8am - 5pm</p>
-                    <p class="post-meta">Wednesday: 8am - 5pm</p>
-                    <p class="post-meta">Thursday: 8am - 5pm</p>
-                    <p class="post-meta">Friday: 8am - 5pm</p>
-                    <p class="post-meta" id="satHours">Saturday: 12pm - 4pm</p>
-                    <p class="post-meta" id="sunHours">Sunday: 12pm - 4pm</p>
-                    <br />
-                    <p class="post-meta">ResNet is open from 10am-6pm on the Saturday and Sunday preceding the beginning of the Fall and Spring semsters. ResNet observes all Missouri State University holidays and will be closed if university offices are closed.</p>
-                    <br />
-                </div>
-                <h3 class="textHeader">Free Anti-Virus</h3>
-                <p>
-                    <a href="http://www.iantivirus.com/"><img id="iantiviruslogo" src="images/iantivirus-logo.png" width="275" height="68" alt="Anti-Virus for Mac" /></a>
-                    <a href="http://www.microsoft.com/security_essentials/"><img id="microsoftsecurityessentials" src="images/microsoft-security-essentials.png" width="275" height="70" alt="Anti-Virus for Windows" /></a>
-                </p>
-            </div>
             <?php include_once("includes/footer.inc.php"); ?>
         </div>
     </body>

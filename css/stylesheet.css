@@ -31,6 +31,46 @@ body {
     top: 0px;
 }
 
+#Main {
+    width: 660px;
+    max-width: 660px;
+    float: right;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5em;
+    padding-bottom: 25px;
+}
+
+#LeftNav {
+    width: 280px;
+    float: left;
+}
+
+#Navigation {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#Navigation li {
+    background-color: #5e0009;
+    color: #FFF;
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#Navigation li:hover {
+    background-color: #660D16;
+    cursor: pointer;
+}
+
+#Navigation a {
+    text-decoration: none;
+}
 
 .homeTutorialWrapper {
     position: relative;

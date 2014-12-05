@@ -43,21 +43,22 @@ if ($iphone || $android || $palmpre || $ipod || $berry == true)
                 <img src="\images\banner.jpg" />
             </div>
             <div class="homeTutorialWrapper">
-                <div class="Welcome" style="height: 210px;">
-                    <div style="float: right;width: 500px;">
+                <div class="Welcome">
+                    <div id="Welcome-Right">
                         <ul class="paragraph">
                             <li>Computer hardware and software troubleshooting </li>
                             <li>Virus removal, hard drive diagnostics, etc.</li>
                             <li>Printing support</li>
                             <li>Support for connecting to the University's network</li>
-                            <li>Support for game consoles, Smart TVs and media streaming devices</li>
+                            <li>Support for game consoles, Smart TVs and streaming devices</li>
                             <li>And much <a href="/help/">more</a>.</li>
                         </ul>
                     </div>
-                    <div style="float: left;width: 400px; line-height: 30px; padding:  10px;">
+                    <div id="Welcome-Left">
                         ResNet is the technology hub for students who live on campus at Missouri State University in 
                         Springfield.  All of our services are free of charge to on-campus residents. If you are having 
                         issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any way that we can.
+                        <br />
                         <br />
                         -Seth Thoenen, ResNet Administrator
                     </div>                    

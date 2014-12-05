@@ -1,7 +1,6 @@
 <div id="Navigation">
     
     <ul>
-        <li style="background-color: #333">Navigation</li>
         <a href="/"><li>
             Home
         </li></a>

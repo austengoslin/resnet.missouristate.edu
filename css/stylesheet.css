@@ -54,13 +54,14 @@ body {
 }
 
 #Navigation li {
-    background-color: #36454f; /*# Maroon: 5e0009 */
-    color: #FFF;
+    background-color:  White;/* Charcoal: #36454f; */ /*# Maroon: 5e0009 */
+    color: #5e0009;
     margin: 5px;
     padding: 10px;
     font-size: 18px;
     font-family: Helvetica;
     text-align: center;
+    border-bottom: 1px solid black;
 }
 
 #Navigation li:hover {

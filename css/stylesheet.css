@@ -54,7 +54,7 @@ body {
 }
 
 #Navigation li {
-    background-color: #5e0009;
+    background-color: #36454f; /*# Maroon: 5e0009 */
     color: #FFF;
     margin: 5px;
     padding: 10px;

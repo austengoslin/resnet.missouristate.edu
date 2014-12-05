@@ -1,11 +1,11 @@
 @import url("font-awesome.css");
 @import url("font-awesome.min.css");
 body {
-    background-image: url(../images/background_no_repeat.png);
+    /*background-image: url(../images/background_no_repeat.png); */
     background-repeat: repeat-x;
-    background-color: transparent;
+    /* background-color: transparent; */
     background-position: center top;
-    background-color: #ccc;
+    /*background-color: #ccc; */
     font-family: Georgia, Platino Linotype, Serif;
 }
 

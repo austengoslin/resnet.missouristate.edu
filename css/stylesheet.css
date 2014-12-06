@@ -453,7 +453,7 @@ a.second-link {
 }
 
 .slide-btn {
-    height: 232px;
+    height: 230px;
     font: normal normal 700 1em/2em Verdana, sans-serif;
     overflow: hidden;
     width: 232px;
@@ -489,14 +489,15 @@ a.second-link {
 /*End slide button styles*/
 
 /*4 column layout*/
-.fourColumn {
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
+.threeColumn {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
     -webkit-column-gap: 10px;
     -moz-column-gap: 10px;
     column-gap: 10px;
     margin-top: 10px;
+    height: 715px;
 }
 /*End 4 column layout*/
 

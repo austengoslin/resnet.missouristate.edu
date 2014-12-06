@@ -29,13 +29,15 @@ $APPLICATIONS_ARE_OPEN = true;
 </script>
 
 </head>
-
+<?php
+    $path = $_SERVER['DOCUMENT_ROOT'];
+?>
 <body>
-	<?php include_once("../includes/navBar.inc.php"); ?>
+	<?php include_once($path . "/includes/navBar.inc.php"); ?>
 
 	<div id = "wrapper">
-	<?php include_once("../includes/header.inc.php"); ?>
-		<div id = "content">
+	<?php include_once($path . "/includes/header.inc.php"); ?>
+		<div id = "Main">
 			<!-- Content -->
 		<div id="empCopy">We <?php if ($APPLICATIONS_ARE_OPEN) { ?>are currently<?php } else { ?>have stopped<?php } ?> accepting applications for ResNet Developers, Designers, and Consultants for <?php echo date("Y") + 1; ?>.</div>
         <div id = "fullWidth">
@@ -68,9 +70,12 @@ $APPLICATIONS_ARE_OPEN = true;
 		</div>
 
           </div>
+        	<div id="LeftNav">
+        <?php include_once($path . "/includes/LeftNav.php"); ?>
+     </div>
 
           <!-- End Content -->
-	<?php include_once("../includes/footer.inc.php") ?>
+	<?php include_once($path . "/includes/footer.inc.php") ?>
     </div>
 
 

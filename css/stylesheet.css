@@ -31,6 +31,50 @@ body {
     top: 0px;
 }
 
+#Main {
+    width: 680px;
+    float: right;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5em;
+    padding-bottom: 25px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-left: 1px solid #A6A6A6;
+    min-height: 450px;
+}
+
+#LeftNav {
+    width: 255px;
+    float: left;
+}
+
+#Navigation {
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#Navigation li {
+    background-color:  #5e0009;
+    color: #fff ;
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#Navigation li:hover {
+    background-color: #660D16;
+    cursor: pointer;
+}
+
+#Navigation a {
+    text-decoration: none;
+}
 
 .homeTutorialWrapper {
     position: relative;
@@ -54,6 +98,7 @@ body {
     margin-bottom:  1.2em;
     line-height:  24px;
     font-family: helvetica;
+    height: 170px;
 }
 
 .Welcome ul {
@@ -61,6 +106,18 @@ body {
     padding-left: 25px;
     padding-top: 5px;
     line-height: 30px;
+}
+
+#Welcome-Left {
+    float: left;
+    width: 400px;
+    line-height: 25px;
+    padding:  10px;
+}
+
+#Welcome-Right {
+    float: right;
+    width: 500px;
 }
 
 .post {
@@ -396,7 +453,7 @@ a.second-link {
 }
 
 .slide-btn {
-    height: 232px;
+    height: 230px;
     font: normal normal 700 1em/2em Verdana, sans-serif;
     overflow: hidden;
     width: 232px;
@@ -432,14 +489,15 @@ a.second-link {
 /*End slide button styles*/
 
 /*4 column layout*/
-.fourColumn {
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
+.threeColumn {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
     -webkit-column-gap: 10px;
     -moz-column-gap: 10px;
     column-gap: 10px;
     margin-top: 10px;
+    height: 715px;
 }
 /*End 4 column layout*/
 
@@ -705,7 +763,7 @@ text-indent: 1.6em;
 
 /* This is the layout setup for a single column layout */
 #fullWidth {
-    width: 960px;
+    width: 660px;
     float: left;
     padding-left: 0px;
     padding-right: 0px;

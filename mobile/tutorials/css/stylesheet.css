@@ -77,16 +77,16 @@ li.selected {
 }
 
 #footer {
-    margin-top: 1em;
     position: relative;
     text-align: center;
-    background: #303031;
-    color: #ccc;
-    height: 6em;
+    text-decoration: none;
 }
 
-#footer a {
-    text-decoration: none;
-    margin: 2em;
+#footer div {
+    padding: 1em;
+    margin: 1em auto 1em auto;
+    background: #303031;
+    color: #ccc;
+    width: 50%;
     font-size: 3em;
 }

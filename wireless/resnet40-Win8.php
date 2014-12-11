@@ -39,6 +39,8 @@
             
             <p class="answer"><strong>Note:</strong> Wireless on Windows 8.1 does not supported automatic configuration on all wireless network (WLAN) cards, and some may require <a href="#MANUALLY">manual configuration</a>.
 			</p>
+
+                <iframe style="margin-left: 40px;"class="indent" width="560" height="315" src="//www.youtube.com/embed/DL9Tm4MmLhw" frameborder="0" allowfullscreen></iframe>
 			
 <ol class="indent">
 				<li>

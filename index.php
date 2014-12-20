@@ -20,10 +20,11 @@
             
         </script>
         <script type="text/javascript">
-            if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
-                window.location = "http://resnet.missouristate.edu/mobile/index.html";
-            } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
-                window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
+            var root = document.location.hostname;
+            if (window.location.href != root + "/?ref=desktop#redirected" && screen.width <= 800) {
+                window.location = root + "/mobile/index.html";
+            } else if (window.location.href == root + "/?ref=desktop#redirected") {
+                window.location = root + "/?ref=desktop#redirected";
             }
         </script>
     </head>

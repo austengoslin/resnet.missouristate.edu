@@ -29,7 +29,7 @@
 	<div id = "wrapper">
 	<?php include_once("../includes/header_primary.inc.php") ?>
 
-			<div id = "leftColumn">
+			<div id = "Main">
            	<div id="tutorial"> 
 
 <!-- start content -->		
@@ -70,8 +70,8 @@ If you have any difficulties with this tutorial, please feel free to <a href="..
 
             	
      	</div>
- 		<div id = "rightColumn">
-				<?php include_once("../includes/sidePanel_tutorials.inc.php") ?>
+ 		<div id = "LeftNav">
+				<?php include_once("../includes/LeftNav.php") ?>
 			</div>
 	<?php include_once("../includes/footer.inc.php") ?>
     </div>

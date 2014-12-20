@@ -16,7 +16,7 @@
 	<?php include_once("includes/header_primary.inc.php"); ?>
 
 			<!-- Content -->
-            <div id = "leftColumn">
+            <div id = "Main">
                         		<!--start content-->		
 <h2>Legal Alternatives to File-sharing</h2>
 <p class="norm">
@@ -149,8 +149,8 @@ It is also good to remember that the number of legal alternatives grows regularl
             
 
 	
-			<div id = "rightColumn">
-				<?php include_once("includes/sidePanel_default.inc.php") ?>
+			<div id = "LeftNav">
+				<?php include_once("includes/LeftNav.php") ?>
 			</div>
 	<?php include_once("includes/footer.inc.php") ?>
     </div>

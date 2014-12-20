@@ -15,7 +15,7 @@
 	<div id = "wrapper">
 	<?php include_once("includes/header_primary.inc.php"); ?>
 
-			<div id = "leftColumn">
+			<div id = "Main">
             <h2>Downloads</h2>
             
             <h3>Anti-Virus/Spyware Removal</h3>
@@ -71,8 +71,8 @@
             
 
 	
-			<div id = "rightColumn">
-				<?php include_once("includes/sidePanel_downloads.inc.php"); ?>
+			<div id = "LeftNav">
+				<?php include_once("includes/LeftNav.php"); ?>
 			</div>
 	<?php include_once("includes/footer.inc.php"); ?>
     </div>

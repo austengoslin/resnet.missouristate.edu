@@ -17,7 +17,7 @@
 
 		<!-- start content -->		
        
-       <div id="leftColumn">
+       <div id="Main">
         <h2>Copyright and File-Sharing Information</h2>
         
         <h3>What is File-Sharing and Why is it Bad for the Network?</h3>
@@ -61,8 +61,8 @@
             
 
 	
-			<div id = "rightColumn">
-				<?php include_once("includes/sidePanel_default.inc.php") ?>
+			<div id = "LeftNav">
+				<?php include_once("includes/LeftNav.php") ?>
 			</div>
 	<?php include_once("includes/footer.inc.php") ?>
     </div>

@@ -27,7 +27,7 @@
 	<div id = "wrapper">
 	<?php include_once("../includes/header_primary.inc.php"); ?>
 	
-			<div id = "leftColumn">
+			<div id = "Main">
              <div id="tutorial">
                 <!-- start content -->		
                 <h2>BlackBerry Email Setup</h2>
@@ -78,8 +78,8 @@
             
 
 	
-			<div id = "rightColumn">
-				<?php include_once("../includes/sidePanel_tutorials.inc.php"); ?>
+			<div id = "LeftNav">
+				<?php include_once("../includes/LeftNav.php"); ?>
 			</div>
 	<?php include_once("../includes/footer.inc.php"); ?>
     </div>

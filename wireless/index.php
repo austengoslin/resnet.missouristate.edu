@@ -33,7 +33,7 @@
         <div id="wrapper">
             <?php include_once($path . "/includes/header_primary.inc.php") ?>
 
-            <div id="leftColumn">
+            <div id="Main">
 
                 <div id="tutorial">
                     <!-- start content -->
@@ -151,8 +151,8 @@
                     <!-- end content -->
                 </div>
             </div>
-            <div id="rightColumn">
-                <?php include_once("../includes/sidePanel_useful.inc.php") ?>
+            <div id="LeftNav">
+                <?php include_once("../includes/LeftNav.php") ?>
             </div>
             <?php include_once("../includes/footer.inc.php") ?>
         </div>

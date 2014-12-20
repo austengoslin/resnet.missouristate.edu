@@ -55,7 +55,7 @@
                 <img class="imgBorder" src="../images/consoles/consoles-ps3-03.png" alt="consoles-ps3-03">
                 <li>Your MAC Address will be the first item listed.</li>
                 <img class="imgBorder" src="../images/consoles/consoles-ps3-04.png" alt="consoles-ps3-04">
-                <li>Now that you have found your MAC address, you can now <a href="consoles.php">register your console.</a></li>             
+                <li>Now that you have found your MAC address, you can now <a href="/Help/Consoles/Consoles.php">register your console.</a></li>             
             </ol>
           		<p class="answer">
                 	If you have any difficulties with this tutorial, please feel free to 

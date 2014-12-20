@@ -106,7 +106,7 @@
 
                 <p class="answer">
                             Yes. If the device has an Ethernet port, it can get Internet access.
-                            Click <a href="../help/consoles.php" title="Consoles"> here</a> for more information.
+                            Click <a href="/help/Consoles/consoles.php" title="Consoles"> here</a> for more information.
                 </p>
 
                                     <!--

@@ -175,7 +175,7 @@
                         <a class="second-link" href="../help/other-appletv.php">
                         AppleTV
                         </a>
-                        <a class="second-link" href="../help/consoles.php">
+                        <a class="second-link" href="/help/Consoles/consoles.php">
                         Other Consoles
                         </a>
                                                     <!-- <a class="second-link" href="">

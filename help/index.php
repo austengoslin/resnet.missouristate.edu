@@ -75,7 +75,7 @@
                         <a class="second-link" href="/help/findMACid.php#VISTA">
                         Finding Your MAC Address
                         </a>
-                        <a class="second-link" href="/help/bearmailWindowsLiveMail.php">
+                        <a class="second-link" href="/help/Mail/WindowsLive.php">
                         Windows Live Mail
                         </a>
                     </div>

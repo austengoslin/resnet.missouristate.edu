@@ -79,7 +79,7 @@
                         <li><a href="/help/Mail/BlackBerry.php">BlackBerry Configuration</a></li>
                         <li><a href="/Help/Mail/Outlook.php">Microsoft Outlook 2007, 2010 and 2013 Configuration</a></li>
                         <li><a href="/Help/Mail/WindowsLive.php">Windows Live Mail</a></li>
-                        <li><a href="bearmailWinPhone8.php">Windows Phone 8</a></li>
+                        <li><a href="/Help/Mail/WindowsPhone8.php">Windows Phone 8</a></li>
                     </ul>
                     <!-- end content -->
                 </div>

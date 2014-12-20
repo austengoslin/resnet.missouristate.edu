@@ -129,6 +129,9 @@
                         <a class="second-link" href="../help/Mail/Outlook.php">
                         Outlook
                         </a>
+                        <a class="second-link" href="../help/Mail/WindowsPhone8.php">
+                        Windows Phone 8 Email
+                        </a>
                         <a class="second-link" href="../help/mailClient.php">
                         Additional Email Tutorials
                         </a>
@@ -148,6 +151,9 @@
                         </a>
                         <a class="second-link" href="../help/Mail/iOS.php">
                         iOS Email
+                        </a>
+                        <a class="second-link" href="../help/Mail/WindowsPhone8.php">
+                        Windows Phone 8 Email
                         </a>
                     </div>
                     <div class="slide-btn">

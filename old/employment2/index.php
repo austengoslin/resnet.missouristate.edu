@@ -17,12 +17,15 @@ $APPLICATIONS_ARE_OPEN = true;
 <link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
 <link rel="stylesheet" href="../css/print.css" type="text/css" media="print" /><title>ResNet :: Job Opportunities</title>
 </head>
+<?php
+    $path = $_SERVER['DOCUMENT_ROOT'];
+?>
 <body>
 
-	<?php include_once("../includes/navBar.inc.php"); ?>
+	<?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
 
 	<div id = "wrapper">
-	<?php include_once("../includes/header.inc.php"); ?>
+	<?php include_once($path . "/includes/header_primary.inc.php"); ?>
 		<div id = "content">
 			<!-- Content -->
 		<div id="empCopy">We <?php if ($APPLICATIONS_ARE_OPEN) { ?>are currently<?php } else { ?>have stopped<?php } ?> accepting applications for ResNet Developers, Designers, and Consultants for <?php echo date("Y") + 1; ?>.</div>

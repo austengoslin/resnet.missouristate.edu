@@ -36,7 +36,7 @@ $APPLICATIONS_ARE_OPEN = true;
 	<?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
 
 	<div id = "wrapper">
-	<?php include_once($path . "/includes/header.inc.php"); ?>
+	<?php include_once($path . "/includes/header_primary.inc.php"); ?>
 		<div id = "Main">
 			<!-- Content -->
 		<div id="empCopy">We <?php if ($APPLICATIONS_ARE_OPEN) { ?>are currently<?php } else { ?>have stopped<?php } ?> accepting applications for ResNet Developers, Designers, and Consultants for <?php echo date("Y") + 1; ?>.</div>

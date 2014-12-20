@@ -50,12 +50,11 @@
                 
                 <h3><a href="#LEOPARDPRINT" name="LEOPARDPRINT">Setting up the front desk printer on Mac OS X 10.5 and 10.6</a></h3>
                 <p class="answer">This will guide you through the setup of the front desk printer in your residence hall on a machine running Mac OS X 10.5 or 10.6.<br />
-                <strong><a href="http://resnet.missouristate.edu/PDF/Printers/Setting-up-the-front-desk-printer-on-Mac-OS-X-10.pdf">Printer Friendly Version (PDF)</a></strong></p>
 <ol class="indent">
                 
                   <li>
                         <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers from <a href="../images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
-						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="../images/HP-LaserJet-600-M601-M602-M603_v12.28.0.dmg">here</a>.<br />
+						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers3.0.dmg">here</a>.<br />
 		(Please only click on the link once and wait for the download to finish.)</li>
 <img class="imgBorder" src="../images/Picture%201.png" width="575" alt="">
                     <li>

@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
             <!-- start content -->		
             <h2>Configuring Access 30 on Intel PROSet</h2>
-            <p class="answer"><a href="../PDF/WirelessNetworks/Access30/ConfiguringAccess30onIntelPROSet.pdf">Printer Friendly Version (PDF)</a></p>
             
             <ol>
             	<li>To start configuring your wireless, double-click the Intel PROSet/Wireless icon in the system tray.</li>

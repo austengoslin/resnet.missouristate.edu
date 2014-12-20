@@ -38,7 +38,6 @@
             <h2>Configuring ResNet 40 on Apple iPhone / iPod Touch</h2>
             <p class="answer">
            	<strong>Note:</strong> You must have <a href="http://www.apple.com/iphone/softwareupdate/">iPhone 2.0 Software Update</a> or better to connect to the wireless network.
-           	<a href="../PDF/WirelessNetworks/Access40/ConfiguringAccess40onAppleiPhone.pdf">Printer Friendly Version (PDF)</a>
            </p>
             
            

@@ -39,7 +39,6 @@
             	<strong>Jump To: </strong><a href="#XP">Windows XP</a>&nbsp;|&nbsp;<a href="#VISTA">Windows Vista or 7</a>&nbsp;|&nbsp;<a href="#OSX">Mac OS X</a>
             </p>
             <h3><a href="#XP" name="XP">On Windows XP</a></h3>
-            <strong><a href="../PDF/FindingYourMacAddress/On-Windows-XP.pdf">Printer Friendly Version (PDF)</a></strong>
             <ol class="indent">
                	<li>Select "Start" &raquo; "Run". </li>
               	<img class="imgBorder" src="../images/macid/macid-windows-1.png" alt="macid-xp-1">
@@ -54,7 +53,6 @@
             </ol>
             
             <h3><a href="#VISTA" name="VISTA">On Windows Vista or 7</a></h3>
-            <strong><a href="../PDF/FindingYourMacAddress/On-Windows-Vista.pdf">Printer Friendly Version (PDF)</a></strong>
             <ol class="indent">
             
 				<li>
@@ -70,7 +68,6 @@
                 
             </ol>
             <h3><a href="#OSX" name="OSX">On Mac OS X</a></h3>
-            <strong><a href="../PDF/FindingYourMacAddress/On-Mac-OS-X.pdf">Printer Friendly Version (PDF)</a></strong>
 	  <ol class="indent">
                 <li>Click the Apple logo &raquo; "About this Mac".</li>
                     <img class="imgBorder" src="../images/macid/macid-mac-1.png" alt="macid-mac-1">

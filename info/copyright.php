@@ -3,9 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<link rel="stylesheet" href="css/reset.css" type="text/css" />
-<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-<link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
 <title>Resnet :: Copyright and File-Sharing</title>
 </head>
 <body>
@@ -49,7 +49,7 @@
         <p class="indent">
             Fortunately, there are many legal alternatives to discover new music available that won't damage the network, won't put you at risk for viruses and malware, and don't use up a lot of bandwidth.  
             We have compiled an extensive list of worthwhile, legal music services.
-            Please follow the link to check out our <a href="/LegalMusic.php" title="legal alternatives">list of legal alternatives</a>.
+            Please follow the link to check out our <a href="/info/LegalMediaSources.php" title="legal alternatives">list of legal alternatives</a>.
             
             <br/><br/>
             If you would like to learn more about the legal issues surrounding file-sharing, feel free to check out <a href="http://www.campusdownloading.com" title="Campus Downloading">http://www.campusdownloading.com</a> or <a href="http://www.answers.com/topic/copyright-infringement-1" title="Copyright Infringement">http://www.answers.com/topic/copyright-infringement-1</a>.

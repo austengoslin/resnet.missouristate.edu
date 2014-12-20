@@ -21,7 +21,7 @@
 				<ol>
 					<li><span class="navText"><a href = "http://resnet.missouristate.edu/help/" tabindex="8" accesskey="t">Tutorials</a></span></li>
 					<li><span class="navText"><a href = "http://resnet.missouristate.edu/info/" tabindex="9" accesskey="u">Useful Information</a></span></li>
-					<li><span class="navText"><a href = "http://resnet.missouristate.edu/downloads.php" tabindex="10" accesskey="d">Downloads</a></span></li>
+					<li><span class="navText"><a href = "http://resnet.missouristate.edu/info/downloads.php" tabindex="10" accesskey="d">Downloads</a></span></li>
 				</ol>
 			</div>
             <!-- End Navigation -->

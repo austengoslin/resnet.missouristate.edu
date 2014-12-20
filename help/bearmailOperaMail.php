@@ -35,7 +35,6 @@
     		<div id="tutorial"> 
             <!-- start content -->		
             <h2>Opera Mail Setup</h2>
-            <p class="answer"><a href="../PDF/MailConfiguration/Opera-Mail-Setup.pdf">Printer Friendly Version (PDF)</a></p>
             <p>&nbsp; </p>
             <ol class="indent">
                 <li>

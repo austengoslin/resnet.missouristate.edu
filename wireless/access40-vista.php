@@ -39,7 +39,6 @@
             <p class="answer">
             	<strong>Note:</strong> Only computers running <a href="http://technet.microsoft.com/en-us/windows/bb738089.aspx">Windows Vista Service Pack 1</a> 
             	or higher can connect using these instructions. &nbsp;|&nbsp;
-            	<a href="../PDF/WirelessNetworks/Access40/ConfiguringAccess40onWindowsVista.pdf">Printer Friendly Version (PDF)</a>
             </p>
            
             <ol class="indent">

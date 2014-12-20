@@ -38,7 +38,6 @@
             
             <p class="answer">
                 <strong>Note:</strong> Staff wishing to set up Entourage 2008 should contact ResNet.
-                <br /><a href="../PDF/MailConfiguration/Microsoft-Entourage-2008-Setup.pdf">Printer Friendly Version (PDF)</a>
             
             </p>
             <h3>Entourage 2008 Setup</h3>

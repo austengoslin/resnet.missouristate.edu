@@ -36,7 +36,6 @@
             <!-- start content -->		
             <h2>Microsoft Xbox Registration and Configuration</h2>
             <p class="answer">
-                 	<a href="../PDF/RegisteringYourGameConsole/Microsoft-Xbox-Registration-and-Configuration.pdf">Printer Friendly Version (PDF)</a>
             </p>
              <ol>
                 <li>

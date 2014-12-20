@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 <!-- start content -->		
 <h2>Configuring Resnet 30 on Windows 7</h2>
-<p class="answer"><a href="../PDF/WirelessNetworks/Access40/ConfiguringAccess40onMacOS10.4.pdf">Printer Friendly Version (PDF)</a></p>
 
 				<ol class="indent"><li>
 						To start configuring your wireless, click on the network icon and it will show the list of available wireless networks. If you don't see this ensure that your wirless card is on or enabled.</li>

@@ -41,7 +41,6 @@
             	<br /><strong>Jump To</strong>
        		  
             	<a href="#2">Thunderbird 2.xx</a> &nbsp; | &nbsp; <a href="#3">Thunderbird 3.xx</a> &nbsp; | &nbsp;       		  
-            	<a href="../PDF/MailConfiguration/Mozilla-Thunderbird-Setup.pdf">Printer Friendly Version (PDF)</a>
             </p>
             
             <h3><a name="3">Thunderbird 3.xx Setup</a></h3>

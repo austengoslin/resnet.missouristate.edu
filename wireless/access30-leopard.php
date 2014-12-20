@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 			<!-- start content -->		
 			<h2>Configuring Access 30 on Mac OS X (10.5) - Leopard</h2>
-			<p class="answer"><a href="../PDF/WirelessNetworks/Access30/ConfiguringAccess30onMacOS10.5.pdf">Printer Friendly Version (PDF)</a></strong></p>
 
             <ol>
             <li>Go to the AirPort menu, and select <strong>Open Network Preferences</strong></li>

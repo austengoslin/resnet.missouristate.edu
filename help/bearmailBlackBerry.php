@@ -34,7 +34,6 @@
                 
                 <p class="answer"><strong>Note:</strong> BlackBerry Internet Service, which is included with an active data plan, 
                 is required in order to configure email.
-                <br /><a href="../PDF/MailConfiguration/BlackBerry-Email-Setup.pdf">Printer Friendly Version (PDF)</a>
                 </p> 
               
                 

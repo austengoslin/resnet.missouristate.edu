@@ -38,9 +38,7 @@
             	<strong>Jump To: </strong>
            		<a href="#WINVISTA">Windows Vista</a>&nbsp;|&nbsp;<a href="#WINXP">Windows XP</a>&nbsp;|&nbsp;<a href="#OSX">Mac OS X</a>
             </p>
-            <h3><a href="#WINXP" name="WINXP">Setting up Automatic Updates in Windows XP</a></h3>
-            <p class="indent"><strong><a href="../PDF/SettingUpAutomaticUpdates/Setting-up-Automatic-Updates-in-Windows%20XP.pdf">Printer Friendly Version (PDF)</a></strong></p>
-            
+            <h3><a href="#WINXP" name="WINXP">Setting up Automatic Updates in Windows XP</a></h3>            
             <ol class="indent">
          
               <li>Start &raquo; Settings &raquo; Control Panel</li>
@@ -53,7 +51,6 @@
             
             </ol>
             <h3><a href="#OSX" name="OSX">Setting up Automatic Updates in Mac OS X</a></h3>
-            <p class="indent"><strong><a href="../PDF/SettingUpAutomaticUpdates/Setting-up-Automatic-Updates-in-Mac-OS-X.pdf">Printer Friendly Version (PDF)</a></strong></p>
             <ol class="indent">
                 <li>Select the Apple icon from the top left of the screen, then go to "System Preferences...".</li>
                     <img class="imgBorder" src="../images/autoupdates/autoupdates-osx-1.png" alt="autoupdates-osx-1" />
@@ -63,7 +60,6 @@
                     <img class="imgBorder" src="../images/autoupdates/autoupdates-osx-3.png" alt="autoupdates-osx-3" width="580" />
             </ol>
             <h3><a href="#WINVISTA" name="WINVISTA">Setting up Automatic Updates in Windows Vista</a></h3>
-            <p class="indent"><strong><a href="../PDF/SettingUpAutomaticUpdates/Setting-up-Automatic-Updates-in-Windows-Vista.pdf">Printer Friendly Version (PDF)</a></strong></p>
             <ol class="indent">
             
               <li>Open Control Panel. Start Orb &raquo; Control Panel</li>

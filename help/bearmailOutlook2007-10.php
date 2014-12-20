@@ -4,11 +4,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<link rel="stylesheet" href="reset.css" type="text/css" />
-<link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
-<link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
-<script type="text/javascript" src="../js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="../js/slickBox.js"></script>
+<link rel="stylesheet" href="/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+<script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="/js/slickBox.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -37,8 +37,7 @@
             <h2>Microsoft Outlook 2007, 2010, and 2013 Setup for Live@edu</h2>
             
             <p class="answer">
-                <strong>Note: </strong>Staff wishing to set up Outlook will need to view <a href="Outlook2007SGF.php" title="Outlook 2007 for Staff">this guide</a> for connecting to the servers. 
-           		<strong><a href="../PDF/MailConfiguration/Microsoft-Outlook-2007-Setup-for-Live@edu.pdf">Printer Friendly Version (PDF)</a></strong>
+                <strong>Note: </strong>Staff wishing to set up Outlook will need to view <a href="https://experts.missouristate.edu/display/csvhelpdesk/Outlook+2013+Exchange+Setup+Guide" title="Outlook for Staff">this guide</a> for connecting to the servers. 
             </p>
             
             

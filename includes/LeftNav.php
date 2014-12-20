@@ -19,7 +19,7 @@
         <a href="/labs/"><li>
             Computer Labs
         </li></a>
-        <a href="/faq.php"><li>
+        <a href="/info/faq.php"><li>
             FAQ
         </li></a>
         <a href="/employment/"><li>

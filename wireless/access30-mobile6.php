@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 			<!-- start content -->		
             <h2>Configuring Access 30 on Windows Mobile 6</h2>
-            <p class="answer"><a href="../PDF/WirelessNetworks/Access30/ConfiguringAccess30onWindowsMobile6.pdf">Printer Friendly Version (PDF)</a><br />
             In this tutorial we are using Windows Mobile 6; however, these instructions should also work with Windows Mobile 5.
             </p>
             <ol>

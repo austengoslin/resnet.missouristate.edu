@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 <!-- start content -->		
 <h1>Configuring Access 40 on Mac OS X (10.4) - Tiger</h1>
-<strong><a href="../PDF/WirelessNetworks/Access40/ConfiguringAccess40onMacOS10.4.pdf">Printer Friendly Version (PDF)</a></strong>
 
 <ol class="spacy"><li>
 		First select <strong>Open Internet Connect...</strong> from the wireless icon in the menu bar (or from the Applications folder).

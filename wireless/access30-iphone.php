@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
             <!-- start content -->		
             <h2>Configuring Access 30 on Apple iPhone / iPod Touch</h2>
-            <p class="answer"><a href="../PDF/WirelessNetworks/Access30/ConfiguringAccess30onAppleiPhone.pdf">Printer Friendly Version (PDF)</a></strong>
             <strong>Note:</strong> You must have <a href="http://www.apple.com/iphone/softwareupdate/">iPhone 2.0 Software Update</a> or better to connect to the wireless network.</p>
             
             	

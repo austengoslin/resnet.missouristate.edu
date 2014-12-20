@@ -4,11 +4,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<link rel="stylesheet" href="../css/reset.css" type="text/css" />
-<link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
-<link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
-<script type="text/javascript" src="../js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="../js/slickBox.js"></script>
+<link rel="stylesheet" href="/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+<script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="/js/slickBox.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -85,7 +85,7 @@
                   Many malware programs use your computer's Internet connection to help them spread.
 				  If you have an anti-virus program, we recommend updating it and running a virus scan.  
                   If you don't have an anti-virus program, you can download one for free from 
-                  <a href="http://resnet.missouristate.edu/help/VaSRemoval.php" title="Anti-Virus List">our list of recommendations</a>.
+                  <a href="/info/VirusRemoval.php" title="Anti-Virus List">our list of recommendations</a>.
                 </li>                
                 <li class="indent">
                   Avoid streaming media such as Internet radio and television non-stop.
@@ -99,10 +99,10 @@
                   to your system, we <strong>strongly</strong> recommend avoiding their use.
                   <br />
 				  <br />
-                  Additionally, the use of such programs for the purpose of getting music may break copyright law and violate our <a href="/aup.php">Acceptable Use Policy</a>.
-                  For more information regarding the legality of of file-sharing, please, see ResNet's <a href="../copyright.php">copyright page</a>.
+                  Additionally, the use of such programs for the purpose of getting music may break copyright law and violate our <a href="/info/aup.php">Acceptable Use Policy</a>.
+                  For more information regarding the legality of of file-sharing, please, see ResNet's <a href="/info/copyright.php">copyright page</a>.
                     We recommend using legal sources for downloading music; for a thorough compilation of music services, 
-                    please see our list of <a href="../LegalMusic.php">legal alternatives</a>.
+                    please see our list of <a href="/info/LegalMediaSources.php">legal alternatives</a>.
                     Of course, excessive use of these services can also increase your download traffic.
                     As always, make sure to check your usage summary at <a href="http://resreg.missouristate.edu" title="ResREG">http://resreg.missouristate.edu</a> if in doubt.
                     <br />

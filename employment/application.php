@@ -205,7 +205,7 @@ body;
 ?>
 	 
 <?php if ($hasError == true) { echo "<div class=\"hasError\">Make sure all required fields are filled out</div>"; } ?>
-		 <form enctype="multipart/form-data" id='form' name="send" method="post" action="application.php">
+		 <form enctype="multipart/form-data" id='form' name="send" method="post" action="/employment/application.php">
 		<input type="hidden" name="MAX_FILE_SIZE" value="50000000" />
  		<input type="hidden" name="action" value="send" />
 		<fieldset class="floatLeft">

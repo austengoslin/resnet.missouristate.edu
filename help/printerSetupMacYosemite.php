@@ -50,7 +50,6 @@
 
 <h3><a href="#YOSEMITEPRINT" name="YOSEMITEPRINT">Setting up the front desk printer on Mac OS X 10.10 Yosemite</a></h3>
 <p class="answer">This will guide you through the setup of the front desk printer in your residence hall on a machine running Mac OS X 10.10 Yosemite<br />
-	<strong><a href="../PDF/Printers/Setting-up-the-front-desk-printer-on-Mac-OS-X-10_10.pdf">Printer Friendly Version (PDF)</a></strong></p>
 	<ol class="indent">
                                 
 					<li>

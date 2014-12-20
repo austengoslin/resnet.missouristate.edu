@@ -38,7 +38,6 @@
               If you are registering the Wii as the first device on the port and you have previously downloaded the "Internet Channel" then you can
               register using <a href="http://resreg.missouristate.edu" title="ResReg">http://resreg.missouristate.edu</a> on the "Internet Channel."  
               (This only applies to a Wii connected via the wired connection.) &nbsp;<br />
-              <a href="../PDF/RegisteringYourGameConsole/Nintendo-Wii-Registration-and-Configuration.pdf">Printer Friendly Version (PDF)</a>
             </p>
             
             <p class="indent">

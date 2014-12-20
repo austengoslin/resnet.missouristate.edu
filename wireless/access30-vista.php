@@ -40,7 +40,6 @@
             
             <p class="answer"><strong>Note:</strong> Only computers running <a href="http://technet.microsoft.com/en-us/windows/bb738089.aspx">Windows Vista Service Pack 1</a> 
             	or higher can connect using these instructions.<br />
-                <a href="../PDF/WirelessNetworks/Access30/ConfiguringAccess30onWindowsVista.pdf">Printer Friendly Version (PDF)</a>
             </p>
             <ol class="indent">
             <li>To start configuring your wireless, click <strong>"Start" &raquo; "Connect To"</strong>.</li>

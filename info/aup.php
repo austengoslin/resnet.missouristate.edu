@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
         <title>Resnet :: Acceptable Use Policy</title>
 
         <script>

@@ -37,43 +37,43 @@
             <div id="Main">
                 <div class="threeColumn">
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/printerIcon.png" alt="Printers" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/printerIcon.png" alt="Printers" width="75" height="75" /><br />
                             Printers
                         </a>
-                        <a class="second-link" href="../help/printerSetupWin7.php">
+                        <a class="second-link" href="/help/printerSetupWin7.php">
                         Windows 7
                         </a>
-                        <a class="second-link" href="../help/printerSetupWin8.php">
+                        <a class="second-link" href="/help/printerSetupWin8.php">
                         Windows 8 and 8.1
                         </a>
-                        <a class="second-link" href="../help/printerSetupMacLegacy.php">
+                        <a class="second-link" href="/help/printerSetupMacLegacy.php">
                         Mac OS X (10.5 & 10.6)
                         </a>
-                        <a class="second-link" href="../help/printerSetupMacModern.php">
+                        <a class="second-link" href="/help/printerSetupMacModern.php">
                         Mac OS X (10.7 - 10.9)
                         </a>
-                        <a class="second-link" href="../help/printerSetupMacYosemite.php">
+                        <a class="second-link" href="/help/printerSetupMacYosemite.php">
                         Mac OS X (10.10)
                         </a>
-                        <a class="second-link" href="../help/printerSetupUbuntu.php">
+                        <a class="second-link" href="/help/printerSetupUbuntu.php">
                         Ubuntu
                         </a>
                     </div>
 
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/windowsLogo.png" alt="Windows" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/windowsLogo.png" alt="Windows" width="75" height="75" /><br />
                    Windows
                         </a>
-                        <a class="second-link" href="../wireless/resnet40-Win8.php">
+                        <a class="second-link" href="/wireless/resnet40-Win8.php">
                         WiFi
                         </a>
-                        <a class="second-link" href="../help/printerSetup.php#WIN8PRINT">
+                        <a class="second-link" href="/help/printerSetup.php#WIN8PRINT">
                         Printers
                         </a>
-                        <a class="second-link" href="../help/findMACid.php#VISTA">
+                        <a class="second-link" href="/help/findMACid.php#VISTA">
                         Finding Your MAC Address
                         </a>
-                        <a class="second-link" href="../help/bearmailWindowsLiveMail.php">
+                        <a class="second-link" href="/help/bearmailWindowsLiveMail.php">
                         Windows Live Mail
                         </a>
                     </div>
@@ -81,16 +81,16 @@
                         <a class="first-link" href=""><img src="../images/tutorials/wifiIcon.png" alt="WiFi" width="75" height="75" /><br />
                    Networks
                         </a>
-                        <a class="second-link" href="../wireless/index.php">
+                        <a class="second-link" href="/wireless/index.php">
                         WiFi Setup
                         </a>
-                        <a class="second-link" href="../help/resreg.php">
+                        <a class="second-link" href="/help/resreg.php">
                         Wired Registration
                         </a>
-                        <a class="second-link" href="../help/netShares.php">
+                        <a class="second-link" href="/help/netShares.php">
                         Network Shares
                         </a>
-                        <a class="second-link" href="../help/findMACid.php">
+                        <a class="second-link" href="/help/findMACid.php">
                         Finding A MAC Address (PC/Mac)
                         </a>
                     </div>
@@ -181,7 +181,7 @@
                         <a class="second-link" href="../help/printerSetup.php#UBUNTUPRINT">
                         Linux Printers
                         </a>
-                        <a class="second-link" href="../help/recom.php">
+                        <a class="second-link" href="/info/ComputerRecommendations.php">
                         Computer Recommendations
                         </a>
                         <a class="second-link" href="../help/netShares.php">

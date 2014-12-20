@@ -38,7 +38,6 @@
             <h2>Sony PS2 Registration and Configuration</h2>
             <p class="answer">
               <em>There are two versions of the PlayStation 2: a slimline version manufactured after September 2004, and the original PS2.</em>
-              <br /><a href="../PDF/RegisteringYourGameConsole/Sony-PS2-Registration-and-Configuration.pdf">Printer Friendly Version (PDF)</a>
             </p>
            
             

@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="../css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
-        <script type="text/javascript" src="../js/jquery-1.4.2.js"></script>
-        <script type="text/javascript" src="../js/slickBox.js"></script>
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+        <script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/js/slickBox.js"></script>
 
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -75,7 +75,7 @@
                     <p class="indent">
                 Information about wireless access provided in many of the facilities on campus, including the residence halls.
                     </p>
-                    <h3><a href="../faq.php">Frequently Asked Questions</a></h3>
+                    <h3><a href="/info/faq.php">Frequently Asked Questions</a></h3>
                     <p class="indent">
                 Common questions answered.
                     </p>

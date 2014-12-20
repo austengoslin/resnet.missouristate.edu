@@ -20,7 +20,7 @@
                             	</ul>
                             </li>
                             <li><a href="../wireless/index.php">Wireless Access</a></li>
-                            <li><a href="../faq.php">Frequently Asked Questions</a></li>
+                            <li><a href="/info/faq.php">Frequently Asked Questions</a></li>
 	               		 </ul>
 					</div>
 				</div>

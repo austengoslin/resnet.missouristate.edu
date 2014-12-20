@@ -53,7 +53,7 @@ Additionally, you must be plugged into the orange data port in your room to whic
 <li>On the following page, you may enter a name for your device. In most cases, "My Computer" (the default) is sufficient. Then, click the button labeled Register.
 <img class="imgBorder" src="../images/resreg/resreg4.png" alt="resreg 4">
 
-<li>You should then be taken to a page labeled User Summary. At this point you are registered. As a test, you might want to vist <a href="www.google.com">Google</a> or your homepage.</li> 
+<li>You should then be taken to a page labeled User Summary. At this point you are registered. As a test, you might want to vist <a href="http://www.google.com">Google</a> or your homepage.</li> 
 <img class="imgBorder" src="../images/resreg/resreg5.png" alt="resreg 5">
 
 <li>If you would like to see your traffic or registration information at any later point, you can return to <a href="https://resreg.missouristate.edu">http://resreg.missouristate.edu</a>.

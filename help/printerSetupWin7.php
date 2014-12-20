@@ -50,7 +50,6 @@
 						<h3><a href="#WINVISTA7PRINT" name="WINVISTA7PRINT">Setting up the front desk printer on Windows 7</a></h3>
                 		<p class="answer">
                 			This will guide you through the setup of the front desk printer in your residence hall on a machine running Windows 7.<br />
-                       		<strong><a href="http://resnet.missouristate.edu/PDF/Printers/Setting-up-the-front-desk-printer-on-Windows-Vista.pdf">Printer Friendly Version (PDF)</a></strong>
                         </p>
                		    <ol class="indent">
               				<li>Click on the <strong>Start</strong> button.<br />

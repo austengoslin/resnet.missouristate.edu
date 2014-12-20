@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
         <title>Resnet :: Frequently Asked Questions</title>
 
         <script>
@@ -37,7 +37,7 @@
                 <p class="answer">
                             ResNet provides assistance with a wide array of technology issues including virus and spyware removal, product installation, hardware troubleshooting/installation,
                             and software support to all residence hall students free of charge. Unfortunately our services does not extend to off-campus students. If you are experiencing difficulty with your computer, please
-                    <a href="contact.php" title="Contact ResNet">fill out this form</a>, call us at<em> (417)836-6100</em>, or visit us in the basement of Hutchens House.
+                    <a href="/contact.php" title="Contact ResNet">fill out this form</a>, call us at<em> (417)836-6100</em>, or visit us in the basement of Hutchens House.
                 </p>
 
                 <h3>Is there wireless network access available in the residence halls? </h3>
@@ -99,7 +99,7 @@
                 <p class="answer">
                             There is an orange jack and a white jack on the wall. The orange jack is the network data port and the white jack is the telephone port.
                             To activate the network port you will have to register yourself to the port by using our port registration system called ResReg.
-                            Click <a href="../help/resreg.php" title="resreg"> here</a> for more information.
+                            Click <a href="/help/resreg.php" title="resreg"> here</a> for more information.
                 </p>
 
                 <h3>Is there a way to get internet access on my game system or smart tv?</h3>
@@ -168,7 +168,7 @@
                             or an outside source filing a complaint against your computer.
                             A complaint could have been filed for reasons that include, but are not limited to, copyright infringement with Peer-to-Peer file sharing,
                             port-scanning, and e-mail viruses(for more information regarding copyright complaints, please see
-                    <a href="copyright.php" title="Copyright">our copyright page</a> for more information).
+                    <a href="/info/copyright.php" title="Copyright">our copyright page</a> for more information).
                 </p>
 
                 <p class="answer">
@@ -182,7 +182,7 @@
                             Yes.
                             Automatically updated anti-virus software is required for all computers connected to the residence hall network.
                             ResNet recommends Microsoft Security Essentials.
-							For a link to this and other good, free Anti-Virus software, please go <a href="/help/VaSRemoval.php" title="Get Anti-Virus">here</a>.
+							For a link to this and other good, free Anti-Virus software, please go <a href="/info/VirusRemoval.php" title="Get Anti-Virus">here</a>.
                 </p>
 
                 <h3>How do I keep my computer virus-free and running smoothly? </h3>

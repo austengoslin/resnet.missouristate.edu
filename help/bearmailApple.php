@@ -36,8 +36,7 @@
             <h2>Apple Mail Setup</h2>
             
             <p class="answer">
-            <strong>Note: </strong> Staff wishing to set up Apple Mail will need to follow <a href="../bearmailAppleSGF.php">this tutorial</a> for connecting to the mail server.
-            <br /><strong><a href="../PDF/MailConfiguration/Apple-Mail-Setup.pdf">Printer Friendly Version (PDF)</a></strong>
+            <strong>Note: </strong> Staff wishing to set up Apple Mail will need to follow <a href="https://experts.missouristate.edu/display/csvhelpdesk/iPhone+Bearmail+Setup">this tutorial</a> for connecting to the mail server.
             
             </p>
             <h3>Apple Mail Setup</h3>

@@ -64,7 +64,7 @@ $APPLICATIONS_ARE_OPEN = true;
 					Previous experience with computer issues is recommended, but not required.</p>
             	</div>
 
-                <div class="empBoxFooter"><strong><?php if ($APPLICATIONS_ARE_OPEN) { ?><a href="./application.php">Click here to apply.</a><?php } else { ?>The application period for this year has passed.  Please consider applying next year.<?php } ?></strong></div>
+                <div class="empBoxFooter"><strong><?php if ($APPLICATIONS_ARE_OPEN) { ?><a href="/employment/application.php">Click here to apply.</a><?php } else { ?>The application period for this year has passed.  Please consider applying next year.<?php } ?></strong></div>
 			</div>
 
 		</div>

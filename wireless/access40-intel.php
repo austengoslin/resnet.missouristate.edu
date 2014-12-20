@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 <!-- start content -->		
 <h2>Configuring Access 40 on Intel PROSet</h2>
-<p class="answer"><a href="../PDF/WirelessNetworks/Access40/ConfiguringAccess40onIntelPROSe1.pdf">Printer Friendly Version (PDF)</a></p>
 
 <ol>
 	<li>

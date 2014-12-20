@@ -39,7 +39,6 @@
         	If your Xbox still has the original dashboard, you may wish to view 
         	<a href="consoles-xbox360-old.php" title="Original Dashboard">this tutorial</a>
         	to connect your console to the residence hall network.&nbsp;|&nbsp; 
-        	<a href="../PDF/RegisteringYourGameConsole/Microsoft-Xbox-360-Registration-and-Configuration.pdf" title="PDF">Printer Friendly Version (PDF)</a>
     	</p>
 		<ol>
 

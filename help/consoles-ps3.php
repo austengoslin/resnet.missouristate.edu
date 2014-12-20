@@ -42,7 +42,6 @@
               PS3 to register at the website <a href="http://resreg.missouristate.edu" title="ResReg">http://resreg.missouristate.edu</a>.  
               Otherwise, the following guide will provide you instructions with obtaining the MAC address of your PS3.
             <br />
-			<a href="../PDF/RegisteringYourGameConsole/Sony-PS3-Registration-and-Configuration.pdf">Printer Friendly Version (PDF)</a>
             </p>
             <p class="indent">
               (<em>At this time the PS3 is not compatible with the Missouri State wireless network.

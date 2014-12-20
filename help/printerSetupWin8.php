@@ -50,7 +50,6 @@
                 <h3><a href="#WIN8PRINT" name="WIN8PRINT">Setting up the front desk printer on Windows 8 and 8.1</a></h3>
                 		<p class="answer">
                 			This will guide you through the setup of the front desk printer in your residence hall on a machine running Windows 8 or 8.1.<br />
-                			<strong><a href="http://resnet.missouristate.edu/PDF/Printers/Setting-up-the-front-desk-printer-on-Windows-8-and-8_1.pdf">Printer Friendly Version (PDF)</a></strong>
                         </p>
                         </p>
                		    <ol class="indent">

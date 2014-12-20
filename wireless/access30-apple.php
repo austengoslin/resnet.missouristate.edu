@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 			<!-- start content -->		
             <h2>Configuring Access 30 on Mac OS X (10.4) - Tiger</h2>
-            <strong><a href="../PDF/WirelessNetworks/Access30/ConfiguringAccess30onMacOS10.4.pdf">Printer Friendly Version (PDF)</a></strong>
             
             <ol><li>
                     First select Internet Connect from the wireless icon in the menu bar (or from the Applications folder).</li>

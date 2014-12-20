@@ -38,8 +38,6 @@
             This will guide you through the setup of accessing network file shares such as magenta or eccentric.<br />
             
             <strong>Jump To: </strong><a href="#WINXPFILE" title="windows">Windows</a>&nbsp;|&nbsp; <a href="#OSXFILE" title="Mac OS X">Mac OS X</a> 
-            &nbsp;|&nbsp;<a href="/PDF/FileShares/Accessing-Network-File-Shares-with-Windows.pdf">Printer Friendly Version (PDF) (PC)</a>
-            &nbsp;|&nbsp;<a href="http://resnet.missouristate.edu/PDF/FileShares/Accessing-Network%20File-Shares-with-Mac-OSX.pdf">(PDF)(MAC)</a>
             </p>
             <h3><a name="WINXPFILE" id="WINXPFILE"></a><a href="#WINXPFILE" title="Network Files Shares with Windows">Accessing Network File Shares with Windows</a></h3>
 
@@ -54,7 +52,6 @@
             <h3><a href="#OSXFILE" name="OSXFILE">Accessing Network File Shares with Mac OSX</a></h3>
 			  <p class="answer">
                 This will guide you through the setup of accessing network file shares such as magenta or eccentric.<br />
-				<a href="http://resnet.missouristate.edu/PDF/FileShares/Accessing-Network%20File-Shares-with-Mac-OSX.pdf">Printer Friendly Version (PDF)</a>
               <ol>
                 <li class="indent">Select the finder from the dock.</li>
                 <li class="indent">From the menu bar select Go then "Connect to Server...".</li>

@@ -3,9 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<link rel="stylesheet" href="css/reset.css" type="text/css" />
-<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-<link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
 <title>Resnet :: Legal Alternatives to File-sharing</title>
 </head>
 <body>
@@ -20,7 +20,7 @@
                         		<!--start content-->		
 <h2>Legal Alternatives to File-sharing</h2>
 <p class="norm">
-Regardless of how wide-spread file-sharing is, it is illegal and violates the University's <a href="http://resnet.missouristate.edu/aup.php">acceptable use policy</a>. 
+Regardless of how wide-spread file-sharing is, it is illegal and violates the University's <a href="/info/aup.php">acceptable use policy</a>. 
 Why would you risk losing your internet and a possible lawsuit when there are many cheap and sometimes free alternatives to get your music, movies, and tv shows legally? 
 For your convenience, we have compiled a list of options to help you keep up on your shows and keep your mp3 player full.	
 </p>

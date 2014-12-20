@@ -35,7 +35,6 @@
     		<div id="tutorial"> 
             <!-- start content -->		
             <h2>Windows Live Mail Setup</h2>
-            <p class="answer"><a href="/PDF/MailConfiguration/Windows-Live-Mail%20Setup.pdf">Printer Friendly Version (PDF)</a></p>
             <br /><ol>
                 <li>Open Windows Live Mail and setup a new mail account.</li>
                     <img class="imgBorder" src="../images/bearmail/WindowsLiveMail/WindowsLiveMail01.png" alt="Windows Live Mail Screenshot">

@@ -39,8 +39,7 @@
             
               <ul class="answer">
                     
-                   <a href="#IMAP">IMAP Setup</a> &nbsp; |&nbsp; <a href="#POP3">POP3 Setup</a><br />
-            		<a href="../PDF/MailConfiguration/Microsoft-Outlook-2003-Setup.pdf">Printer Friendly Version (PDF)</a>              
+                   <a href="#IMAP">IMAP Setup</a> &nbsp; |&nbsp; <a href="#POP3">POP3 Setup</a><br />            
               </ul>
 
             

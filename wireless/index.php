@@ -53,23 +53,13 @@
             </p>
             <p class="indent">
                 Our wireless networks offer the highest level of security currently available on the Missouri State campus, 
-                and offers support for many hardware and software combinations.
-                <!--
-                , including OS X and Windows Vista SP1. Windows XP <em>cannot connect to Resnet 40 with the default Windows client</em>; 
-                however, machines with Intel brand wireless adapters can download
-                <a href="http://support.intel.com/support/wireless/wlan/sb/CS-010623.htm" title="Intel PROSet/Wireless Network Connection Software">Intel PROSet/Wireless</a> 
-              software, which will make it possible for Windows XP to connect to Resnet 40.</p><br />
-            <p class="indent">
-                - Wireless authentication for this network is handled by PEAP encryption using the MS-CHAPv2 protocol.  
-                The data encryption method of this network is "WPA2/AES-CCMP"
-            </p>
-                -->      
+                and offers support for many hardware and software combinations.     
 			  <table><tr><td>
                         <ul><li><a href="android.php">Android</a></li>
 							<li><a href="resnet40-chrome.php">Chrome OS</a></li>
 							<!--<li><a href="resnet40-intel.php">Resnet 40 - Intel PROSet</a></li>-->
 							<li><a href="resnet40-iphone.php">Apple iPhone / iPod Touch</a></li>
-							<li><a href="resnet40-kindle.php">Kindle Fire</a></li>							
+							<li><a href="/wireless/kindle.php">Kindle Fire</a></li>							
                             <!--
                             <li><a href="resnet40-apple.php">Resnet 40 - Mac OS X (10.4)</a></li>
                             <li><a href="resnet40-leopard.php">Resnet 40 - Mac OS X (10.5)</a></li>

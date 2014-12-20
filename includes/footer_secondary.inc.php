@@ -7,7 +7,6 @@
                         <li><a href="wireless/">Wireless Internet</a></li>
                         <li><a href="help/mailClient.php">Setup your email client</a></li>
                         <li><a href="help/consoles.php">Game Consoles</a></li>
-                        <li><a href="help/dhcp.php">Configure DHCP</a></li>
                         <li><a href="help/findMACid.php">Find your Mac Address</a></li>
                     </ul>
 				</div>
@@ -25,12 +24,12 @@
 				<div id="colum3" class="multiColumnFooter">
                 <h4>Other Important Stuff</h4>
                 	<ul>
-                    	<li><a href="faq.php">Frequently asked Questions</a></li>
-                        <li><a href="aup.php">Acceptable use Policy</a></li>
-                        <li><a href="copyright.php">Copyright Information</a></li>
-                        <li><a href="LegalMusic.php">Legal Downloading</a></li>
+                    	<li><a href="/info/faq.php">Frequently asked Questions</a></li>
+                        <li><a href="/info/aup.php">Acceptable use Policy</a></li>
+                        <li><a href="/info/copyright.php">Copyright Information</a></li>
+                        <li><a href="/info/LegalMediaSources.php">Legal Downloading</a></li>
                         <li><a href="contact.php">Contact Information</a></li>
-                        <li><a href="employment.php">Employment Opportunities</a></li>
+                        <li><a href="/employment/">Employment Opportunities</a></li>
                     </ul>
 				</div>
 				<div id="colum4" class="multiColumnFooter">

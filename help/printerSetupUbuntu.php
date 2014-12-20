@@ -53,7 +53,6 @@
                     This guide will show you how to setup the front desk printer of your Residence Hall from room on an Ubuntu machine.  
                     In this tutorial we are using Ubuntu 8.04 ("Hardy Heron").  
                     These configuration instructions also work on Ubuntu 7.10 ("Gutsy Gibbon"), Ubuntu 7.04 ("Feisty Fawn"), and theoretically should work earlier versions, but are untested.<br />
-                    <strong><a href="http://resnet.missouristate.edu/PDF/Printers/Setting-up-the-front-desk-printer-on-Ubuntu.pdf">Printer Friendly Version (PDF)</a></strong>
                 </p>
                 <ol class="indent">
                     <li>Go to <strong>System &gt; Administration &gt; Printing</strong>, then click on <strong>New Printer</strong> in the upper right.</li>

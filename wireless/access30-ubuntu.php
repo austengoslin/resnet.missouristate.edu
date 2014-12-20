@@ -36,7 +36,6 @@
     		<div id="tutorial"> 
 		<!-- start content -->		
             <h2>Configuring Access 30 on Ubuntu</h2>
-            <p class="answer"><a href="/PDF/WirelessNetworks/Access30/ConfiguringAccess30onUbuntu.pdf">Printer Friendly Version (PDF)</a></strong></p>
             
             <p class="indent">
             In this tutorial we are using Ubuntu 7.10 ("Gutsy Gibbon").  

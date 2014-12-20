@@ -118,7 +118,7 @@
                         <a class="second-link" href="/help/Mail/Android.php">
                         Android
                         </a>
-                        <a class="second-link" href="../help/bearmail-iPhone.php">
+                        <a class="second-link" href="../help/Mail/iOS.php">
                         iOS
                         </a>
                         <a class="second-link" href="../help/Mail/Apple.php">
@@ -144,7 +144,7 @@
                         <a class="second-link" href="/help/Mail/Android.php">
                         Android Email
                         </a>
-                        <a class="second-link" href="../help/bearmail-iPhone.php">
+                        <a class="second-link" href="../help/Mail/iOS.php">
                         iOS Email
                         </a>
                     </div>

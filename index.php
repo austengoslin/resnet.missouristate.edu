@@ -19,14 +19,15 @@
             ga('send', 'pageview');
             
         </script>
+        <!--
         <script type="text/javascript">
-            var root = document.location.hostname;
-            if (window.location.href != root + "/?ref=desktop#redirected" && screen.width <= 800) {
-                window.location = root + "/mobile/index.html";
-            } else if (window.location.href == root + "/?ref=desktop#redirected") {
-                window.location = root + "/?ref=desktop#redirected";
+            if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
+                window.location = "http://resnet.missouristate.edu/mobile/index.html";
+            } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
+                window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
             }
         </script>
+        -->
     </head>
     <body>
         <?php include_once("includes/navBar_primary.inc.php"); ?>

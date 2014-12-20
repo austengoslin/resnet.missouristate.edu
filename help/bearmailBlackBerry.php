@@ -22,10 +22,10 @@
 </head>
 
 <body>
-	<?php include_once("../includes/navBar_secondary.inc.php"); ?>
+	<?php include_once("../includes/navBar_primary.inc.php"); ?>
 		
 	<div id = "wrapper">
-	<?php include_once("../includes/header_secondary.inc.php"); ?>
+	<?php include_once("../includes/header_primary.inc.php"); ?>
 	
 			<div id = "leftColumn">
              <div id="tutorial">

@@ -77,7 +77,6 @@
                         <li><a href="/help/Mail/iOS.php">iOS Configuration</a></li>
                         <li><a href="/help/Mail/Apple.php">Apple Mail Configuration</a></li>
                         <li><a href="/help/Mail/BlackBerry.php">BlackBerry Configuration</a></li>
-                        <li><a href="bearmailOutlook.php">Microsoft Outlook 2003 Configuration</a></li>
                         <li><a href="bearmailOutlook2007-10.php">Microsoft Outlook 2007, 2010 and 2013 Configuration</a></li>
                         <li><a href="bearmailThunder.php">Mozilla Thunderbird Configuration</a></li>
                         <li><a href="bearmailWindowsLiveMail.php">Windows Live Mail</a></li>

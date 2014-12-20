@@ -33,7 +33,7 @@ $APPLICATIONS_ARE_OPEN = true;
     $path = $_SERVER['DOCUMENT_ROOT'];
 ?>
 <body>
-	<?php include_once($path . "/includes/navBar.inc.php"); ?>
+	<?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
 
 	<div id = "wrapper">
 	<?php include_once($path . "/includes/header.inc.php"); ?>

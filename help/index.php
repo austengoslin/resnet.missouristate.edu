@@ -115,7 +115,7 @@
                         <a class="first-link" href=""><img src="../images/tutorials/emailIcon.png" alt="Mail" width="75" height="75" /><br />
                    Mail
                         </a>
-                        <a class="second-link" href="../help/bearmailandroid.php">
+                        <a class="second-link" href="/help/Mail/Android.php">
                         Android
                         </a>
                         <a class="second-link" href="../help/bearmail-iPhone.php">
@@ -141,7 +141,7 @@
                         <a class="second-link" href="../wireless/resnet40-iphone.php">
                         iOS WiFi
                         </a>
-                        <a class="second-link" href="../help/bearmailandroid.php">
+                        <a class="second-link" href="/help/Mail/Android.php">
                         Android Email
                         </a>
                         <a class="second-link" href="../help/bearmail-iPhone.php">

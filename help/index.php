@@ -70,6 +70,8 @@
                         <a class="second-link" href="/help/printerSetup.php#WIN8PRINT">
                         Printers
                         </a>
+                        <a class="second-link" href="../help/Mail/Outlook.php">
+                        Outlook
                         <a class="second-link" href="/help/findMACid.php#VISTA">
                         Finding Your MAC Address
                         </a>
@@ -124,7 +126,7 @@
                         <a class="second-link" href="../help/Mail/Apple.php">
                         Apple Mail
                         </a>
-                        <a class="second-link" href="../help/bearmailOutlook2007-10.php">
+                        <a class="second-link" href="../help/Mail/Outlook.php">
                         Outlook
                         </a>
                         <a class="second-link" href="../help/mailClient.php">

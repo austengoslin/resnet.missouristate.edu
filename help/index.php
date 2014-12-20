@@ -107,7 +107,7 @@
                         <a class="second-link" href="../help/findMACid.php#OSX">
                         Finding Your MAC Address
                         </a>
-                        <a class="second-link" href="../help/bearmailApple.php">
+                        <a class="second-link" href="/help/Mail/Apple.php">
                         Configuring Apple Mail
                         </a>
                     </div>
@@ -121,7 +121,7 @@
                         <a class="second-link" href="../help/bearmail-iPhone.php">
                         iOS
                         </a>
-                        <a class="second-link" href="../help/bearmailApple.php">
+                        <a class="second-link" href="../help/Mail/Apple.php">
                         Apple Mail
                         </a>
                         <a class="second-link" href="../help/bearmailOutlook2007-10.php">

@@ -80,7 +80,6 @@
                         <li><a href="bearmailOutlook.php">Microsoft Outlook 2003 Configuration</a></li>
                         <li><a href="bearmailOutlook2007-10.php">Microsoft Outlook 2007, 2010 and 2013 Configuration</a></li>
                         <li><a href="bearmailThunder.php">Mozilla Thunderbird Configuration</a></li>
-                        <li><a href="bearmailOperaMail.php">Opera Mail Configuration</a></li>
                         <li><a href="bearmailWindowsLiveMail.php">Windows Live Mail</a></li>
                         <li><a href="bearmailWinPhone8.php">Windows Phone 8</a></li>
                     </ul>

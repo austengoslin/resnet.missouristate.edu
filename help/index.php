@@ -40,7 +40,7 @@
                         <a class="first-link" href=""><img src="/images/tutorials/printerIcon.png" alt="Printers" width="75" height="75" /><br />
                             Printers
                         </a>
-                        <a class="second-link" href="/help/printerSetupWin7.php">
+                        <a class="second-link" href="/Help/Printing/Windows7.php">
                         Windows 7
                         </a>
                         <a class="second-link" href="/help/printerSetupWin8.php">

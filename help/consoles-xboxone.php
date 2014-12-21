@@ -35,11 +35,6 @@
     		
             <!-- start content -->		
 		<h2>Microsoft Xbox 360 Registration and Configuration</h2>
-	   	<p class="answer">
-        	If your Xbox still has the original dashboard, you may wish to view 
-        	<a href="consoles-xbox360-old.php" title="Original Dashboard">this tutorial</a>
-        	to connect your console to the residence hall network.&nbsp;|&nbsp; 
-    	</p>
 		<ol>
 
     		<li>Go to the <strong>System Settings</strong> area of the My Xbox Channel.</li>

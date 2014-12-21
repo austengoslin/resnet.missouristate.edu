@@ -33,24 +33,6 @@
             <div id="Main">
                 <!-- start content -->
                 <div id="tutorial">
-                    <h2>Connecting to Front Desk Printers</h2>
-
-                    <p class="answer">
-                This will guide you through the setup of the front desk printer in your residence hall. <br />
-                        <strong>Jump To: </strong>
-                  &nbsp;|&nbsp;<a href="./printerSetupWin7.php">Windows 7</a>
-                  &nbsp;|&nbsp;<a href="./printerSetupWin8.php">Windows 8 and 8.1</a>
-                  &nbsp;|&nbsp;<a href="./printerSetupUbuntu.php">Ubuntu</a>
-                  &nbsp;|&nbsp;<a href="/Help/Printing/MacLegacy.php">Mac OS X 10.5 and 10.6</a> <br />
-                  &nbsp;|&nbsp;<a href="./printerSetupMacModern.php">Mac OS X 10.7 - 10.10</a>
-
-                    </p>
-
-                    <p class="answer">
-                        <strong>Note: At this time, Google's Chrome OS is incompatible with our printer system.
-				You will need to print your documents from one of the computer labs on campus. We apologize for the inconvenience. </strong>
-                    </p>
-
                     <h3><a href="#LEOPARDPRINT" name="LEOPARDPRINT">Setting up the front desk printer on Mac OS X 10.5 and 10.6</a></h3>
                     <p class="answer">This will guide you through the setup of the front desk printer in your residence hall on a machine running Mac OS X 10.5 or 10.6.<br />
                         <ol class="indent">

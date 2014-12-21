@@ -128,9 +128,9 @@
                 </div>
             </div>
             <div id="LeftNav">
-                <?php include_once("/includes/LeftNav.php") ?>
+                <?php include_once($path . "/includes/LeftNav.php") ?>
             </div>
-            <?php include_once("/includes/footer.inc.php") ?>
+            <?php include_once($path . "/includes/footer.inc.php") ?>
         </div>
 
 

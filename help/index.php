@@ -46,7 +46,7 @@
                         <a class="second-link" href="/help/printerSetupWin8.php">
                         Windows 8 and 8.1
                         </a>
-                        <a class="second-link" href="/help/printerSetupMacLegacy.php">
+                        <a class="second-link" href="/help/Printing/MacLegacy.php">
                         Mac OS X (10.5 & 10.6)
                         </a>
                         <a class="second-link" href="/help/printerSetupMacModern.php">

@@ -39,7 +39,7 @@
                   &nbsp;|&nbsp;<a href="./printerSetupWin7.php">Windows 7</a>
                   &nbsp;|&nbsp;<a href="./printerSetupWin8.php">Windows 8 and 8.1</a>
                   &nbsp;|&nbsp;<a href="./printerSetupUbuntu.php">Ubuntu</a>
-                  &nbsp;|&nbsp;<a href="./printerSetupMacLegacy.php">Mac OS X 10.5 and 10.6</a> <br />
+                  &nbsp;|&nbsp;<a href="/Help/Printing/MacLegacy.php">Mac OS X 10.5 and 10.6</a> <br />
                   &nbsp;|&nbsp;<a href="./printerSetupMacModern.php">Mac OS X 10.7, 10.8, and 10.9</a>
                   &nbsp;|&nbsp;<a href="./printerSetupMacYosemite.php">Mac OS X 10.10 Yosemite</a> <br />
                     

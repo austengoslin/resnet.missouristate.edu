@@ -132,7 +132,7 @@
                         <a class="second-link" href="../help/Mail/WindowsPhone8.php">
                         Windows Phone 8 Email
                         </a>
-                        <a class="second-link" href="../help/mailClient.php">
+                        <a class="second-link" href="../help/Mail/">
                         Additional Email Tutorials
                         </a>
                     </div>

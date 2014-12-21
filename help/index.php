@@ -49,11 +49,8 @@
                         <a class="second-link" href="/help/Printing/MacLegacy.php">
                         Mac OS X (10.5 & 10.6)
                         </a>
-                        <a class="second-link" href="/help/printerSetupMacModern.php">
-                        Mac OS X (10.7 - 10.9)
-                        </a>
-                        <a class="second-link" href="/help/printerSetupMacYosemite.php">
-                        Mac OS X (10.10)
+                        <a class="second-link" href="/help/Printing/MacModern.php">
+                        Mac OS X (10.7 - 10.10)
                         </a>
                         <a class="second-link" href="/help/printerSetupUbuntu.php">
                         Ubuntu

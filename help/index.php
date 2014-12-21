@@ -72,7 +72,7 @@
                         </a>
                         <a class="second-link" href="../help/Mail/Outlook.php">
                         Outlook
-                        <a class="second-link" href="/help/findMACid.php#VISTA">
+                        <a class="second-link" href="/help/MacAddress.php#VISTA">
                         Finding Your MAC Address
                         </a>
                         <a class="second-link" href="/help/Mail/WindowsLive.php">
@@ -92,7 +92,7 @@
                         <a class="second-link" href="/help/netShares.php">
                         Network Shares
                         </a>
-                        <a class="second-link" href="/help/findMACid.php">
+                        <a class="second-link" href="/help/MacAddress.php">
                         Finding A MAC Address (PC/Mac)
                         </a>
                     </div>
@@ -106,7 +106,7 @@
                         <a class="second-link" href="../help/printerSetup.php#LIONPRINT">
                         Printers
                         </a>
-                        <a class="second-link" href="../help/findMACid.php#OSX">
+                        <a class="second-link" href="../help/MacAddress.php#OSX">
                         Finding Your MAC Address
                         </a>
                         <a class="second-link" href="/help/Mail/Apple.php">

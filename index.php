@@ -113,7 +113,7 @@
                     <div class="entry">
                         <p class="paragraph">
 						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
-                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/printerSetupMacYosemite.php">here</a>.
+                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/Printing/OSX-Modern.php">here</a>.
                         </p>
                     </div>
                 </div>

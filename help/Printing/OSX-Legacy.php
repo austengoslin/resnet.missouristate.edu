@@ -38,7 +38,7 @@
                         <ol class="indent">
 
                             <li>
-                                <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers from <a href="../images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
+                                <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers from <a href="/images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
 						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers3.0.dmg">here</a>.<br />
 		(Please only click on the link once and wait for the download to finish.)</li>
                             <img class="imgBorder" src="/images/Picture%201.png" width="575" alt="" />
@@ -54,7 +54,7 @@
                             <li>
                                 <strong>Secondary Click</strong> on the <strong>Toolbar</strong> and select <strong>Customize toolbar.</strong><br />
         (Secondary Click : Right-Click or Control+Click)</li>
-                            <img class="imgBorder" src="../images/Picture%2034.png" />
+                            <img class="imgBorder" src="/images/Picture%2034.png" />
                             <li>
                                 <strong>Drag</strong> the <strong>Advanced</strong> icon to the <strong>Toolbar</strong>.</li>
                             <img class="imgBorder" src="/images/Picture%2035.png" width="575" alt="" />
@@ -138,7 +138,7 @@
                             <img class="imgBorder" src="/images/Picture%2042.png" alt="" />
                             <li>
 						If you live in <strong>Wells</strong> or <strong>Freddy</strong> you may see the following dialog box. Make sure the checkbox for <strong>Duplex Unit</strong> is checked and then click on <strong>OK</strong>.</li>
-                            <img class="imgBorder" src="../images/WellsDuplex.png" alt="" />
+                            <img class="imgBorder" src="/images/WellsDuplex.png" alt="" />
                             <ul>
                                 <strong>Congratulations you can now Print to the Front Desk!</strong></li>
                                 <li>

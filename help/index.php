@@ -64,10 +64,10 @@
                         <a class="second-link" href="/wireless/resnet40-Win8.php">
                         WiFi
                         </a>
-                        <a class="second-link" href="/help/printerSetup.php#WIN8PRINT">
+                        <a class="second-link" href="/Help/Printing/">
                         Printers
                         </a>
-                        <a class="second-link" href="../help/Mail/Outlook.php">
+                        <a class="second-link" href="/help/Mail/Outlook.php">
                         Outlook
                         <a class="second-link" href="/help/MacAddress.php#VISTA">
                         Finding Your MAC Address
@@ -100,7 +100,7 @@
                                                     <!-- <a class="second-link" href="">
                                                                                                                                     WiFi
                                                                                                                                 </a> -->
-                        <a class="second-link" href="../help/printerSetup.php#LIONPRINT">
+                        <a class="second-link" href="/help/Printing/">
                         Printers
                         </a>
                         <a class="second-link" href="../help/MacAddress.php#OSX">
@@ -183,7 +183,7 @@
                         <a class="first-link" href=""><img src="../images/tutorials/gears.png" alt="Other" width="75" height="75" /><br />
                    Other
                         </a>
-                        <a class="second-link" href="../help/printerSetup.php#UBUNTUPRINT">
+                        <a class="second-link" href="/Help/Printing/Ubuntu.php">
                         Linux Printers
                         </a>
                         <a class="second-link" href="/info/ComputerRecommendations.php">

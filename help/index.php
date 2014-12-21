@@ -163,7 +163,7 @@
                         <a class="second-link" href="../help/consoles-xbox360.php">
                         Xbox 360
                         </a>
-                        <a class="second-link" href="../help/consoles-ps3.php">
+                        <a class="second-link" href="/Help/Consoles/PS3.php">
                         PlayStation 3
                         </a>
                                                     <!-- <a class="second-link" href="">

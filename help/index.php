@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="../css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
-        <script type="text/javascript" src="../js/jquery-1.4.2.js"></script>
-        <script type="text/javascript" src="../js/slickBox.js"></script>
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+        <script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/js/slickBox.js"></script>
 
         <title>Resnet :: Tutorials</title>
 
@@ -69,15 +69,16 @@
                         </a>
                         <a class="second-link" href="/help/Mail/Outlook.php">
                         Outlook
-                        <a class="second-link" href="/help/MacAddress.php#VISTA">
+                            <a class="second-link" href="/help/MacAddress.php#VISTA">
                         Finding Your MAC Address
-                        </a>
-                        <a class="second-link" href="/help/Mail/WindowsLive.php">
+                            </a>
+                            <a class="second-link" href="/help/Mail/WindowsLive.php">
                         Windows Live Mail
+                            </a>
                         </a>
                     </div>
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/wifiIcon.png" alt="WiFi" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/wifiIcon.png" alt="WiFi" width="75" height="75" /><br />
                    Networks
                         </a>
                         <a class="second-link" href="/wireless/index.php">
@@ -94,16 +95,16 @@
                         </a>
                     </div>
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/appleLogo.png" alt="Apple" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/appleLogo.png" alt="Apple" width="75" height="75" /><br />
                    Apple
                         </a>
                                                     <!-- <a class="second-link" href="">
-                                                                                                                                    WiFi
-                                                                                                                                </a> -->
+                                                                                                                                                                WiFi
+                                                                                                                                                            </a> -->
                         <a class="second-link" href="/help/Printing/">
                         Printers
                         </a>
-                        <a class="second-link" href="../help/MacAddress.php#OSX">
+                        <a class="second-link" href="/help/MacAddress.php#OSX">
                         Finding Your MAC Address
                         </a>
                         <a class="second-link" href="/help/Mail/Apple.php">
@@ -111,50 +112,50 @@
                         </a>
                     </div>
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/emailIcon.png" alt="Mail" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/emailIcon.png" alt="Mail" width="75" height="75" /><br />
                    Mail
                         </a>
                         <a class="second-link" href="/help/Mail/Android.php">
                         Android
                         </a>
-                        <a class="second-link" href="../help/Mail/iOS.php">
+                        <a class="second-link" href="/help/Mail/iOS.php">
                         iOS
                         </a>
-                        <a class="second-link" href="../help/Mail/Apple.php">
+                        <a class="second-link" href="/help/Mail/Apple.php">
                         Apple Mail
                         </a>
-                        <a class="second-link" href="../help/Mail/Outlook.php">
+                        <a class="second-link" href="/help/Mail/Outlook.php">
                         Outlook
                         </a>
-                        <a class="second-link" href="../help/Mail/WindowsPhone8.php">
+                        <a class="second-link" href="/help/Mail/WindowsPhone8.php">
                         Windows Phone 8 Email
                         </a>
-                        <a class="second-link" href="../help/Mail/">
+                        <a class="second-link" href="/help/Mail/">
                         Additional Email Tutorials
                         </a>
                     </div>
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/mobileIcon.png" alt="Mobile" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/mobileIcon.png" alt="Mobile" width="75" height="75" /><br />
                    Mobile
                         </a>
-                        <a class="second-link" href="../wireless/android.php">
+                        <a class="second-link" href="/wireless/android.php">
                         Android WiFi
                         </a>
-                        <a class="second-link" href="../wireless/resnet40-iphone.php">
+                        <a class="second-link" href="/wireless/resnet40-iphone.php">
                         iOS WiFi
                         </a>
                         <a class="second-link" href="/help/Mail/Android.php">
                         Android Email
                         </a>
-                        <a class="second-link" href="../help/Mail/iOS.php">
+                        <a class="second-link" href="/help/Mail/iOS.php">
                         iOS Email
                         </a>
-                        <a class="second-link" href="../help/Mail/WindowsPhone8.php">
+                        <a class="second-link" href="/help/Mail/WindowsPhone8.php">
                         Windows Phone 8 Email
                         </a>
                     </div>
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/consoleIcon.png" alt="Entertainment & Media" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/consoleIcon.png" alt="Entertainment & Media" width="75" height="75" /><br />
                    Entertainment & Media
                         </a>
                         <a class="second-link" href="/Help/Consoles/XBox360.php">
@@ -164,23 +165,23 @@
                         PlayStation 3
                         </a>
                                                     <!-- <a class="second-link" href="">
-                                                                                                                                    Xbox One
-                                                                                                                                </a>
-                                                                                                                                <a class="second-link" href="">
-                                                                                                                                    PlayStation 4
-                                                                                                                                </a> -->
-                        <a class="second-link" href="../help/other-appletv.php">
+                                                                                                                                                                Xbox One
+                                                                                                                                                            </a>
+                                                                                                                                                            <a class="second-link" href="">
+                                                                                                                                                                PlayStation 4
+                                                                                                                                                            </a> -->
+                        <a class="second-link" href="/help/other-appletv.php">
                         AppleTV
                         </a>
                         <a class="second-link" href="/help/Consoles/consoles.php">
                         Other Consoles
                         </a>
                                                     <!-- <a class="second-link" href="">
-                                                                                                                                    Other Media Streaming Devices
-                                                                                                                                </a> -->
+                                                                                                                                                                Other Media Streaming Devices
+                                                                                                                                                            </a> -->
                     </div>
                     <div class="slide-btn">
-                        <a class="first-link" href=""><img src="../images/tutorials/gears.png" alt="Other" width="75" height="75" /><br />
+                        <a class="first-link" href=""><img src="/images/tutorials/gears.png" alt="Other" width="75" height="75" /><br />
                    Other
                         </a>
                         <a class="second-link" href="/Help/Printing/Ubuntu.php">
@@ -195,7 +196,7 @@
                     </div>
                 </div>
             </div>
-            <?php include_once("../includes/footer.inc.php") ?>
+            <?php include_once($path . "/includes/footer.inc.php") ?>
         </div>
 
 

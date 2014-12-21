@@ -91,7 +91,7 @@
 
                 <p class="answer">
                             To connect to any wireless network on campus you will need your BearPass user name
-                            and Bearpass password. Click <a href="../wireless/" title="Wireless Access"> here</a> for more information.
+                            and Bearpass password. Click <a href="/wireless/" title="Wireless Access"> here</a> for more information.
                 </p>
 
                 <h3>How do the Ethernet jacks located in each of the residence hall rooms work?</h3>

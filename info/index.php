@@ -38,7 +38,7 @@
                     <h2>Useful Information</h2>
                     <p class="answer">
             	For more information to help you while living in the residence halls, please follow the links below.
-                If you have any questions not answered below, please <a href="../contact.php">contact us</a> and we will be happy to help.
+                If you have any questions not answered below, please <a href="/contact.php">contact us</a> and we will be happy to help.
                     </p>
                     <h3><a href="safeCompute.php">Safe Computing Practices</a></h3>
                     <p class="indent">
@@ -56,22 +56,22 @@
                     <p class="indent">
                 Information about the print quota system on the front desk printers.
                     </p>
-                    <h3><a href="../labs/index.php">Labs</a></h3>
+                    <h3><a href="/labs/index.php">Labs</a></h3>
                     <p class="indent">
                 Information about the labs in each of the residence halls.
                     </p>
                     <ul>
-                        <li><a href="../labs/blairLab.php">Blair-Shannon Lab</a></li>
-                        <li><a href="../labs/freddyLab.php">Freudenberger Lab</a></li>
-                        <li><a href="../labs/hammonsLab.php">Hammons Lab</a></li>
-                        <li><a href="../labs/hutchensLab.php">Hutchens Lab</a></li>
-                        <li><a href="../labs/kentwoodLab.php">Kentwood Lab</a></li>
-                        <li><a href="../labs/scholarsLab.php">Scholars Lab</a></li>
-                        <li><a href="../labs/sunvillaLab.php">Sunvilla Lab</a></li>
-                        <li><a href="../labs/wellsLab.php">Wells Lab</a></li>
-                        <li><a href="../labs/woodsLab.php">Woods Lab</a></li>
+                        <li><a href="/labs/blairLab.php">Blair-Shannon Lab</a></li>
+                        <li><a href="/labs/freddyLab.php">Freudenberger Lab</a></li>
+                        <li><a href="/labs/hammonsLab.php">Hammons Lab</a></li>
+                        <li><a href="/labs/hutchensLab.php">Hutchens Lab</a></li>
+                        <li><a href="/labs/kentwoodLab.php">Kentwood Lab</a></li>
+                        <li><a href="/labs/scholarsLab.php">Scholars Lab</a></li>
+                        <li><a href="/labs/sunvillaLab.php">Sunvilla Lab</a></li>
+                        <li><a href="/labs/wellsLab.php">Wells Lab</a></li>
+                        <li><a href="/labs/woodsLab.php">Woods Lab</a></li>
                     </ul>
-                    <h3><a href="../wireless/index.php">Wireless Access</a></h3>
+                    <h3><a href="/wireless/index.php">Wireless Access</a></h3>
                     <p class="indent">
                 Information about wireless access provided in many of the facilities on campus, including the residence halls.
                     </p>
@@ -79,8 +79,6 @@
                     <p class="indent">
                 Common questions answered.
                     </p>
-
-
                     <!-- end content -->
                 </div>
 

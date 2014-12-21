@@ -72,8 +72,5 @@
             </div>
             <?php include_once($path . "/includes/footer.inc.php") ?>
         </div>
-
-
-
     </body>
 </html>

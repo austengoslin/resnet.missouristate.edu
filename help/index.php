@@ -43,7 +43,7 @@
                         <a class="second-link" href="/Help/Printing/Windows7.php">
                         Windows 7
                         </a>
-                        <a class="second-link" href="/help/printerSetupWin8.php">
+                        <a class="second-link" href="/Help/Printing/Windows8.php">
                         Windows 8 and 8.1
                         </a>
                         <a class="second-link" href="/help/Printing/OSX-Legacy.php">

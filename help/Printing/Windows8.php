@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="../css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
-        <script type="text/javascript" src="../js/jquery-1.4.2.js"></script>
-        <script type="text/javascript" src="../js/slickBox.js"></script>
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+        <script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/js/slickBox.js"></script>
 
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -21,11 +21,14 @@
 
         <title>Resnet :: Tutorials :: Printer Setup</title>
     </head>
+    <?php
+        $path = $_SERVER['DOCUMENT_ROOT'];
+    ?>
     <body>
-        <?php include_once("../includes/navBar_primary.inc.php"); ?>
+        <?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
 
         <div id="wrapper">
-            <?php include_once("../includes/header_primary.inc.php"); ?>
+            <?php include_once($path . "/includes/header_primary.inc.php"); ?>
 
             <div id="Main">
                 <!-- start content -->
@@ -39,19 +42,19 @@
                         <li>
 								At the start screen, begin typing <strong>\\resprint.missouristate.edu</strong>
                         </li>
-                        <img class="imgBorder" src="../images/printerSetup/Windows8/printerSetup-windows8-1.png" width="575" alt="Main start screen" />
+                        <img class="imgBorder" src="/images/printerSetup/Windows8/printerSetup-windows8-1.png" width="575" alt="Main start screen" />
                         <li>
 								A box will appear as soon as you begin typing. Once you're done typing it in, hit <strong>enter</strong>
                         </li>
-                        <img class="imgBorder" src="../images/printerSetup/Windows8/printerSetup-windows8-2.png" alt="run command" />
+                        <img class="imgBorder" src="/images/printerSetup/Windows8/printerSetup-windows8-2.png" alt="run command" />
                         <li>
 								You will be prompted to enter your <a href="http://www.missouristate.edu/BearPass">BearPass Login and password</a>. Be sure to have <strong>@SGF</strong> after your BearPass login
                         </li>
-                        <img class="imgBorder" src="../images/printerSetup/Windows8/printerSetup-windows8-3.png" alt="run command" />
+                        <img class="imgBorder" src="/images/printerSetup/Windows8/printerSetup-windows8-3.png" alt="run command" />
                         <li>
-								A window will appear with all of the printers listed. Locate the appropriate printer for your building by using the list below.  <strong>Right-click</strong> on the printer and select <strong>Connect...</strong>
+								A window will appear with all of the printers listed. Locate the appropriate printer for your building by using the list below.  <strong>Right-click</strong> on the printer and select <strong>Connect.</strong>
                         </li>
-                        <img class="imgBorder" src="../images/printerSetup/Windows8/printerSetup-windows8-4.png" alt="run command" />
+                        <img class="imgBorder" src="/images/printerSetup/Windows8/printerSetup-windows8-4.png" alt="run command" />
                         <table>
                             <tr>
                                 <th>Residence Hall</th>
@@ -101,22 +104,22 @@
                         <li>
 						The process of your computer installing the printer may take a few minutes, but it will install the printer and appear in your printer list.
                         </li>
-                        <img class="imgBorder" src="../images/printerSetup/Windows8/printerSetup-windows8-6.png" alt="run command" />
+                        <img class="imgBorder" src="/images/printerSetup/Windows8/printerSetup-windows8-6.png" alt="run command" />
                         <li>
 						Each time you need to print, you will need to go through the first three steps to ensure you are connected to the server.
                         </li>
                     </ol>
                     <p class="answer">
                 	If you have any difficulties with this tutorial, please feel free to
-                        <a href="../contact.php" title="contact us">contact</a> the ResNet Offices (417 836-6100) for assistance.
+                        <a href="/contact.php" title="contact us">contact</a> the ResNet Offices (417 836-6100) for assistance.
                     </p>
                     <!-- end content -->
                 </div>
             </div>
             <div id="LeftNav">
-                <?php include_once("../includes/LeftNav.php") ?>
+                <?php include_once($path . "/includes/LeftNav.php") ?>
             </div>
-            <?php include_once("../includes/footer.inc.php") ?>
+            <?php include_once($path . "/includes/footer.inc.php") ?>
         </div>
     </body>
 </html>

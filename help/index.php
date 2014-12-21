@@ -89,7 +89,7 @@
                         <a class="second-link" href="/help/resreg.php">
                         Wired Registration
                         </a>
-                        <a class="second-link" href="/help/netShares.php">
+                        <a class="second-link" href="/help/NetworkShares.php">
                         Network Shares
                         </a>
                         <a class="second-link" href="/help/MacAddress.php">
@@ -192,7 +192,7 @@
                         <a class="second-link" href="/info/ComputerRecommendations.php">
                         Computer Recommendations
                         </a>
-                        <a class="second-link" href="../help/netShares.php">
+                        <a class="second-link" href="/help/NetworkShares.php">
                         Connect To Network Shares
                         </a>
                     </div>

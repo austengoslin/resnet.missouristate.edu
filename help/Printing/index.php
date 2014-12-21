@@ -40,7 +40,7 @@
                         <strong>Jump To: </strong>
                   &nbsp;|&nbsp;<a href="./printerSetupWin7.php">Windows 7</a>
                   &nbsp;|&nbsp;<a href="./printerSetupWin8.php">Windows 8 and 8.1</a>
-                  &nbsp;|&nbsp;<a href="./printerSetupUbuntu.php">Ubuntu</a>
+                  &nbsp;|&nbsp;<a href="/Help/Printing/Ubuntu.php">Ubuntu</a>
                   &nbsp;|&nbsp;<a href="/Help/Printing/MacLegacy.php">Mac OS X 10.5 and 10.6</a> <br />
                   &nbsp;|&nbsp;<a href="/Help/Printing/MacModern.php">Mac OS X 10.7 - 10.10</a>
 

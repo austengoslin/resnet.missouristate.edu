@@ -52,7 +52,7 @@
                         <a class="second-link" href="/help/Printing/MacModern.php">
                         Mac OS X (10.7 - 10.10)
                         </a>
-                        <a class="second-link" href="/help/printerSetupUbuntu.php">
+                        <a class="second-link" href="/Help/Printing/Ubuntu.php">
                         Ubuntu
                         </a>
                     </div>

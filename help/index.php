@@ -160,7 +160,7 @@
                         <a class="first-link" href=""><img src="../images/tutorials/consoleIcon.png" alt="Entertainment & Media" width="75" height="75" /><br />
                    Entertainment & Media
                         </a>
-                        <a class="second-link" href="../help/consoles-xbox360.php">
+                        <a class="second-link" href="/Help/Consoles/XBox360.php">
                         Xbox 360
                         </a>
                         <a class="second-link" href="/Help/Consoles/PS3.php">

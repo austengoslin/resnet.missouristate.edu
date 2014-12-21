@@ -52,7 +52,7 @@
             <h3>Connecting to the Front Desk Printers</h3>
             <p>
                 Regardless of operating system, configuring a computer to connect to the front desk printer is a quick and easy process.
-                For specific instructions, please consult our <a href="http://resnet.missouristate.edu/help/printerSetup.php" title="Connecting to Front Desk Printers">
+                For specific instructions, please consult our <a href="http://resnet.missouristate.edu/help/Printing/" title="Connecting to Front Desk Printers">
                 Connecting to Front Desk Printers</a> tutorial.
                 <br /><br /><strong>Note:</strong> <em>You must complete the steps to log into the print server each time before you submit a print request.</em>	
             </p>
@@ -108,7 +108,7 @@
                 This will effectively double the amount of printing a student can do.
                 <br /><br />
                 
-            <strong>Note:</strong> <em>Macintosh users must manually select the "Two-Sided" option to print double-sided. See our <a href="../help/printerSetup.php" title="printer setup tutorial"> printer setup tutorial</a> for more information.</em>
+            <strong>Note:</strong> <em>Macintosh users must manually select the "Two-Sided" option to print double-sided. See our <a href="../help/Printing/" title="printer setup tutorial"> printer setup tutorial</a> for more information.</em>
             </p>
 
             <!-- Not useful

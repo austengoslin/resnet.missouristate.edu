@@ -147,7 +147,7 @@
                 <h3>Can I use my residence hall's front desk laser printer from my room?</h3>
 
                 <p class="answer">
-                            Yes. For information on connecting to the residence hall printers, please consult our <a href="/help/printerSetup.php" title="Connecting to the front desk printer">
+                            Yes. For information on connecting to the residence hall printers, please consult our <a href="/help/Printing/" title="Connecting to the front desk printer">
                             connecting to the front desk printer</a> page.
                 </p>
 

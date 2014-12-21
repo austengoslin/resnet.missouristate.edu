@@ -64,7 +64,6 @@
 				<h4>Find your Console's MAC Address</h4>
 				<ul><li><a href="consoles-xbox.php">Microsoft Xbox</a></li>
 					<li><a href="consoles-xbox360.php">Microsoft Xbox 360</a></li>
-					<li><a href="consoles-gc.php">Nintendo GameCube</a></li>
 					<li><a href="consoles-wii.php">Nintendo Wii</a></li>
 					<li><a href="consoles-ps2.php">Sony PS2</a></li>
 					<li><a href="consoles-ps3.php">Sony PS3</a></li>

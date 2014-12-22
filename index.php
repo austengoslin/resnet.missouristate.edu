@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
         <meta name="description" content="We provide technical assistance to the department of reslife and to students living on campus" />
 
         <title>ResNet</title>
@@ -19,23 +19,25 @@
             ga('send', 'pageview');
             
         </script>
-        <!--
-        <script type="text/javascript">
-            if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
-                window.location = "http://resnet.missouristate.edu/mobile/index.html";
-            } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
-                window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
-            }
-        </script>
-        -->
+                    <!--
+                    <script type="text/javascript">
+                        if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
+                            window.location = "http://resnet.missouristate.edu/mobile/index.html";
+                        } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
+                            window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
+                        }
+                    </script>
+                    -->
     </head>
+    <?php
+        $path = $_SERVER['DOCUMENT_ROOT'];
+    ?>
     <body>
-        <?php include_once("includes/navBar_primary.inc.php"); ?>
-        
-        <div id="wrapper">
-            <?php include_once("includes/header_primary.inc.php"); ?>
-            <!-- <div id="homeCopy"></div> -->
+        <?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
 
+        <div id="wrapper">
+            <?php include_once($path . "/includes/header_primary.inc.php"); ?>
+            <!-- <div id="homeCopy"></div> -->
             <div class="banner">
                 <img src="\images\banner.jpg" />
             </div>
@@ -52,39 +54,23 @@
                         </ul>
                     </div>
                     <div id="Welcome-Left">
-                        ResNet is the technology hub for students who live on campus at Missouri State University in 
-                        Springfield.  All of our services are free of charge to on-campus residents. If you are having 
+                        ResNet is the technology hub for students who live on campus at Missouri State University in
+                        Springfield.  All of our services are free of charge to on-campus residents. If you are having
                         issues related to technology, feel free to <a href="/contact.php">contact us</a> and we will assist in any way that we can.
                         <br />
                         <br />
                         -Seth Thoenen, ResNet Administrator
-                    </div>                    
-                    <div>
-                        
                     </div>
-                    
+                    <div>
+
+                    </div>
+
 
                 </div>
                 <div class="hr"></div>
-                <!--
-                <div class="left1">
-                    
-                    
-                    <h2>ResNet Video Tutorials</h2>
-                    <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
-                        <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
-                        <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
-                    
-                </div>
-                <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
-                <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
-                <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
-                -->
             </div>
             <div id="LeftNav">
-                <?php include_once("includes/LeftNav.php"); ?>
+                <?php include_once($path . "/includes/LeftNav.php"); ?>
                 <div>
                     <h3 class="textHeader">Office Hours</h3>
                     <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
@@ -201,7 +187,7 @@
                 <!-- /.post -->
             </div>
 
-            <?php include_once("includes/footer.inc.php"); ?>
+            <?php include_once($path . "/includes/footer.inc.php"); ?>
         </div>
     </body>
 </html>

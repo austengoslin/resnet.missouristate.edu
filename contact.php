@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="css/contact.css" type="text/css" />
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/contact.css" type="text/css" />
         <title>ResNet :: Contact Us</title>
 
         <script>
@@ -18,91 +18,93 @@
             
         </script>
     </head>
-
+    <?php
+        $path = $_SERVER['DOCUMENT_ROOT'];
+    ?>
     <body>
-        <?php include_once("includes/navBar_primary.inc.php"); ?>
+        <?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
         <div id="wrapper">
-            <?php include_once("includes/header_primary.inc.php"); ?>
+            <?php include_once($path . "/includes/header_primary.inc.php"); ?>
 
             <div id="LeftNav">
-                <?php include_once("includes/LeftNav.php"); ?>
+                <?php include_once($path . "/includes/LeftNav.php"); ?>
             </div>
             <div id="Main">
-            <div class="contactheader">Contact Us</div>
-            <div class="contactcontent">
+                <div class="contactheader">Contact Us</div>
+                <div class="contactcontent">
                                 You can contact us through phone, walk-ins, or via email.
                                 We apologize ahead of time since we are unable to quickly respond during our out of office hours.
                                 Feel free to send emails and leave voicemails and we will get
                                 back to you as soon as possible. For students we return calls after
                                 10 AM.
-            </div>
-            <div class="contactheader2">Office Hours</div>
-            <div class="contactcontent">
+                </div>
+                <div class="contactheader2">Office Hours</div>
+                <div class="contactcontent">
                             ResNet is Located in the basement of Hutchens House at<br />
                             Missouri State University's Springfield Campus.<br />
                             Phone: <u>(417)-836-6100</u><br /><br />
-                <table class="center">
-                    <tr>
-                        <th>MONDAY</th>
-                        <th>:</th>
-                        <th> 8AM - 5PM</th>
-                    </tr>
-                    <tr>
-                        <th>TUESDAY</th>
-                        <th>:</th>
-                        <th> 8AM - 5PM</th>
-                    </tr>
-                    <tr>
-                        <th>WEDNESDAY</th>
-                        <th>:</th>
-                        <th> 8AM - 5PM</th>
-                    </tr>
-                    <tr>
-                        <th>THURSDAY</th>
-                        <th>:</th>
-                        <th> 8AM - 5PM</th>
-                    </tr>
-                    <tr>
-                        <th>FRIDAY</th>
-                        <th>:</th>
-                        <th> 8AM - 5PM</th>
-                    </tr>
-                    <tr>
-                        <th>SATURDAY</th>
-                        <th>:</th>
-                        <th> 12PM - 4PM</th>
-                    </tr>
-                    <tr>
-                        <th>SUNDAY</th>
-                        <th>:</th>
-                        <th> 12PM - 4PM</th>
-                    </tr>
-                </table>
-                <br />
+                    <table class="center">
+                        <tr>
+                            <th>MONDAY</th>
+                            <th>:</th>
+                            <th> 8AM - 5PM</th>
+                        </tr>
+                        <tr>
+                            <th>TUESDAY</th>
+                            <th>:</th>
+                            <th> 8AM - 5PM</th>
+                        </tr>
+                        <tr>
+                            <th>WEDNESDAY</th>
+                            <th>:</th>
+                            <th> 8AM - 5PM</th>
+                        </tr>
+                        <tr>
+                            <th>THURSDAY</th>
+                            <th>:</th>
+                            <th> 8AM - 5PM</th>
+                        </tr>
+                        <tr>
+                            <th>FRIDAY</th>
+                            <th>:</th>
+                            <th> 8AM - 5PM</th>
+                        </tr>
+                        <tr>
+                            <th>SATURDAY</th>
+                            <th>:</th>
+                            <th> 12PM - 4PM</th>
+                        </tr>
+                        <tr>
+                            <th>SUNDAY</th>
+                            <th>:</th>
+                            <th> 12PM - 4PM</th>
+                        </tr>
+                    </table>
+                    <br />
                         Resnet is open from 10AM-6PM on the Saturday and Sunday preceding the begining
                         of the Fall and Spring Semesters. ResNet observes all Missouri State University Holidays
                         and will be closed if university offices are closed.
-            </div>
-            <div class="contactheader2">Email Us</div><br />
-            <div id="content">
-                <!-- Content -->
-                <div id="fullWidth">
+                </div>
+                <div class="contactheader2">Email Us</div><br />
+                <div id="content">
+                    <!-- Content -->
+                    <div id="fullWidth">
 
 
 
-                    <script type="text/javascript">
-                        var __machform_url = 'https://forms.missouristate.edu/embed.php?id=12422';
-                        var __machform_height = 953;
-                    </script>
-                    <div id="mf_placeholder"></div>
-                    <script type="text/javascript" src="https://forms.missouristate.edu/js/jquery.min.js"></script>
-                    <script type="text/javascript" src="https://forms.missouristate.edu/js/jquery.ba-postmessage.min.js"></script>
-                    <script type="text/javascript" src="https://forms.missouristate.edu/js/machform_loader.js"></script>
+                        <script type="text/javascript">
+                            var __machform_url = 'https://forms.missouristate.edu/embed.php?id=12422';
+                            var __machform_height = 953;
+                        </script>
+                        <div id="mf_placeholder"></div>
+                        <script type="text/javascript" src="https://forms.missouristate.edu/js/jquery.min.js"></script>
+                        <script type="text/javascript" src="https://forms.missouristate.edu/js/jquery.ba-postmessage.min.js"></script>
+                        <script type="text/javascript" src="https://forms.missouristate.edu/js/machform_loader.js"></script>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <?php include_once("includes/footer.inc.php"); ?>
+            <?php include_once($path . "/includes/footer.inc.php"); ?>
         </div>
         </div>
         </div>

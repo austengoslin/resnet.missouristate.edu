@@ -49,7 +49,7 @@
                     <p>Both laptops and desktop computers have their advantages and disadvantages.
                 Primary factors in the decision to purchase one or the other usually include price, performance, and the ability to upgrade them.
                 Laptops are nearly always more expensive, and are, for the most part, not upgradeable (meaning you'll never have more than what you initially buy).
-                However, laptops offer mobility, take up less space, use less power, and can access the <a href="/wireless/index.php" title="Wirless Information">wireless network</a> without purchasing additional equipment upgrades.
+                However, laptops offer mobility, take up less space, use less power, and can access the <a href="/Help/Wireless/" title="Wirless Information">wireless network</a> without purchasing additional equipment upgrades.
                     </p>
                     <p>&nbsp;</p>
 

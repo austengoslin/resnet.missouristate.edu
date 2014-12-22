@@ -61,7 +61,7 @@
                         <a class="first-link" href=""><img src="/images/tutorials/windowsLogo.png" alt="Windows" width="75" height="75" /><br />
                    Windows
                         </a>
-                        <a class="second-link" href="/wireless/resnet40-Win8.php">
+                        <a class="second-link" href="/Help/Wireless/Windows8.php">
                         WiFi
                         </a>
                         <a class="second-link" href="/Help/Printing/">
@@ -81,7 +81,7 @@
                         <a class="first-link" href=""><img src="/images/tutorials/wifiIcon.png" alt="WiFi" width="75" height="75" /><br />
                    Networks
                         </a>
-                        <a class="second-link" href="/wireless/index.php">
+                        <a class="second-link" href="/Help/Wireless/">
                         WiFi Setup
                         </a>
                         <a class="second-link" href="/help/resreg.php">
@@ -98,9 +98,6 @@
                         <a class="first-link" href=""><img src="/images/tutorials/appleLogo.png" alt="Apple" width="75" height="75" /><br />
                    Apple
                         </a>
-                                                    <!-- <a class="second-link" href="">
-                                                                                                                                                                WiFi
-                                                                                                                                                            </a> -->
                         <a class="second-link" href="/help/Printing/">
                         Printers
                         </a>
@@ -138,10 +135,10 @@
                         <a class="first-link" href=""><img src="/images/tutorials/mobileIcon.png" alt="Mobile" width="75" height="75" /><br />
                    Mobile
                         </a>
-                        <a class="second-link" href="/wireless/android.php">
+                        <a class="second-link" href="/Help/Wireless/Android.php">
                         Android WiFi
                         </a>
-                        <a class="second-link" href="/wireless/resnet40-iphone.php">
+                        <a class="second-link" href="/Help/Wireless/iOS.php">
                         iOS WiFi
                         </a>
                         <a class="second-link" href="/help/Mail/Android.php">
@@ -164,21 +161,12 @@
                         <a class="second-link" href="/Help/Consoles/PS3.php">
                         PlayStation 3
                         </a>
-                                                    <!-- <a class="second-link" href="">
-                                                                                                                                                                Xbox One
-                                                                                                                                                            </a>
-                                                                                                                                                            <a class="second-link" href="">
-                                                                                                                                                                PlayStation 4
-                                                                                                                                                            </a> -->
                         <a class="second-link" href="/help/other-appletv.php">
                         AppleTV
                         </a>
                         <a class="second-link" href="/help/Consoles/consoles.php">
                         Other Consoles
                         </a>
-                                                    <!-- <a class="second-link" href="">
-                                                                                                                                                                Other Media Streaming Devices
-                                                                                                                                                            </a> -->
                     </div>
                     <div class="slide-btn">
                         <a class="first-link" href=""><img src="/images/tutorials/gears.png" alt="Other" width="75" height="75" /><br />

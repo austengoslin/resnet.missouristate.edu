@@ -71,7 +71,7 @@
                         <li><a href="/labs/wellsLab.php">Wells Lab</a></li>
                         <li><a href="/labs/woodsLab.php">Woods Lab</a></li>
                     </ul>
-                    <h3><a href="/wireless/index.php">Wireless Access</a></h3>
+                    <h3><a href="/Help/Wireless/">Wireless Access</a></h3>
                     <p class="indent">
                 Information about wireless access provided in many of the facilities on campus, including the residence halls.
                     </p>

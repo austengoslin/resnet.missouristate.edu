@@ -35,19 +35,19 @@
                 <h2>Connecting a Kindle Fire to the Wireless Network</h2>
                 <ol>
                     <li>Tap the gear icon in the top right corner.</li>
-                    <img class="imgBorder" src="../images/wireless/wireless-kindle1.png" alt="kindle1" />
+                    <img class="imgBorder" src="/images/wireless/wireless-kindle1.png" alt="kindle1" />
 
                     <li>After the quick settings menu drops down, tap the Wi-Fi icon.</li>
-                    <img class="imgBorder" src="../images/wireless/wireless-kindle2.png" alt="kindle2" />
+                    <img class="imgBorder" src="/images/wireless/wireless-kindle2.png" alt="kindle2" />
 
                     <li>Make sure your Wireless Networking slider is set to on. After that, select "resnet 40" from the network list.</li>
-                    <img class="imgBorder" src="../images/wireless/wireless-kindle3.png" alt="kindle3" />
+                    <img class="imgBorder" src="/images/wireless/wireless-kindle3.png" alt="kindle3" />
 
                     <li>Change "Phase 2 authentication" to MSCHAPV2. <br />In the "Identity" enter your BearPass login indormation. This is usually similar to abc123. <br /> Put your password in the "Password" box. <br />After you fill those in, tap connect.</li>
-                    <img class="imgBorder" src="../images/wireless/wireless-kindle4.png" alt="kindle4" />
+                    <img class="imgBorder" src="/images/wireless/wireless-kindle4.png" alt="kindle4" />
 
                     <li>Congratulations! You should be connected now and your Wi-Fi screen should look like the following image.</li>
-                    <img class="imgBorder" src="../images/wireless/wireless-kindle5.png" alt="kindle5" />
+                    <img class="imgBorder" src="/images/wireless/wireless-kindle5.png" alt="kindle5" />
 
                 </ol>
 

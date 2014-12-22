@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="../css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
-        <script type="text/javascript" src="../js/jquery-1.4.2.js"></script>
-        <script type="text/javascript" src="../js/slickBox.js"></script>
+        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+        <script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/js/slickBox.js"></script>
 
         <title>Resnet :: Tutorials :: Wireless :: Configuring Resnet 40 on Windows 7</title>
 
@@ -48,9 +48,9 @@
                     <ol class="indent">
                         <li>
                     Select the wireless icon in the righthand corner</li>
-                        <img class="imgBorder" src="../images/wireless/wireless_chrome_01.png" alt="wireless-resnet40-chrome-1" />
+                        <img class="imgBorder" src="/images/wireless/wireless_chrome_01.png" alt="wireless-resnet40-chrome-1" />
                         <li>Choose "resnet 40" from the list of available networks</li>
-                        <img class="imgBorder" src="../images/wireless/wireless_chrome_02.png" alt="wireless-resnet40-chrome-2" />
+                        <img class="imgBorder" src="/images/wireless/wireless_chrome_02.png" alt="wireless-resnet40-chrome-2" />
                         <li>When the above window appears, enter the following information:
                             <ul>
                                 <li>EAP method: PEAP</li>
@@ -69,7 +69,7 @@
                     </ol>
                     <p class="answer">
                 	If you have any difficulties with this tutorial, please feel free to
-                        <a href="../contact.php" title="contact us">contact</a> either the ResNet Offices (417 836-6100)
+                        <a href="/contact.php" title="contact us">contact</a> either the ResNet Offices (417 836-6100)
                 	or the open access computer labs (417 836-5891 #4) for assistance.
                     </p>
 
@@ -79,9 +79,9 @@
                 </div>
             </div>
             <div id="LeftNav">
-                <?php include_once("../includes/LeftNav.php") ?>
+                <?php include_once($path . "/includes/LeftNav.php") ?>
             </div>
-            <?php include_once("../includes/footer.inc.php") ?>
+            <?php include_once($path . "/includes/footer.inc.php") ?>
         </div>
 
 

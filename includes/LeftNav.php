@@ -4,7 +4,7 @@
         <a href="/"><li>
             Home
         </li></a>
-        <a href="/about.php"><li>
+        <a href="/Info/About.php"><li>
             About
         </li></a>
         <a href="/contact.php"><li>

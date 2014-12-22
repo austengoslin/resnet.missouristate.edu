@@ -451,7 +451,7 @@ a.second-link {
 }
 
 .slide-btn {
-    height: 230px;
+    height: 200px;
     font: normal normal 700 1em/2em Verdana, sans-serif;
     overflow: hidden;
     width: 232px;
@@ -495,7 +495,7 @@ a.second-link {
     -moz-column-gap: 10px;
     column-gap: 10px;
     margin-top: 10px;
-    height: 715px;
+    height: 621px;
 }
 /*End 4 column layout*/
 

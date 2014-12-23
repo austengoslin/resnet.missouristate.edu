@@ -40,46 +40,107 @@
             	For more information to help you while living in the residence halls, please follow the links below.
                 If you have any questions not answered below, please <a href="/contact.php">contact us</a> and we will be happy to help.
                     </p>
-                    <h3><a href="safeCompute.php">Safe Computing Practices</a></h3>
-                    <p class="indent">
-                Common practices that can help make your computer more secure.
-                    </p>
-                    <h3><a href="bandwidth.php">Bandwidth Quota</a></h3>
-                    <p class="indent">
-                Information about the bandwidth quota system and how it affects you the student.
-                    </p>
-                    <h3><a href="security.php">Network Security</a></h3>
-                    <p class="indent">
-                Information on the university's network security measures.
-                    </p>
-                    <h3><a href="print.php">Print Quota</a></h3>
-                    <p class="indent">
-                Information about the print quota system on the front desk printers.
-                    </p>
-                    <h3><a href="/labs/index.php">Labs</a></h3>
-                    <p class="indent">
-                Information about the labs in each of the residence halls.
-                    </p>
-                    <ul>
-                        <li><a href="/labs/blairLab.php">Blair-Shannon Lab</a></li>
-                        <li><a href="/labs/freddyLab.php">Freudenberger Lab</a></li>
-                        <li><a href="/labs/hammonsLab.php">Hammons Lab</a></li>
-                        <li><a href="/labs/hutchensLab.php">Hutchens Lab</a></li>
-                        <li><a href="/labs/kentwoodLab.php">Kentwood Lab</a></li>
-                        <li><a href="/labs/scholarsLab.php">Scholars Lab</a></li>
-                        <li><a href="/labs/sunvillaLab.php">Sunvilla Lab</a></li>
-                        <li><a href="/labs/wellsLab.php">Wells Lab</a></li>
-                        <li><a href="/labs/woodsLab.php">Woods Lab</a></li>
-                    </ul>
-                    <h3><a href="/Help/Wireless/">Wireless Access</a></h3>
-                    <p class="indent">
-                Information about wireless access provided in many of the facilities on campus, including the residence halls.
-                    </p>
-                    <h3><a href="/info/faq.php">Frequently Asked Questions</a></h3>
-                    <p class="indent">
-                Common questions answered.
-                    </p>
-                    <!-- end content -->
+                    <table>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/info/safeCompute.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/computer.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Safe Computing Practices
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/info/bandwidth.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/graph.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Bandwidth Quota
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/info/security.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/lock.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Network Security
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/info/print.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/printer.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Print Quota
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/labs/">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/desktopcomputer.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Computer Labs
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/info/Help/Wifi.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/wifi.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Wireless Access
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/info/faq.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/question.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Frequently Asked Questions
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/contact.php">
+                                    <div class="largeButton">
+
+                                        <img class="img vAlign" src="/images/info/phone.png" alt="Computer" />
+                                        <div class="vAlign">
+                        Contact Information
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+
+
+
                 </div>
 
 

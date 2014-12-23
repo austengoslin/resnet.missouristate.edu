@@ -75,6 +75,41 @@ body {
     text-decoration: none;
 }
 
+.largeButton {
+    width: 300px;
+    height: 50px;
+    background-color: #BEC0C2;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin:  5px;
+    border: 1px solid white; /*This is here as a place holder so the page doesn't "jump" when the button is hovered*/
+}
+
+.largeButton .img {
+    height: 50px;
+    float: left;
+    background-position: center;
+}
+
+.largeButton:hover {
+    cursor: pointer;
+    border: 1px solid #333;
+}
+
+.noDec {
+    text-decoration: none;
+}
+
+.vAlign {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 .homeTutorialWrapper {
     position: relative;
     float: left;

@@ -127,7 +127,7 @@
                                             <img class="img" src="/images/info/question.png" alt="Lock" />
                                         </div>
                                         <div class="btnText vAlign">
-                        FAQ
+                        Frequently Asked Questions
                                         </div>
                                     </div>
                                 </a>

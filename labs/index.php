@@ -37,57 +37,144 @@
 
                 <div id="tutorial">
                     <!-- start content -->
-                    <h2>Residence Hall Computer Labs</h2>
-                    <div class="answer">For more information on a particular lab, click on its image
-            	below.<br />To view detailed information on all the labs please view
-                        <a href="http://rlslabstats:8080/public/current_stats.jsp">Lab Stats</a>.
-                    </div>
-
-                    <div id="blairShannon" class="labBox">
-                        <p><a href="blairLab.php"><img src="../images/labs/blairlabsm.png" alt="Blair-Shannon Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="blairLab.php">Blair-Shannon Lab</a></p>
-                    </div>
-                    <div id="freddyLab" class="labBox">
-                        <p><a href="freddyLab.php"><img src="../images/labs/freddylabsm.png" alt="Freudenberger Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="freddyLab.php">Freddy Lab</a></p>
-                    </div>
-                    <div id="hammonsLab" class="labBox">
-                        <p><a href="hammonsLab.php"><img src="../images/labs/hammonslabsm.png" alt="Hammons Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="hammonsLab.php">Hammons Lab</a></p>
-                    </div>
-                    <div id="hutchensLab" class="labBox">
-                        <p><a href="hutchensLab.php"><img src="../images/labs/hutchenslabsm.png" alt="Hutchens Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="hutchensLab.php">Hutchens Lab</a></p>
-                    </div>
-                    <div id="kentwoodLab" class="labBox">
-                        <p><a href="kentwoodLab.php"><img src="../images/labs/kentwoodlabsm.png" alt="Kentwood Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="kentwoodLab.php">Kentwood Lab</a></p>
-                    </div>
-                    <div id="scholarsLab" class="labBox">
-                        <p><a href="scholarsLab.php"><img src="../images/labs/scholarslabsm.png" alt="Scholars Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="scholarsLab.php">Scholars Lab</a></p>
-                    </div>
-                    <div id="sunvillaLab" class="labBox">
-                        <p><a href="sunvillaLab.php"><img src="../images/labs/sunvillalabsm.png" alt="Sunvilla Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="sunvillaLab.php">Sunvilla Lab</a></p>
-                    </div>
-                    <div id="wellsLab" class="labBox">
-                        <p><a href="wellsLab.php"><img src="../images/labs/wellslabsm.png" alt="Wells Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="wellsLab.php">Wells Lab</a></p>
-                    </div>
-                    <div id="wellsLab" class="labBox">
-                        <p><a href="woodsLab.php"><img src="../images/labs/woodslabsm.png" alt="Woods Lab" height="90" width="120" class="imgBorder" /></a></p>
-                        <p class="center"><a href="woodsLab.php">Woods Lab</a></p>
-                    </div>
-
-
-                    <div class="clear"></div>
-
-
-
-                    <!-- end content -->
+                    <h2>Useful Information</h2>
+                    <p class="answer">
+            	For more information to help you while living in the residence halls, please follow the links below.
+                If you have any questions not answered below, please <a href="/contact.php">contact us</a> and we will be happy to help.
+                    </p>
+                    <table>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/Labs/Blair.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Blair-Shannon.png" alt="Computer" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        Blair-Shannon
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/Labs/Freddy.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Freddy.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        Freddy
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/Labs/Hammons.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Hammons-Hutchens.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        Hammons
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/Labs/Hutchens.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Hammons-Hutchens.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Hutchens
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/Labs/Kentwood.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Kentwood.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        Kentwood
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/Labs/Monroe.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Monroe.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Monroe
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/Labs/Scholars.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/Labs/Scholars.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        Scholars
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/Labs/Sunvilla.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Sunvilla.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Sunvilla
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="noDec" href="/Labs/Wells.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Wells.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        Wells
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
+                                <a class="noDec" href="/Labs/Woods.php">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/labs/Woods.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Woods
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
-
 
             </div>
             <div id="LeftNav">

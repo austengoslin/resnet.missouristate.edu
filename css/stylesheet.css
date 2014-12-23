@@ -89,10 +89,19 @@ body {
     border: 1px solid white; /*This is here as a place holder so the page doesn't "jump" when the button is hovered*/
 }
 
-.largeButton .img {
+.btnText {
+    width: 225px;
+    float: right;
+}
+
+.img {
     height: 50px;
+    margin: auto;
+}
+
+.imgWrapper {
+    width: 75px;
     float: left;
-    background-position: center;
 }
 
 .largeButton:hover {

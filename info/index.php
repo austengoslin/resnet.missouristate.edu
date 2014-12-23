@@ -45,9 +45,10 @@
                             <td>
                                 <a class="noDec" href="/info/safeCompute.php">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/computer.png" alt="Computer" />
-                                        <div class="vAlign">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/computer.png" alt="Computer" />
+                                        </div>
+                                        <div class="btnText vAlign">
                         Safe Computing Practices
                                         </div>
                                     </div>
@@ -56,9 +57,10 @@
                             <td>
                                 <a class="noDec" href="/info/bandwidth.php">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/graph.png" alt="Computer" />
-                                        <div class="vAlign">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/graph.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
                         Bandwidth Quota
                                         </div>
                                     </div>
@@ -67,11 +69,12 @@
                         </tr>
                         <tr>
                             <td>
-                                <a class="noDec" href="/info/security.php">
+                                <a class="noDec" href="/info/safeCompute.php">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/lock.png" alt="Computer" />
-                                        <div class="vAlign">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/lock.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
                         Network Security
                                         </div>
                                     </div>
@@ -80,10 +83,11 @@
                             <td>
                                 <a class="noDec" href="/info/print.php">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/printer.png" alt="Computer" />
-                                        <div class="vAlign">
-                        Print Quota
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/printer.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Print Quota
                                         </div>
                                     </div>
                                 </a>
@@ -93,21 +97,23 @@
                             <td>
                                 <a class="noDec" href="/labs/">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/desktopcomputer.png" alt="Computer" />
-                                        <div class="vAlign">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/desktopcomputer.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
                         Computer Labs
                                         </div>
                                     </div>
                                 </a>
                             </td>
                             <td>
-                                <a class="noDec" href="/info/Help/Wifi.php">
+                                <a class="noDec" href="/Help/Wireless/">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/wifi.png" alt="Computer" />
-                                        <div class="vAlign">
-                        Wireless Access
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/wifi.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Wireless Access
                                         </div>
                                     </div>
                                 </a>
@@ -117,10 +123,11 @@
                             <td>
                                 <a class="noDec" href="/info/faq.php">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/question.png" alt="Computer" />
-                                        <div class="vAlign">
-                        Frequently Asked Questions
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/question.png" alt="Lock" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        FAQ
                                         </div>
                                     </div>
                                 </a>
@@ -128,10 +135,11 @@
                             <td>
                                 <a class="noDec" href="/contact.php">
                                     <div class="largeButton">
-
-                                        <img class="img vAlign" src="/images/info/phone.png" alt="Computer" />
-                                        <div class="vAlign">
-                        Contact Information
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/phone.png" alt="Chart" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                       Contact Us
                                         </div>
                                     </div>
                                 </a>

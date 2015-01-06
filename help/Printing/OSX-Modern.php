@@ -76,7 +76,7 @@
                                     <td>Blair-Shannon
                                     </td>
                                     <td>smb://resprint/blairlpr</td>
-                                    <td>HP LaserJet 9050</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Freudenberger
@@ -87,12 +87,12 @@
                                 <tr>
                                     <td>Hammons House</td>
                                     <td>smb://resprint/hammonslpr</td>
-                                    <td>HP LaserJet 4250</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Hutchens House</td>
                                     <td>smb://resprint/hutchenslpr</td>
-                                    <td>HP LaserJet 4050</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Kentwood Hall</td>
@@ -135,7 +135,7 @@
                                 <br />After you've selected the appropriate driver, click on <strong>Add</strong>.</li>
                             <img class="imgBorder" src="/images/YosemitePrinterTutorial/11.ScreenShot.png" alt="" />
                             <li>
-						If you live in <strong>Wells</strong> or <strong>Freddy</strong> you may see the following dialog box. Make sure the checkbox for <strong>Duplex Unit</strong> is checked and then click on <strong>OK</strong>.</li>
+						If you live in <strong>Blair-Shannon, Hammons, Hutchens, Freddy or Wells</strong> you may see the following dialog box. Make sure the checkbox for <strong>Duplex Unit</strong> is checked and then click on <strong>OK</strong>.</li>
                             <img class="imgBorder" src="/images/YosemitePrinterTutorial/12.ScreenShot.png" alt="" />
                             <li><strong>Congratulations you can now Print to the Front Desk!</strong></li>
                             <li>

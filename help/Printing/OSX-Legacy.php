@@ -38,8 +38,10 @@
                         <ol class="indent">
 
                             <li>
-                                <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers from <a href="/images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
-						If you live in <strong>Wells</strong> or <strong>Freddy</strong>, click <a href="http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers3.0.dmg">here</a>.<br />
+                                <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers
+                                <br />
+                                 If you live in <strong>Kentwood, Monroe, Scholars, Sunvilla, or Woods</strong>, click <a href="/images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
+						If you live in <strong>Blair-Shannon, Hammons, Hutchens, Freddy or Wells</strong>, click <a href="http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers3.0.dmg">here</a>.<br />
 		(Please only click on the link once and wait for the download to finish.)</li>
                             <img class="imgBorder" src="/images/Picture%201.png" width="575" alt="" />
                             <li>
@@ -78,7 +80,7 @@
                                     <td>Blair-Shannon
                                     </td>
                                     <td>smb://sgf/resprint/blairlpr</td>
-                                    <td>HP LaserJet 9050 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Freudenberger
@@ -89,12 +91,12 @@
                                 <tr>
                                     <td>Hammons House</td>
                                     <td>smb://sgf/resprint/hammonslpr</td>
-                                    <td>HP LaserJet 4250 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Hutchens House</td>
                                     <td>smb://sgf/resprint/hutchenslpr</td>
-                                    <td>HP LaserJet 4050 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Kentwood Hall</td>
@@ -137,7 +139,7 @@
                                 <br />After you've selected the appropriate driver, click on <strong>Add</strong>.</li>
                             <img class="imgBorder" src="/images/Picture%2042.png" alt="" />
                             <li>
-						If you live in <strong>Wells</strong> or <strong>Freddy</strong> you may see the following dialog box. Make sure the checkbox for <strong>Duplex Unit</strong> is checked and then click on <strong>OK</strong>.</li>
+						If you live in <strong>Blair-Shannon, Hammons, Hutchens, Freddy or Wells</strong> you may see the following dialog box. Make sure the checkbox for <strong>Duplex Unit</strong> is checked and then click on <strong>OK</strong>.</li>
                             <img class="imgBorder" src="/images/WellsDuplex.png" alt="" />
                             <ul>
                                 <strong>Congratulations you can now Print to the Front Desk!</strong></li>

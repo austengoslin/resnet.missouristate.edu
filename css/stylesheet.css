@@ -45,6 +45,10 @@ body {
     min-height: 450px;
 }
 
+#Main a {
+    color:  #5e0009;
+}
+
 #LeftNav {
     width: 225px;
     float: left;
@@ -480,14 +484,14 @@ h3 {
 
 /*Styles for slide buttons*/
 a.first-link {
-    color: white;
+    color: white !important;
     text-decoration: none;
     text-align: center;
     display: block;
 }
 
 a.second-link {
-    color: white;
+    color: white !important;
     text-decoration: none;
     text-align: center;
     display: block;

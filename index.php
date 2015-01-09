@@ -90,11 +90,27 @@
             <div id="Main">
                 <!-- Post Starts -->
                 <div class="post">
+                    <img src="images/posts/OpenSign.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Extended hours for opening weekend.</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+					ResNet will be open from 10am - 6pm on both Saturday, Januray 10 and Sunday, January 11. Feel free to <a href="/contact.php">contact us</a> with any technology
+                            related questions or issues you may have.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
+                <!-- Post Starts -->
+                <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
                     <h4 class="title">Blair-Shannon, Hammons, and Hutchens have new Front Desk Printers!</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> September 27, 2013</span></p>
+                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
 
                     <div class="entry">
                         <p class="paragraph">

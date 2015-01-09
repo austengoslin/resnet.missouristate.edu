@@ -20,14 +20,14 @@
             
         </script>
                     <!--
-                    <script type="text/javascript">
-                        if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
-                            window.location = "http://resnet.missouristate.edu/mobile/index.html";
-                        } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
-                            window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
-                        }
-                    </script>
-                    -->
+                                            <script type="text/javascript">
+                                                if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
+                                                    window.location = "http://resnet.missouristate.edu/mobile/index.html";
+                                                } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
+                                                    window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
+                                                }
+                                            </script>
+                                            -->
     </head>
     <?php
         $path = $_SERVER['DOCUMENT_ROOT'];
@@ -89,6 +89,37 @@
 
             <div id="Main">
                 <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Blair-Shannon, Hammons, and Hutchens have new Front Desk Printers!</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> September 27, 2013</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+					Blair-Shannon, Hammons, and Hutchens all have a new front desk printer! To use the new printer, please remove the old printer and add the new printer.
+                            To do this, consult this <a href="/Help/Printing/Windows8.php">guide</a> or feel free to <a href="/contact.php">contact us</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">ResPrint Has Been Reset.</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+						    The print quota for all on campus residents has been reset today. All residents should now have 350 page balance for use at any
+                            residence hall front desk printer. If you wwould like to track your page count, you can do this
+                            by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
+                        </p>
+                    </div>
+                </div>
                 <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
                     <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite Resolved!</h4>
@@ -165,22 +196,6 @@
                         <p class="paragraph">
 					ResNet is now open on weekends every weekend! We will be open from 12pm-4pm on both Saturdays and Sundays. So, if you live on campus and are having computer problems, feel free to drop
 					by or give us a call at 417-836-6100!
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Wells has a New Front Desk Printer</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> September 27, 2013</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-					Wells has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
-					ResPrint.
                         </p>
                     </div>
                 </div>

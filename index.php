@@ -104,6 +104,22 @@
                     </div>
                 </div>
                 <!-- /.post -->
+                 <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/Cat5.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">ResReg has been Reset</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+					ResReg has been reset meaning all wired connection registrations from last semester have been removed. You will need to register your wired devices again. You can consult our <a href="http://localhost:61294/help/resreg.php">ResReg tutorial</a>
+                            or <a href="/contact.php">contact us</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
@@ -136,86 +152,6 @@
                         </p>
                     </div>
                 </div>
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite Resolved!</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> November 4, 2014</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
-                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/Printing/OSX-Modern.php">here</a>.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> October 28, 2014</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-						    There is an issue with printing from Mac computers running OSX 10.10 Yosemite to front desk printers, excluding the Freddy and Wells front desk printers.
-                            We are aware of the situation and are attempting to find a solution. According to Apple and HP, the manufacturer of our printers, there aren't any print drivers
-                            for OS 10.10 Yosemite for these printers at this time. We are investigating alternate solutions and will update this post accordingly. We apologize for any inconvenience this may have caused.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">ResPrint has been Reset</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> August 12, 2014</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this
-                            by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Freddy has a New Front Desk Printer!</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> April 4, 2014</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-						Freddy has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
-						ResPrint. For more information, please click <a href="./help/Printing/">here</a>.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/business_open_sign_red.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">ResNet is Open Every Weekend!</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> September 5, 2013</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-					ResNet is now open on weekends every weekend! We will be open from 12pm-4pm on both Saturdays and Sundays. So, if you live on campus and are having computer problems, feel free to drop
-					by or give us a call at 417-836-6100!
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
             </div>
 
             <?php include_once($path . "/includes/footer.inc.php"); ?>

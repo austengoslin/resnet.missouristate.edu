@@ -88,16 +88,16 @@
             <div id="Main">
                 <!-- Post Starts -->
                 <div class="post">
-                    <img src="images/posts/OpenSign.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Extended hours for opening weekend.</h4>
+                    <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Issues printing to front desks with Mac OSX</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
+                        <span class="post-date"><span class="small">on</span> January 12, 2015</span></p>
 
                     <div class="entry">
                         <p class="paragraph">
-					ResNet will be open from 10am - 6pm on both Saturday, Januray 10 and Sunday, January 11. Feel free to <a href="/contact.php">contact us</a> with any technology
-                            related questions or issues you may have.
+					We are experiencing issues with connecting Mac OSX computers to the front desk printers in <strong>Blair-Shannon, Hammons, Hutchens, Freddy, and Wells</strong>. The issue is only cover pages
+                            will print when using OSX.We are currently investigating and will update this message accordingly.
                         </p>
                     </div>
                 </div>

@@ -19,15 +19,13 @@
             ga('send', 'pageview');
             
         </script>
-                    <!--
-                                            <script type="text/javascript">
-                                                if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
-                                                    window.location = "http://resnet.missouristate.edu/mobile/index.html";
-                                                } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
-                                                    window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
-                                                }
-                                            </script>
-                                            -->
+        <script type="text/javascript">
+            if (window.location.href != "http://resnet.missouristate.edu/?ref=desktop#redirected" && screen.width <= 800) {
+                window.location = "http://resnet.missouristate.edu/mobile/index.html";
+            } else if (window.location.href == "http://resnet.missouristate.edu/?ref=desktop#redirected") {
+                window.location = "http://resnet.missouristate.edu/?ref=desktop#redirected";
+            }
+        </script>
     </head>
     <?php
         $path = $_SERVER['DOCUMENT_ROOT'];
@@ -104,7 +102,7 @@
                     </div>
                 </div>
                 <!-- /.post -->
-                 <!-- Post Starts -->
+                <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/Cat5.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
                     <h4 class="title">ResReg has been Reset</h4>

@@ -89,15 +89,14 @@
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Issues printing to front desks with Mac OSX</h4>
+                    <h4 class="title">Issues printing to front desks with Mac OSX Resolved!</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> January 12, 2015</span></p>
+                        <span class="post-date"><span class="small">on</span> January 13, 2015</span></p>
 
                     <div class="entry">
                         <p class="paragraph">
-					We are experiencing issues with connecting Mac OSX computers to the front desk printers in <strong>Blair-Shannon, Hammons, Hutchens, Freddy, and Wells</strong>. The issue is only cover pages
-                            will print when using OSX.We are currently investigating and will update this message accordingly.
+					Issues that were causing only cover pages to print on front desk printers from Mac OSX have been resolved. If you are still experiencing issues, please <a href="/contact.php">contact us</a>.
                         </p>
                     </div>
                 </div>

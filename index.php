@@ -86,6 +86,21 @@
             </div>
 
             <div id="Main">
+                 <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Internet Outage for Springfield Campus</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> January 13, 2015</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+					There will be a 15 minute Internet outage for the Springfield campus starting at 12:01 am on February 8th. This outage will last 15 minutes.<a href="/contact.php">contact us</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />

@@ -96,7 +96,7 @@
 
                     <div class="entry">
                         <p class="paragraph">
-					There will be a 15 minute Internet outage for the Springfield campus starting at 12:01 am on February 8th. This outage will last 15 minutes.<a href="/contact.php">contact us</a>.
+					There will be a 15 minute Internet outage for the Springfield campus starting at 12:01 am on February 8th. This outage will last 15 minutes.
                         </p>
                     </div>
                 </div>

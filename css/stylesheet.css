@@ -46,7 +46,7 @@ body {
 }
 
 #Main a {
-    color:  #FFF;
+    color:  #5e0009;
 }
 
 #LeftNav {
@@ -994,7 +994,6 @@ text-indent: 1.6em;
 }
 
 .empBoxFooter {
-    background-color: #000;
     padding: 6px;
     width: 666px;
     clear: both;

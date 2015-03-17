@@ -61,82 +61,62 @@
                         <strong>New Desktop:</strong>
                         <ul>
                             <li>Operating System: Windows 8.1 - Any Version</li>
-                            <li>Processor: Intel Core 2 Duo - 3.0 GHz, AMD Athlon 64 X2 Dual-core, or better</li>
+                            <li>Processor: Intel Core i3, i5, or i7 - 3.5 GHz, AMD A8 or A10</li>
 
-                            <li>RAM: 4 GB or higher</li>
-                            <li>Hard Drive: 320 GB</li>
-                            <li>Software: Microsoft Office 2010</li>
+                            <li>RAM: 8 GB or higher</li>
+                            <li>Hard Drive: 500 GB</li>
+                            <li>Software: Microsoft Office 365 (Free for students using an academic account)</li>
                         </ul>
 
                         <strong>New Laptop:</strong>
                         <ul>
                             <li>Operating System: Windows 8.1 - Any Version</li>
 
-                            <li>Processor: Intel Core 2 Duo - 2.5 GHz, AMD Turion X2 Dual-core, or better</li>
-                            <li>RAM: 4 GB or higher</li>
-                            <li>Hard Drive: 120 GB</li>
-                            <li>Software: Microsoft Office 2010</li>
+                            <li>Processor: Intel Core i3 or i5 - 3.0 GHz, AMD A6, A8 or A10</li>
+                            <li>RAM: 8 GB or higher</li>
+                            <li>Hard Drive: 250 GB</li>
+                            <li>Software: Microsoft Office 365 (Free for students using an academic account)</li>
                         </ul>
 
-                        <strong>Minimum Recommended:</strong>
-
-                        <ul>
-                            <li>Operating System: Windows XP Professional w/ Service Pack 3</li>
-                            <li>Processor: Intel Pentium 4 - 2.8 GHz or AMD Athlon 64 X2 - 2.4 GHz</li>
-                            <li>RAM: 1 GB</li>
-                            <li>Hard Drive: 40 GB</li>
-                            <li>Software: Microsoft Office 2007</li>
-
-                        </ul>
-
-                        <h3>Recommended Macintosh Computer Specifications</h3>
+                        <h3>Recommended Mac Specifications</h3>
                         <strong>New Desktop:</strong>
                         <ul>
-                            <li>Operating System: Macintosh OS X 10.6 (Snow Leopard)</li>
-                            <li>Processor: 20" iMac w/ Intel Core 2 Duo - 2.4 GHz</li>
-                            <li>RAM: 4 GB</li>
+                            <li>Operating System: Mac OS X 10.10 (Yosemite)</li>
+                            <li>Processor: iMac with Intel Core i5 - 2.7 GHz</li>
+                            <li>RAM: 8 GB</li>
 
-                            <li>Hard Drive: 320 GB</li>
-                            <li>Software: Microsoft Office 2011 for Mac</li>
+                            <li>Hard Drive: 500 GB</li>
+                            <li>Software: Microsoft Office 365 (Free for students using an academic account)</li>
                         </ul>
 
                         <strong>New Laptop:</strong>
                         <ul>
-                            <li>Operating System: Macintosh OS X 10.6 (Snow Leopard)</li>
-                            <li>Processor: MacBook w/ Intel Core 2 Duo - 2.4 GHz</li>
+                            <li>Operating System: Mac OS X 10.10 (Yosemite)</li>
+                            <li>Processor: MacBook Pro with Intel Core i5 - 2.7 GHz</li>
 
-                            <li>RAM: 4 GB</li>
-                            <li>Hard Drive: 250 GB</li>
-                            <li>Software: Microsoft Office 2011 for Mac</li>
-                        </ul>
-
-                        <strong>Minimum Recommended:</strong>
-                        <ul>
-                            <li>Operating System: Macintosh OS X 10.5</li>
-
-                            <li>Processor: PowerPC G4</li>
-                            <li>RAM: 1 GB</li>
-                            <li>Hard Drive: 40 GB</li>
+                            <li>RAM: 8 GB</li>
+                            <li>Hard Drive: 256 GB</li>
+                            <li>Software: Microsoft Office 365 (Free for students using an academic account)</li>
                         </ul>
 
                         <h3>Recommended Accessories</h3>
 
-                        <strong>USB Flash Drive / Thumb Drive</strong>
+                        <strong>USB Flash Drive</strong>
 
                         <br />
-                A flash drive will allow a student to both store their digital documents and carry them to class or meetings.
-                They are small, reliable, relatively inexpensive, and allow a student to always have their important papers on them, even when they are nowhere near their computer.
-                        <br /><br /><span class="underline">Uninterruptible Power Supply (UPS) or Battery Backup</span>
+                            A flash drive will allow a student to both store their digital documents and carry them to class or meetings.
+                            They are small, reliable, relatively inexpensive, and allow a student to always have their important papers on them, even when they are nowhere near their computer.
+                        <br /><br /><strong>Uninterruptible Power Supply (UPS) or Battery Backup</strong>
                         <br />
-                A UPS serves two useful purposes.
-                First, it acts as a surge protector that will prevent any extra voltage from going through a computer and harming the more sensitive components.
-                Secondly, if the power goes down for a short period, the battery inside the UPS will continue to power the computer, allowing documents to be saved and the computer to be shut down properly.
-                The amount of time the computer will stay running depends on the UPS's rating and how many devices are drawing power from it.
+                            A UPS serves two useful purposes.
+                            First, it acts as a surge protector that will prevent any extra voltage from going through a computer and harming the more sensitive components.
+                            Secondly, if the power goes down for a short period, the battery inside the UPS will continue to power the computer, allowing documents to be saved and the computer to be shut down properly.
+                            The amount of time the computer will stay running depends on the UPS's rating and how many devices are drawing power from it.
                         <h3>Educational Discounts</h3>
 
-                When making hardware and software purchases, be sure to ask if there are educational discounts for students.
-                Many companies offer special pricing for students that can add up to big savings.
-                For example, both Dell and Apple offer discounts via the links provided below.
+                            When making hardware and software purchases, be sure to ask if there are educational discounts for students.
+                            Many companies offer special pricing for students that can add up to big savings.
+                            For example, both Dell and Apple offer discounts via the links provided below.
                         <ul>
                             <li><a href="http://helpdesk.missouristate.edu/oit/Premier_Login_tmp2955.htm">Dell</a></li>
 
@@ -144,9 +124,9 @@
                         </ul>
                     </p>
                     <p class="answer">
-                	If you have any difficulties with this tutorial, please feel free to
+                	    If you have any difficulties with this tutorial, please feel free to
                         <a href="/contact.php" title="contact us">contact</a> either the ResNet Offices (417 836-6100)
-                	or the open access computer labs (417 836-5891 option #4) for assistance.
+                	    or the open access computer labs (417 836-5891 option #4) for assistance.
                     </p>
                     <!-- end content -->
                 </div>

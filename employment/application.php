@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="/css/reset.css" type="text/css" />
         <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
         <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
-        <title>Resnet :: Acceptable Use Policy</title>
+        <title>Resnet :: Apply</title>
 
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -33,13 +33,13 @@
             <!-- Content -->
             <div id="Main">
                 <script type="text/javascript">
-                    var __machform_url = 'http://forms.missouristate.edu/embed.php?id=136409';
-                    var __machform_height = 2405;
+                    var __machform_url = 'https://forms.missouristate.edu/embed.php?id=136409';
+                    var __machform_height = 2425;
                 </script>
                 <div id="mf_placeholder"></div>
-                <script type="text/javascript" src="http://forms.missouristate.edu/js/jquery.min.js"></script>
-                <script type="text/javascript" src="http://forms.missouristate.edu/js/jquery.ba-postmessage.min.js"></script>
-                <script type="text/javascript" src="http://forms.missouristate.edu/js/machform_loader.js"></script>
+                <script type="text/javascript" src="https://forms.missouristate.edu/js/jquery.min.js"></script>
+                <script type="text/javascript" src="https://forms.missouristate.edu/js/jquery.ba-postmessage.min.js"></script>
+                <script type="text/javascript" src="https://forms.missouristate.edu/js/machform_loader.js"></script>
             </div>
             <!-- //end content -->
             <div id="LeftNav">

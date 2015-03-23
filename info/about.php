@@ -30,11 +30,27 @@
 
             <!-- Content -->
             <div id="Main">
-                <h2>About</h2>
-                <p class="paragraph">
-					Coming Soon!
-                </p>
-
+                <div>
+                <h1>About Resnet</h1>
+                    <p>Resnet is Missouri State's technology support for students living on campus and is a part of the Residence Life Housing & Dining Services department. 
+                        Since its inception in YYYY, Resnet has continued to provide free services to on campus students and Residence Life staff. 
+                        Starting at X workers, we have grown to X workers in order to accomodate MSU's increasing on campus student body.</p>
+                </div>
+                <div>
+                <h1>Who are we?</h1>
+                    <p>We are students too! Resnet's staff is comprised of Consultants, Developers, and Designers for a total of two full-time employees and 15 student workers.
+                       All of the employees at Resnet have varying backgrounds with computers and most are pursuing degrees and careers related to Information Technology.</p>
+                </div>
+                <div>
+                <h1>What do we do?</h1>
+                    <p>Residence Hall printers, computer labs, wired and wireless networks, and the Resreg network registration system as well as Residence Life employee computers are all maintained by Resnet.</p>
+                </div>
+                <div>
+                <h1>How can we help?</h1>
+                    <p>Bring your computer down to our offices in the basement of Hutchens and we can troubleshoot your problems for you for free. 
+                        We are able to take care of most general computer issues ranging anywhere from corrupted hard drives to annoying viruses. 
+                        If you are having an issue with your residence hall network call today and let us know what the problem is and we will come out to your residence hall to help.</p>
+                </div>
             </div>
             <!-- //end content -->
             <div id="LeftNav">

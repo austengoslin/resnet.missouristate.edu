@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="/css/reset.css" type="text/css" />
         <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
         <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
-        <title>Resnet :: Acceptable Use Policy</title>
+        <title>Resnet :: About</title>
 
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -43,7 +43,7 @@
                 </div>
                 <div>
                 <h1>What do we do?</h1>
-                    <p>Residence Hall printers, computer labs, wired and wireless networks, and the Resreg network registration system as well as Residence Life employee computers are all maintained by Resnet.</p>
+                    <p>Residence Hall printers, computer labs, wired and wireless networks, and the Resreg network registration system as well as Residence Life employee computers are all maintained by Resnet. We are also happy to take care of any issues on-campus students have with their personal devices.</p>
                 </div>
                 <div>
                 <h1>How can we help?</h1>

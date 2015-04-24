@@ -337,17 +337,19 @@ img.aligncenter {
 }
 
 h1 {
-    font-size: 20px;
-    font-weight: 800;
-    font-family: Helvetica;
-    padding-bottom: 6px;
+    font-family: Helvetica, Georgia, serif;
+    font-size: 26px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 20px;
-    font-weight: 800;
-    font-family: Helvetica;
-    padding-bottom: 6px;
+    font-family: Helvetica, Georgia, serif;
+    font-size: 22px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    text-align: left;
 }
 
 h3 {
@@ -358,8 +360,12 @@ h3 {
 }
 
 p {
-   margin-left: 10px;
-   padding: 5px; 
+    font-family: Helvetica, Georgia, serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5em;
+    padding-bottom: 25px;
+    color: #666;
 }
 
 .spanColumns {

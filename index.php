@@ -109,7 +109,7 @@
                         <span class="post-date"><span class="small">on</span> November 4, 2014</span></p>
 
                     <div class="entry">
-                        <p class="paragraph">
+                        <p>
 						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
                             feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/printerSetupMacYosemite.php">here</a>.
                         </p>
@@ -125,7 +125,7 @@
                         <span class="post-date"><span class="small">on</span> October 28, 2014</span></p>
 
                     <div class="entry">
-                        <p class="paragraph">
+                        <p>
 						    There is an issue with printing from Mac computers running OSX 10.10 Yosemite to front desk printers, excluding the Freddy and Wells front desk printers.
                             We are aware of the situation and are attempting to find a solution. According to Apple and HP, the manufacturer of our printers, there aren't any print drivers
                             for OS 10.10 Yosemite for these printers at this time. We are investigating alternate solutions and will update this post accordingly. We apologize for any inconvenience this may have caused.
@@ -142,7 +142,7 @@
                         <span class="post-date"><span class="small">on</span> August 12, 2014</span></p>
 
                     <div class="entry">
-                        <p class="paragraph">
+                        <p>
 						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this
                             by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
                         </p>
@@ -158,7 +158,7 @@
                         <span class="post-date"><span class="small">on</span> April 4, 2014</span></p>
 
                     <div class="entry">
-                        <p class="paragraph">
+                        <p>
 						Freddy has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
 						ResPrint. For more information, please click <a href="./help/printerSetup.php">here</a>.
                         </p>
@@ -174,7 +174,7 @@
                         <span class="post-date"><span class="small">on</span> September 5, 2013</span></p>
 
                     <div class="entry">
-                        <p class="paragraph">
+                        <p>
 					ResNet is now open on weekends every weekend! We will be open from 12pm-4pm on both Saturdays and Sundays. So, if you live on campus and are having computer problems, feel free to drop
 					by or give us a call at 417-836-6100!
                         </p>
@@ -190,7 +190,7 @@
                         <span class="post-date"><span class="small">on</span> September 27, 2013</span></p>
 
                     <div class="entry">
-                        <p class="paragraph">
+                        <p>
 					Wells has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
 					ResPrint.
                         </p>

@@ -44,39 +44,39 @@
                             Phone: <u>(417)-836-6100</u><br /><br /></p>
                     <table class="center">
                         <tr>
-                            <th><p>MONDAY</p></th>
+                            <th>MONDAY</th>
                             <th>:</th>
-                            <th><p>8AM - 5PM</p></th>
+                            <th>8AM - 5PM</th>
                         </tr>
                         <tr>
-                            <th><p>TUESDAY</p></th>
+                            <th>TUESDAY</th>
                             <th>:</th>
-                            <th><p>8AM - 5PM</p></th>
+                            <th>8AM - 5PM</th>
                         </tr>
                         <tr>
-                            <th><p>WEDNESDAY</p></th>
+                            <th>WEDNESDAY</th>
                             <th>:</th>
-                            <th><p>8AM - 5PM</p></th>
+                            <th>8AM - 5PM</th>
                         </tr>
                         <tr>
-                            <th><p>THURSDAY</p></th>
+                            <th>THURSDAY</th>
                             <th>:</th>
-                            <th><p>8AM - 5PM</p></th>
+                            <th>8AM - 5PM</th>
                         </tr>
                         <tr>
-                            <th><p>FRIDAY</p></th>
+                            <th>FRIDAY</th>
                             <th>:</th>
-                            <th><p>8AM - 5PM</p></th>
+                            <th>8AM - 5PM</th>
                         </tr>
                         <tr>
-                            <th><p>SATURDAY</p></th>
+                            <th>SATURDAY</th>
                             <th>:</th>
-                            <th><p>12PM - 4PM</p></th>
+                            <th>12PM - 4PM</th>
                         </tr>
                         <tr>
-                            <th><p>SUNDAY</p></th>
+                            <th>SUNDAY</th>
                             <th>:</th>
-                            <th><p>12PM - 4PM</p></th>
+                            <th>12PM - 4PM</th>
                         </tr>
                     </table>
                     <br /><p>

@@ -36,7 +36,7 @@
                 <div id="tutorial">
                     <!-- start content -->
                     <h2>Bandwidth Quota</h2>
-                    <p class="indent">
+                    <p>
 				Bandwidth is the amount of network traffic that can flow through the network.
                 The Residence Halls have their own Internet connection that is not shared with the rest of campus.
 				Despite the size and speed of our connection, it is still a limited amount of bandwidth for off-campus connections.
@@ -54,7 +54,7 @@
                         <br />
                     </p>
                     <img src="https://networking.missouristate.edu/StatseekerGraph.aspx?list=Thun%2C10624&tfc=range+%3D+now+-+12h+to+now%3B&interval=60&command=Graph&mode=if&tz=America%2FChicago&rtype=Utilization&title=ResNet%20Internet%20-%20Utilization&graph_type=Line&db_type=Average&x_step=1&y_height=100&y_gridlines=5&y_max_power=1&x_gridlines=on&legend=on" alt="current ResNet bandwidth usage graph" title="current ResNet bandwidth usage graph" width="650" height="130" />
-                    <p class="indent">
+                    <p>
                 We have specifically set the bandwidth quota to be high enough so that the vast majority of users will
                 never approach this limit through normal network usage.  The limit is designed to protect the network
                 from the small percentage of users who are generally responsible for the excessive bandwidth consumption that affects everyone on the network.
@@ -64,14 +64,14 @@
                 Access to the network is a privilege that may be revoked if used inappropriately.
                     </p>
                     <a name="bytes"></a><h3>Bytes @ Night</h3>
-                    <p class="indent">
+                    <p>
                 Bytes @ Night is a service offered to all residence hall students to provide more total bandwidth.
                 For the time being, it has been disabled.
 				Once we have more information about our network's utilization, it will be re-instituted.
 				We will make an announcement at that point.
                         <h3>What happens if I exceed my bandwidth limit for the week?</h3>
                     </p>
-                    <p class="indent">
+                    <p>
                 If you exceed 90% usage of the alloted bandwidth, you will be sent a warning email.
                 This warning should give you time to modify your activity so that you do not exceed the limit.
                 If you do exceed the limit you will still be able to access the internet, but your connection speed
@@ -81,7 +81,7 @@
                     </p>
 
                     <h3>Common reasons for going into penalty</h3>
-                    <p class="answer">Some things you can do to help from going over your bandwidth quota would be:</p>
+                    <p>Some things you can do to help from going over your bandwidth quota would be:</p>
                     <ol>
                         <li class="indent">
                   Many malware programs use your computer's Internet connection to help them spread.

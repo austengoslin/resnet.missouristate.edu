@@ -39,7 +39,7 @@
                     <!-- start content -->
                     <h2>Wireless Client Setup</h2>
                     <h3>Access Points</h3>
-                    <p class="indent">
+                    <p>
                         <strong>Note:</strong>
                 Connection to each of the wireless networks is based on your Private ID, meaning you can use as many wireless devices as you would like.
                 Students receive wireless access automatically through student fees; Faculty and Staff must first contact Telecommunication Services at
@@ -47,9 +47,9 @@
                         <br /><br /><em>Students in the residence halls will need to configure their devices for the "MSU ResNet" access points.
                 Students who have not enrolled in classes or are over the bandwidth quota will be unable to connect to wireless.</em>
                         <br /></p>
-                    <p><strong><span class="underline">MSU / MSU ResNet</span></strong><br />
-                    </p>
-                    <p class="indent">
+                    <h3><strong><span class="underline">MSU / MSU ResNet</span></strong><br />
+                    </h3>
+                    <p>
                 Our wireless networks offer the highest level of security currently available on the Missouri State campus,
                 and offers support for many hardware and software combinations.
                         <table>
@@ -69,7 +69,7 @@
                         </table>
                         <strong><span class="underline">MSU Sponsored</span> - Wireless Access for Visitors</strong>
                     </p>
-                    <p class="indent">
+                    <p>
 
                         <br />
                 The Guest wireless network is a service of the University designed to provide web access for visitors to our campus.
@@ -77,14 +77,14 @@
                         <br /><br /></p>
 
                     <h3>Coverage Locations</h3>
-                    <p class="indent">
+                    <p>
                 At present, there is complete wireless coverage in the residence halls.
                 See the wireless <a href="http://networking.missouristate.edu/wireless/coverage.aspx" title="Campus Wireless Coverage Locations">
                 coverage location</a> page maintained by Networking Services gives details of all Springfield campus access points.
                     </p>
 
                     <h3>Exceptions</h3>
-                    <p class="indent">
+                    <p>
                 None of the mainstream video game consoles from Nintendo, Sony, and Microsoft are compatible with the Missouri State Network.
                 Though they support many modern wireless standards, they lack 802.1X capabilities and do not support "WPA-Enterprise."
                 This includes the <strong>Wii</strong>, <strong>DS</strong>, <strong>Playstation 3</strong>, <strong>PSP</strong>, and <strong>Xbox 360</strong>.

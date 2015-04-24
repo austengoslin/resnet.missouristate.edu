@@ -45,24 +45,6 @@ body {
     min-height: 450px;
 }
 
-#Main div {
-    margin: .25em 1em;
-    background: #a1a1a1;
-    box-shadow: 3px 3px 3px #4d4d4d;
-}
-
-#Main div h1 {
-    margin:  0;
-    padding:  .25em;
-    font-family:  Helvetica;
-    background: #5e0009;
-}
-
-#Main div p {
-    padding:  .5em;
-    margin: 0;
-}
-
 #Main a {
     color:  #5e0009;
 }

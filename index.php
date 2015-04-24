@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-        <link rel="stylesheet" href="/css/reset.css" type="text/css" />
-        <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
-        <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+        <link rel="stylesheet" href="css/reset.css" type="text/css" />
+        <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+        <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
         <meta name="description" content="We provide technical assistance to the department of reslife and to students living on campus" />
 
         <title>ResNet</title>
@@ -27,17 +27,15 @@
             }
         </script>
     </head>
-    <?php
-        $path = $_SERVER['DOCUMENT_ROOT'];
-    ?>
     <body>
-        <?php include_once($path . "/includes/navBar_primary.inc.php"); ?>
-
+        <?php include_once("includes/navBar_primary.inc.php"); ?>
+        
         <div id="wrapper">
-            <?php include_once($path . "/includes/header_primary.inc.php"); ?>
+            <?php include_once("includes/header_primary.inc.php"); ?>
             <!-- <div id="homeCopy"></div> -->
+
             <div class="banner">
-                <img src="\images\banner.jpg" alt="banner.jpg"/>
+                <img src="\images\banner.jpg" />
             </div>
             <div class="homeTutorialWrapper">
                 <div class="Welcome">
@@ -52,23 +50,39 @@
                         </ul>
                     </div>
                     <div id="Welcome-Left">
-                        ResNet is the technology hub for students who live on campus at Missouri State University in
-                        Springfield.  All of our services are free of charge to on-campus residents. If you are having
-                        issues related to technology, feel free to <a href="/contact.php">contact us</a> and we will assist in any way that we can.
+                        ResNet is the technology hub for students who live on campus at Missouri State University in 
+                        Springfield.  All of our services are free of charge to on-campus residents. If you are having 
+                        issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any way that we can.
                         <br />
                         <br />
                         -Seth Thoenen, ResNet Administrator
-                    </div>
+                    </div>                    
                     <div>
-
+                        
                     </div>
-
+                    
 
                 </div>
                 <div class="hr"></div>
+                <!--
+                <div class="left1">
+                    
+                    
+                    <h2>ResNet Video Tutorials</h2>
+                    <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
+                        <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
+                        <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
+                    
+                </div>
+                <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
+                <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
+                <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
+                -->
             </div>
             <div id="LeftNav">
-                <?php include_once($path . "/includes/LeftNav.php"); ?>
+                <?php include_once("includes/LeftNav.php"); ?>
                 <div>
                     <h3 class="textHeader">Office Hours</h3>
                     <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
@@ -86,17 +100,18 @@
             </div>
 
             <div id="Main">
-                 <!-- Post Starts -->
+                <!-- Post Starts -->
                 <div class="post">
-                    <img src="images/posts/holiday.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Closed for Presidents Day Weekend</h4>
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite Resolved!</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> February 10, 2015</span></p>
+                        <span class="post-date"><span class="small">on</span> November 4, 2014</span></p>
 
                     <div class="entry">
                         <p class="paragraph">
-					In observence of Presidents Day, ResNet will be closed on Saturday, February 14 through Monday, February 16. We will open for our standard office hours on Tuesday, February 17.
+						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
+                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/printerSetupMacYosemite.php">here</a>.
                         </p>
                     </div>
                 </div>
@@ -104,30 +119,16 @@
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Issues printing to front desks with Mac OSX Resolved!</h4>
+                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> January 13, 2015</span></p>
+                        <span class="post-date"><span class="small">on</span> October 28, 2014</span></p>
 
                     <div class="entry">
                         <p class="paragraph">
-					Issues that were causing only cover pages to print on front desk printers from Mac OSX have been resolved. If you are still experiencing issues, please <a href="/contact.php">contact us</a>.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/Cat5.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">ResReg has been Reset</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-					ResReg has been reset meaning all wired connection registrations from last semester have been removed. You will need to register your wired devices again. You can consult our <a href="http://localhost:61294/help/resreg.php">ResReg tutorial</a>
-                            or <a href="/contact.php">contact us</a>.
+						    There is an issue with printing from Mac computers running OSX 10.10 Yosemite to front desk printers, excluding the Freddy and Wells front desk printers.
+                            We are aware of the situation and are attempting to find a solution. According to Apple and HP, the manufacturer of our printers, there aren't any print drivers
+                            for OS 10.10 Yosemite for these printers at this time. We are investigating alternate solutions and will update this post accordingly. We apologize for any inconvenience this may have caused.
                         </p>
                     </div>
                 </div>
@@ -135,38 +136,70 @@
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Blair-Shannon, Hammons, and Hutchens have new Front Desk Printers!</h4>
+                    <h4 class="title">ResPrint has been Reset</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
+                        <span class="post-date"><span class="small">on</span> August 12, 2014</span></p>
 
                     <div class="entry">
                         <p class="paragraph">
-					Blair-Shannon, Hammons, and Hutchens all have a new front desk printer! To use the new printer, please remove the old printer and add the new printer.
-                            To do this, consult this <a href="/Help/Printing/Windows8.php">guide</a> or feel free to <a href="/contact.php">contact us</a>.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">ResPrint Has Been Reset.</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> January 9, 2015</span></p>
-
-                    <div class="entry">
-                        <p class="paragraph">
-						    The print quota for all on campus residents has been reset today. All residents should now have 350 page balance for use at any
-                            residence hall front desk printer. If you wwould like to track your page count, you can do this
+						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this
                             by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
                         </p>
                     </div>
                 </div>
+                <!-- /.post -->
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Freddy has a New Front Desk Printer!</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> April 4, 2014</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+						Freddy has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
+						ResPrint. For more information, please click <a href="./help/printerSetup.php">here</a>.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/business_open_sign_red.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">ResNet is Open Every Weekend!</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> September 5, 2013</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+					ResNet is now open on weekends every weekend! We will be open from 12pm-4pm on both Saturdays and Sundays. So, if you live on campus and are having computer problems, feel free to drop
+					by or give us a call at 417-836-6100!
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
+                <!-- Post Starts -->
+                <div class="post">
+                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Wells has a New Front Desk Printer</h4>
+                    <p class="post-meta">
+                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
+                        <span class="post-date"><span class="small">on</span> September 27, 2013</span></p>
+
+                    <div class="entry">
+                        <p class="paragraph">
+					Wells has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
+					ResPrint.
+                        </p>
+                    </div>
+                </div>
+                <!-- /.post -->
             </div>
 
-            <?php include_once($path . "/includes/footer.inc.php"); ?>
+            <?php include_once("includes/footer.inc.php"); ?>
         </div>
     </body>
 </html>

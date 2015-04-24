@@ -33,10 +33,8 @@
                 <div><h1>Contact Us</h1></div>
                 <div><p>
                     You can contact us through phone, walk-ins, or via email.
-                                We apologize ahead of time since we are unable to quickly respond during our out of office hours.
                                 Feel free to send emails and leave voicemails and we will get
-                                back to you as soon as possible. For students we return calls after
-                                10 AM.
+                                back to you as soon as possible. We return voicemails after 10AM on business days.
                 </p></div>
                 <div><h2>Office Hours</h2></div>
                 <div><p>ResNet is Located in the basement of Hutchens House at<br />

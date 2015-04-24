@@ -31,25 +31,36 @@
             <!-- Content -->
             <div id="Main">
                 <div>
-                <h1>About Resnet</h1>
-                    <p>Resnet is Missouri State's technology support for students living on campus and is a part of the Residence Life Housing & Dining Services department. 
-                        Since its inception in YYYY, Resnet has continued to provide free services to on campus students and Residence Life staff. 
-                        Starting at X workers, we have grown to X workers in order to accomodate MSU's increasing on campus student body.</p>
+                    <h1>About Us</h1>
+                    <p>ResNet is the technology hub for students who live on-campus at Missouri State University in Springfield, Missouri. All of our
+                        services are free of charge to on-campus residents. If you are having issues related to technology, feel free to
+                        contact us and we will assist in any way that we can. </p>
                 </div>
                 <div>
-                <h1>Who are we?</h1>
-                    <p>We are students too! Resnet's staff is comprised of Consultants, Developers, and Designers for a total of two full-time employees and 15 student workers.
-                       All of the employees at Resnet have varying backgrounds with computers and most are pursuing degrees and careers related to Information Technology.</p>
+                    <h1>Who are we?</h1>
+                    <p>We are students too! ResNet's staff is comprised of Consultants, Developers, and Designers for a total of two full-time employees and 15 student employees.
+                       All of the employees at ResNet have varying backgrounds with computers and most are pursuing degrees and careers related in information technology.</p>
                 </div>
                 <div>
-                <h1>What do we do?</h1>
-                    <p>Residence Hall printers, computer labs, wired and wireless networks, and the Resreg network registration system as well as Residence Life employee computers are all maintained by Resnet. We are also happy to take care of any issues on-campus students have with their personal devices.</p>
+                    <h1>What do we do?</h1>
+                    <p>ResNet supports residence hall printers, residence hall computer labs, wired and wireless networks, and the <a href="http://resreg.missouristate.edu">ResReg</a>
+                        network registration system as well as Residence Life employee computers. We are also happy to address of any other technology related issues on-campus
+                        students may have with their personal devices.</p>
                 </div>
                 <div>
-                <h1>How can we help?</h1>
-                    <p>Bring your computer down to our offices in the basement of Hutchens and we can troubleshoot your problems for you for free. 
-                        We are able to take care of most general computer issues ranging anywhere from corrupted hard drives to annoying viruses. 
-                        If you are having an issue with your residence hall network call today and let us know what the problem is and we will come out to your residence hall to help.</p>
+                    <h1>How can we help?</h1>
+                    <p>Bring your computer or other technology devices down to our offices in the basement of Hutchens House and we can troubleshoot your problems for you for free.
+                        We are able to address several issues that may include:</p>
+                        <ul class="bullets">
+                            <li>Computer hardware and software troubleshooting </li>
+                            <li>Virus removal, hard drive diagnostics, etc.</li>
+                            <li>Printing support</li>
+                            <li>Support for connecting to the University's network</li>
+                            <li>Support for game consoles, Smart TVs and streaming devices</li>
+                            <li>And much <a href="/help/">more</a>.</li>
+                        </ul>
+
+                        <p>If you are are having issues with any of the above or anything else, please <a href="/contact.php">contact us</a> and we would be happy to help.</p>
                 </div>
             </div>
             <!-- //end content -->

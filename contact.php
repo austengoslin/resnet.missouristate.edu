@@ -30,62 +30,61 @@
                 <?php include_once($path . "/includes/LeftNav.php"); ?>
             </div>
             <div id="Main">
-                <div class="contactheader">Contact Us</div>
-                <div class="contactcontent">
-                                You can contact us through phone, walk-ins, or via email.
+                <div><h1>Contact Us</h1></div>
+                <div><p>
+                    You can contact us through phone, walk-ins, or via email.
                                 We apologize ahead of time since we are unable to quickly respond during our out of office hours.
                                 Feel free to send emails and leave voicemails and we will get
                                 back to you as soon as possible. For students we return calls after
                                 10 AM.
-                </div>
-                <div class="contactheader2">Office Hours</div>
-                <div class="contactcontent">
-                            ResNet is Located in the basement of Hutchens House at<br />
+                </p></div>
+                <div><h2>Office Hours</h2></div>
+                <div><p>ResNet is Located in the basement of Hutchens House at<br />
                             Missouri State University's Springfield Campus.<br />
-                            Phone: <u>(417)-836-6100</u><br /><br />
+                            Phone: <u>(417)-836-6100</u><br /><br /></p>
                     <table class="center">
                         <tr>
-                            <th>MONDAY</th>
+                            <th><p>MONDAY</p></th>
                             <th>:</th>
-                            <th> 8AM - 5PM</th>
+                            <th><p>8AM - 5PM</p></th>
                         </tr>
                         <tr>
-                            <th>TUESDAY</th>
+                            <th><p>TUESDAY</p></th>
                             <th>:</th>
-                            <th> 8AM - 5PM</th>
+                            <th><p>8AM - 5PM</p></th>
                         </tr>
                         <tr>
-                            <th>WEDNESDAY</th>
+                            <th><p>WEDNESDAY</p></th>
                             <th>:</th>
-                            <th> 8AM - 5PM</th>
+                            <th><p>8AM - 5PM</p></th>
                         </tr>
                         <tr>
-                            <th>THURSDAY</th>
+                            <th><p>THURSDAY</p></th>
                             <th>:</th>
-                            <th> 8AM - 5PM</th>
+                            <th><p>8AM - 5PM</p></th>
                         </tr>
                         <tr>
-                            <th>FRIDAY</th>
+                            <th><p>FRIDAY</p></th>
                             <th>:</th>
-                            <th> 8AM - 5PM</th>
+                            <th><p>8AM - 5PM</p></th>
                         </tr>
                         <tr>
-                            <th>SATURDAY</th>
+                            <th><p>SATURDAY</p></th>
                             <th>:</th>
-                            <th> 12PM - 4PM</th>
+                            <th><p>12PM - 4PM</p></th>
                         </tr>
                         <tr>
-                            <th>SUNDAY</th>
+                            <th><p>SUNDAY</p></th>
                             <th>:</th>
-                            <th> 12PM - 4PM</th>
+                            <th><p>12PM - 4PM</p></th>
                         </tr>
                     </table>
-                    <br />
+                    <br /><p>
                         Resnet is open from 10AM-6PM on the Saturday and Sunday preceding the begining
                         of the Fall and Spring Semesters. ResNet observes all Missouri State University Holidays
                         and will be closed if university offices are closed.
-                </div>
-                <div class="contactheader2">Email Us</div><br />
+                </p></div>
+                <div><h2>Email Us</h2></div><br />
                 <div id="content">
                     <!-- Content -->
                     <div id="fullWidth">

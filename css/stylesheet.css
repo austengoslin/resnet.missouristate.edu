@@ -339,6 +339,8 @@ img.aligncenter {
 h1 {
     font-size: 20px;
     font-weight: 800;
+    font-family: Helvetica;
+    padding-bottom: 6px;
 }
 
 h2 {
@@ -353,6 +355,11 @@ h3 {
     font-family: Helvetica, Verdana, Geneva, sans-serif;
     padding-top: 10px;
     padding-bottom: 6px;
+}
+
+p {
+   margin-left: 10px;
+   padding: 5px; 
 }
 
 .spanColumns {

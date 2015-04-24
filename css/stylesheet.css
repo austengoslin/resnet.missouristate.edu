@@ -5,7 +5,7 @@ body {
     background-repeat: repeat-x;
     background-color: transparent;
     background-position: center top;
-    background-color: #ccc;
+    background-color: #E0E0E0;
     font-family: Helvetica, Georgia, Platino Linotype, Serif;
 }
 
@@ -1240,7 +1240,7 @@ rightColumn ul li ul {
 #subFooter {
     clear:  both;
     padding: 6px;
-    background-color: #333;
+    background-color: #626262;
     text-align: center;
 }
 

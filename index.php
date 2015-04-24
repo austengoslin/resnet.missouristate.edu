@@ -50,12 +50,12 @@
                         </ul>
                     </div>
                     <div id="Welcome-Left">
-                        ResNet is the technology hub for students who live on campus at Missouri State University in 
+                        <p>ResNet is the technology hub for students who live on campus at Missouri State University in 
                         Springfield.  All of our services are free of charge to on-campus residents. If you are having 
                         issues related to technology, feel free to <a href="/contactMain.php">contact us</a> and we will assist in any way that we can.
                         <br />
                         <br />
-                        -Seth Thoenen, ResNet Administrator
+                        -Seth Thoenen, ResNet Administrator</p>
                     </div>                    
                     <div>
                         

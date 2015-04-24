@@ -364,7 +364,15 @@ p {
     font-size: 14px;
     font-weight: normal;
     line-height: 1.5em;
-    padding-bottom: 25px;
+    padding-bottom: 10px;
+    color: #666;
+}
+
+li {
+    font-family: Helvetica, Georgia, serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5em;
     color: #666;
 }
 

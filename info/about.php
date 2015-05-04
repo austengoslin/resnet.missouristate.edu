@@ -30,6 +30,7 @@
 
             <!-- Content -->
             <div id="Main">
+                <img src="/images/Inforgraphic.png" width="700px" alt="Infographic" />
                 <div>
                     <h1>About Us</h1>
                     <p>ResNet is the technology hub for students who live on-campus at Missouri State University in Springfield, Missouri. All of our

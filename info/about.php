@@ -30,7 +30,7 @@
 
             <!-- Content -->
             <div id="Main">
-                <img src="/images/Inforgraphic.png" width="700px" alt="Infographic" />
+                
                 <div>
                     <h1>About Us</h1>
                     <p>ResNet is the technology hub for students who live on-campus at Missouri State University in Springfield, Missouri. All of our
@@ -42,6 +42,7 @@
                     <p>We are students too! ResNet's staff is comprised of Consultants, Developers, and Designers for a total of two full-time employees and 15 student employees.
                        All of the employees at ResNet have varying backgrounds with computers and most are pursuing degrees and careers related in information technology.</p>
                 </div>
+                <img src="/images/Infographic.png" width="700px" alt="Infographic" />
                 <div>
                     <h1>What do we do?</h1>
                     <p>ResNet supports residence hall printers, residence hall computer labs, wired and wireless networks, and the <a href="http://resreg.missouristate.edu">ResReg</a>

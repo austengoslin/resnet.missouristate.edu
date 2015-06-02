@@ -19,7 +19,7 @@
             
         </script>
 
-        <title>Resnet :: Tutorials :: Iphone Mail Setup</title>
+        <title>Resnet :: Tutorials :: iPhone Mail Setup</title>
     </head>
     <?php
         $path = $_SERVER['DOCUMENT_ROOT'];

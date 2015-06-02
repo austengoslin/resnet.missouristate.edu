@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="/css/reset.css" type="text/css" />
         <link rel="stylesheet" href="/css/stylesheet.css" type="text/css" />
         <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
-        <title>Resnet :: Acceptable Use Policy</title>
+        <title>Resnet :: New Resident Resources</title>
 
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

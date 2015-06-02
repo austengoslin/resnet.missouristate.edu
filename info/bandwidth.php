@@ -63,14 +63,7 @@
                 If your use of network resources negatively impacts others, you may have your data port shut off without prior warning.
                 Access to the network is a privilege that may be revoked if used inappropriately.
                     </p>
-                    <a name="bytes"></a><h3>Bytes @ Night</h3>
-                    <p>
-                Bytes @ Night is a service offered to all residence hall students to provide more total bandwidth.
-                For the time being, it has been disabled.
-				Once we have more information about our network's utilization, it will be re-instituted.
-				We will make an announcement at that point.
                         <h3>What happens if I exceed my bandwidth limit for the week?</h3>
-                    </p>
                     <p>
                 If you exceed 90% usage of the alloted bandwidth, you will be sent a warning email.
                 This warning should give you time to modify your activity so that you do not exceed the limit.

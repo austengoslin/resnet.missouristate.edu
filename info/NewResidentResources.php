@@ -32,11 +32,34 @@
 
             <!-- Content -->
             <div id="Main">
-                <h2>Template</h2>
+                <h2>Get online</h2>
                 <p class="paragraph">
-					Information Here
-                </p>
-
+					Once you have registered for classes you may access "MSU ResNet" wireless network using your private ID.
+                    <a href="/help/wireless/">Click here for more information.</a>
+                </p><p class="paragraph">
+                    If you need to connect a device to an orange Ethernet port in your room, you will first need to register your device.
+                    <a href="/help/resreg.php">Click here for more information.</a>
+                </p><br>
+                <h2>Setup email</h2>
+                <p class="paragraph">
+                    You may wish to setup MSU e-mail access from your personal computer or mobile device.
+                    <a href="/help/Mail/">Click here for more information.</a>
+                </p><br>
+                <h2>Setup printer access</h2>
+                <p class="paragraph">
+                    You should setup access to your Residence Hall printer so that you can print.
+                    <a href="/help/Printing">Click here for more information.</a>
+                </p><br>
+                <h2>Setup gaming console</h2>
+                <p class="paragraph">
+                    You may wish to connect your Ethernet enabled gaming console to the Internet.
+                    <a href="/help/Consoles/consoles.php">Click here for more information.</a>
+                </p><br>
+                <h2>General help</h2>
+                <p class="paragraph">
+                    There are many resources available for you if you need additional assistance.
+                    <a href="/help/">Click here for more information.</a>
+                </p><br>
             </div>
             <!-- //end content -->
             <div id="LeftNav">

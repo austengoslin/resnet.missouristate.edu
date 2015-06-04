@@ -48,3 +48,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* cross-browser centered table CSS implementation */
+table.centered {
+    margin:  0 auto;
+    text-align:  left;
+}

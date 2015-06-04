@@ -66,12 +66,12 @@
 
                     <div id="tutorial">
                         <!-- start content -->
-                        <h2>New Resident Resources</h2>
+                        <!-- <h2>New Resident Resources</h2> -->
                         <p class="answer">
-            	A collection of the most useful resources available for new on-campus residents.
-                If you have any questions not answered below, please <a href="/contact.php">contact us</a> and we will be happy to help.
+            	A collection of most useful resources available for new on-campus residents.
+                If you have any unanswered questions <a href="/contact.php">contact us</a> and we will be happy to help.
                         </p>
-                        <table>
+                        <table class="centered">
                             <tr>
                                 <td>
                                     <a class="noDec" href="/help/wireless/">
@@ -180,7 +180,7 @@
                     </div>
                 </div>
                 <!-- //end content -->
-                <h2>Announcements</h2>
+                <!-- <h2>Announcements</h2> -->
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/cat5.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />

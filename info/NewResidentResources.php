@@ -58,7 +58,7 @@
                                 <a class="noDec" href="/help/resreg.php">
                                     <div class="largeButton">
                                         <div class="imgWrapper vAlign">
-                                            <img class="img" src="/images/info/desktopcomputer.png" alt="Ethernet" />
+                                            <img class="img" src="/images/info/ethernet.png" alt="Ethernet" />
                                         </div>
                                         <div class="btnText vAlign">
                         Connect to Ethernet
@@ -98,7 +98,7 @@
                                 <a class="noDec" href="/help/consoles/consoles.php">
                                     <div class="largeButton">
                                         <div class="imgWrapper vAlign">
-                                            <img class="img" src="/images/info/desktopcomputer.png" alt="Gaming Console" />
+                                            <img class="img" src="/images/info/gameconsole.png" alt="Gaming Console" />
                                         </div>
                                         <div class="btnText vAlign">
                         Setup gaming console
@@ -113,7 +113,7 @@
                                             <img class="img" src="/images/info/computer.png" alt="Computer Screen" />
                                         </div>
                                         <div class="btnText vAlign">
-                        Office 365 SAP
+                        Free Office 365
                                         </div>
                                     </div>
                                 </a>
@@ -121,10 +121,22 @@
                         </tr>
                         <tr>
                             <td>
+                                <a class="noDec" href="/info/">
+                                    <div class="largeButton">
+                                        <div class="imgWrapper vAlign">
+                                            <img class="img" src="/images/info/information.png" alt="Information" />
+                                        </div>
+                                        <div class="btnText vAlign">
+                        More information
+                                        </div>
+                                    </div>
+                                </a>
+                            </td>
+                            <td>
                                 <a class="noDec" href="/Help/">
                                     <div class="largeButton">
                                         <div class="imgWrapper vAlign">
-                                            <img class="img" src="/images/info/question.png" alt="Question Mark" />
+                                            <img class="img" src="/images/info/tutorial.png" alt="Tutorial" />
                                         </div>
                                         <div class="btnText vAlign">
                         All tutorials

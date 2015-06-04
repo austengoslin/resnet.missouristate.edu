@@ -34,7 +34,7 @@
             <?php include_once("includes/header_primary.inc.php"); ?>
             <!-- <div id="homeCopy"></div> -->
             <div class="banner">
-                <img src="\images\banner.jpg" />
+                <img src="\images\banner.jpg" alt="Banner" />
             </div>
             <div class="homeTutorialWrapper">
                 <div class="hr"></div>
@@ -60,7 +60,6 @@
 
             </div>
 
-            <div id="Main">
                 <!-- Content -->
                 <div id="Main">
 
@@ -180,6 +179,7 @@
                     </div>
                 </div>
                 <!-- //end content -->
+
                 <!-- <h2>Announcements</h2> -->
                 <!-- Post Starts -->
                 <div class="post">
@@ -192,7 +192,7 @@
                     <div class="entry">
                         <p>
 						    The University has tripled the amount of bandwidth available to residence halls and academic buildings. This upgrade will significantly
-                            improve quality of service during peak times. If you experience any issues, please <a href="/contact.php">contact us</a>.
+                            improve quality of service during peak times. If you experience any issues <a href="/contact.php">contact us</a>.
                         </p>
                     </div>
                 </div>
@@ -208,11 +208,11 @@
                     <div class="entry">
                         <p>
 						    This summer we will only have office hours on Monday - Fridays. Weekend hours will resume on August 14.
+                            Second line of text.
                         </p>
                     </div>
                 </div>
                 <!-- /.post -->
-            </div>
 
             <?php include_once("includes/footer.inc.php"); ?>
         </div>

@@ -39,101 +39,160 @@
             <div class="homeTutorialWrapper">
                 <div class="hr"></div>
                                     <!--
-                                                        <div class="left1">
+                                                                                                <div class="left1">
                     
                     
-                                                            <h2>ResNet Video Tutorials</h2>
-                                                            <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
-                                                                <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
-                                                                <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
+                                                                                                    <h2>ResNet Video Tutorials</h2>
+                                                                                                    <p><strong>Mac OS 10.6</strong> &nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=tNiIb_8Oseo">Printer</a> | <a href="https://www.youtube.com/watch?v=aKgljZzw1XY">Wireless</a><br />
+                                                                                                        <strong>Ubuntu </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                                                        <a href="https://www.youtube.com/watch?v=G5ba6g7SMO8">Printer</a> | <a href="https://www.youtube.com/watch?v=2QqBjJACU4Q">Wireless</a><br />
+                                                                                                        <strong>Windows 7</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                                                        <a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs">Printer</a> | <a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ">Wireless</a></p>
                     
-                                                        </div>
-                                                        <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
-                                                        <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
-                                                        <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
-                                                        -->
+                                                                                                </div>
+                                                                                                <div class="left2"><a href="https://www.youtube.com/watch?v=2C4Q2zeFRBs"><img src="images/tutorials/windowsVistaPrinter.png" alt="Windows Vista Printer" /></a></div>
+                                                                                                <div class="left3"><a href="https://www.youtube.com/watch?v=2QqBjJACU4Q"><img src="images/tutorials/ubuntuWireless.png" alt="Ubuntu Wireless" /></a></div>
+                                                                                                <div class="right"><a href="https://www.youtube.com/watch?v=eYBNJ81f8QQ"><img src="images/tutorials/vistaWireless.png" alt="Windows Vista Wireless" /></a></div>
+                                                                                                -->
             </div>
             <div id="LeftNav">
                 <?php include_once("includes/LeftNav.php"); ?>
-                <div>
-                    <h3 class="textHeader">Office Hours</h3>
-                    <p class="post-meta">ResNet is located in the basement of Hutchens House at Missouri State University's Springfield, Missouri campus.</p>
-                    <p class="post-meta">Monday: 8am - 5pm</p>
-                    <p class="post-meta">Tuesday: 8am - 5pm</p>
-                    <p class="post-meta">Wednesday: 8am - 5pm</p>
-                    <p class="post-meta">Thursday: 8am - 5pm</p>
-                    <p class="post-meta">Friday: 8am - 5pm</p>
-                    <p class="post-meta" id="satHours">Saturday: 12pm - 4pm</p>
-                    <p class="post-meta" id="sunHours">Sunday: 12pm - 4pm</p>
-                    <p class="post-meta">ResNet is open from 10am-6pm on the Saturday and Sunday preceding the beginning of the Fall and Spring semsters. ResNet observes all Missouri State University holidays and will be closed if university offices are closed.</p>
-                    <br />
-                </div>
+
             </div>
 
             <div id="Main">
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite Resolved!</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> November 4, 2014</span></p>
+                <!-- Content -->
+                <div id="Main">
 
-                    <div class="entry">
-                        <p>
-						    We have found new drivers that work with our printers and Mac OS 10.10 Yosemite. If you are still experiencing issues with printing to the front desk,
-                            feel free to drop by our offices or follow our new Yosemite tutorial <a href="/help/printerSetupMacYosemite.php">here</a>.
+                    <div id="tutorial">
+                        <!-- start content -->
+                        <h2>New Resident Resources</h2>
+                        <p class="answer">
+            	A collection of the most useful resources available for new on-campus residents.
+                If you have any questions not answered below, please <a href="/contact.php">contact us</a> and we will be happy to help.
                         </p>
+                        <table>
+                            <tr>
+                                <td>
+                                    <a class="noDec" href="/help/wireless/">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/wifi.png" alt="Wireless Fidelity" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        Connect to Wi-Fi
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="noDec" href="/help/resreg.php">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/ethernet.png" alt="Ethernet" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        Connect to Ethernet
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a class="noDec" href="/help/mail/">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/letter.png" alt="E-mail" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        Setup e-mail
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="noDec" href="/info/print.php">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/printer.png" alt="Printer" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        Setup printer
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a class="noDec" href="/help/consoles/consoles.php">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/gameconsole.png" alt="Gaming Console" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        Setup gaming console
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="noDec" href="http://helpdesk.missouristate.edu/microsoft-student-advantage-program.htm">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/computer.png" alt="Computer Screen" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        Free Office 365
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a class="noDec" href="/info/">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/information.png" alt="Information" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        More information
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="noDec" href="/Help/">
+                                        <div class="largeButton">
+                                            <div class="imgWrapper vAlign">
+                                                <img class="img" src="/images/info/tutorial.png" alt="Tutorial" />
+                                            </div>
+                                            <div class="btnText vAlign">
+                        All tutorials
+                                            </div>
+                                        </div>
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
-                <!-- /.post -->
+                <!-- //end content -->
+                <h2>Announcements</h2>
                 <!-- Post Starts -->
                 <div class="post">
-                    <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Printing Issue with Mac OS 10.10 Yosemite</h4>
+                    <img src="images/posts/cat5.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
+                    <h4 class="title">Upgraded Bandwidth</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> October 28, 2014</span></p>
+                        <span class="post-date"><span class="small">on</span> June 4, 2015</span></p>
 
                     <div class="entry">
                         <p>
-						    There is an issue with printing from Mac computers running OSX 10.10 Yosemite to front desk printers, excluding the Freddy and Wells front desk printers.
-                            We are aware of the situation and are attempting to find a solution. According to Apple and HP, the manufacturer of our printers, there aren't any print drivers
-                            for OS 10.10 Yosemite for these printers at this time. We are investigating alternate solutions and will update this post accordingly. We apologize for any inconvenience this may have caused.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">ResPrint has been Reset</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> August 12, 2014</span></p>
-
-                    <div class="entry">
-                        <p>
-						ResPrint has been reset for the fall semester. All residents will now have a 350 page quota to use for the upcoming semester. If you want to track your page count, you can do this
-                            by logging into <a href="http://resprint.missouristate.edu">resprint.missouristate.edu</a>.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Freddy has a New Front Desk Printer!</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> April 4, 2014</span></p>
-
-                    <div class="entry">
-                        <p>
-						Freddy has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
-						ResPrint. For more information, please click <a href="./help/printerSetup.php">here</a>.
+						    The University has tripled the amount of bandwidth available to residence halls and academic buildings. This upgrade will significantly
+                            improve quality of service during peak times. If you experience any issues, please <a href="/contact.php">contact us</a>.
                         </p>
                     </div>
                 </div>
@@ -141,31 +200,14 @@
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/business_open_sign_red.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">ResNet is Open Every Weekend!</h4>
+                    <h4 class="title">Office Hours Changed for Summer</h4>
                     <p class="post-meta">
                         <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> September 5, 2013</span></p>
+                        <span class="post-date"><span class="small">on</span> June 4, 2015</span></p>
 
                     <div class="entry">
                         <p>
-					ResNet is now open on weekends every weekend! We will be open from 12pm-4pm on both Saturdays and Sundays. So, if you live on campus and are having computer problems, feel free to drop
-					by or give us a call at 417-836-6100!
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
-                <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/printer.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Wells has a New Front Desk Printer</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> September 27, 2013</span></p>
-
-                    <div class="entry">
-                        <p>
-					Wells has a new front desk printer! To use the new printer, please remove the old printer from your computer and add the new one by connecting to
-					ResPrint.
+						    This summer we will only have office hours on Monday - Fridays. Weekend hours will resume on August 14.
                         </p>
                     </div>
                 </div>

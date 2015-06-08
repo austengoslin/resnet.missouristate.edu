@@ -207,8 +207,7 @@
 
                     <div class="entry">
                         <p>
-						    This summer we will only have office hours on Monday - Fridays. Weekend hours will resume on August 14.
-                            Second line of text.
+						    Our office hours this summer are Monday - Friday 8 AM - 5 PM. We will be open from 10 AM - 6 PM on the Saturday and Sunday preceding the beginning of the Fall Semester.
                         </p>
                     </div>
                 </div>

@@ -37,9 +37,12 @@
                     <!-- start content -->
                     <h2>Registering A Device In Your Room</h2>
                     <p class="answer">
-                        <strong>Note: </strong>Before you can connect to the internet, you must first register your computer.
+                        <strong>Note: </strong>Before you can connect to the Internet using a wired connection, you must first register your computer.
 Until you complete the steps below, the ONLY site you can acess is ResReg.
 Additionally, you must be plugged into the orange data port in your room to which you want to register your computer; it cannot be done over wireless or from off-campus.</p>
+                    <p><strong>This guide is for wired connections only. Wireless connections do not need to be registered on ResReg.</strong> If you need to connect via WiFi, please
+                        our <a href="/Help/Wireless/">wireless guide</a>.
+                    </p>
                     <ol>
                         <li>Visit resreg.missouristate.edu in the browser of your choice. Please note that putting "www" before the URL will cause a "page cannot be displayed" error.</li>
                         <img class="imgBorder" src="/images/resreg/resreg1.png" alt="resreg 1" />

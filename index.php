@@ -181,21 +181,6 @@
                 <!-- //end content -->
 
                 <!-- <h2>Announcements</h2> -->
-            <!-- Post Starts -->
-                <div class="post">
-                    <img src="images/posts/outage.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                    <h4 class="title">Printing Outage</h4>
-                    <p class="post-meta">
-                        <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                        <span class="post-date"><span class="small">on</span> June 10, 2015</span></p>
-
-                    <div class="entry">
-                        <p>
-						    There will be a brief outage of our printing system on Wednesday, June 10 from 8:00 pm until 10:00 pm. We aplogize for any inconveniences this may cause.
-                        </p>
-                    </div>
-                </div>
-                <!-- /.post -->
                 <!-- Post Starts -->
                 <div class="post">
                     <img src="images/posts/cat5.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />

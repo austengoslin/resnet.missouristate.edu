@@ -191,7 +191,7 @@
                 <div class="entry">
                     <p>
 						    The registration system for wired Ethernet connections has been reset for the Fall 2015 semester. In order to use the wired Ethernet connection
-                        in your room, you will need to register your device on <a href="/help/resreg.php">ResReg</a>. If you experience any issues please<a href="/contact.php">contact us</a>.
+                        in your room, you will need to register your device on <a href="/help/resreg.php">ResReg</a>. If you experience any issues please <a href="/contact.php">contact us</a>.
                     </p>
                 </div>
             </div>

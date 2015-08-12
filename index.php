@@ -212,21 +212,6 @@
                 </div>
             </div>
             <!-- /.post -->
-            <!-- Post Starts -->
-            <div class="post">
-                <img src="images/posts/business_open_sign_red.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
-                <h4 class="title">Office Hours Changed for Summer</h4>
-                <p class="post-meta">
-                    <span class="post-author"><span class="small">by</span> Seth Thoenen</span>
-                    <span class="post-date"><span class="small">on</span> June 4, 2015</span></p>
-
-                <div class="entry">
-                    <p>
-						    Our office hours this summer are Monday - Friday 8 AM - 5 PM. We will be open from 10 AM - 6 PM on the Saturday and Sunday preceding the beginning of the Fall Semester.
-                    </p>
-                </div>
-            </div>
-            <!-- /.post -->
             <?php include_once("includes/footer.inc.php"); ?>
         </div>
     </body>

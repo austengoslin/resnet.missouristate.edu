@@ -38,7 +38,7 @@
                         <ol class="indent">
 
                             <li>
-                                <strong>Download</strong> and <strong>Install</strong> the HP Printer Drivers from <a href="http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers3.0.dmg">here</a>.<br />
+                                <strong>Download</strong> and <strong>Install</strong> the HP Printer Drivers from <a href="https://support.apple.com/downloads/DL907/en_US/hpprinterdriver3.1.dmg">here</a>.<br />
 					(Please only click on the link once and wait for the download to finish.)</li>
                             <img class="imgBorder" src="/images/YosemitePrinterTutorial/1.ScreenShot.png" alt="" />
                             <li>

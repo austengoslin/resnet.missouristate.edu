@@ -38,11 +38,8 @@
                         <ol class="indent">
 
                             <li>
-                                <strong>Download</strong> and <strong>Install</strong> the Front Desk Printer Drivers
-                                <br />
-                                 If you live in <strong>Kentwood, Monroe, Scholars, Sunvilla, or Woods</strong>, click <a href="/images/RLS_Front_Desk_Printer_Drivers.zip">here</a>.<br />
-						If you live in <strong>Blair-Shannon, Hammons, Hutchens, Freddy or Wells</strong>, click <a href="http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers3.0.dmg">here</a>.<br />
-		(Please only click on the link once and wait for the download to finish.)</li>
+                                <strong>Download</strong> and <strong>Install</strong> the HP Printer Drivers from <a href="https://support.apple.com/downloads/DL907/en_US/hpprinterdriver3.1.dmg">here</a>.<br />
+					(Please only click on the link once and wait for the download to finish.)</li>
                             <img class="imgBorder" src="/images/Picture%201.png" width="575" alt="" />
                             <li>
                         From the Apple Menu select <strong>System Preferences</strong>.</li>

@@ -97,22 +97,22 @@
                                 <tr>
                                     <td>Kentwood Hall</td>
                                     <td>smb://resprint/kentwoodlpr</td>
-                                    <td>HP LaserJet 4250</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Monroe Apts.</td>
                                     <td>smb://resprint/monroelpr</td>
-                                    <td>HP LaserJet 4250</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Scholars House</td>
                                     <td>smb://resprint/scholarslpr</td>
-                                    <td>HP LaserJet 4250</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Sunvilla Tower</td>
                                     <td>smb://resprint/sunvillalpr</td>
-                                    <td>HP LaserJet 4250</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Wells House</td>
@@ -122,7 +122,7 @@
                                 <tr>
                                     <td>Woods House</td>
                                     <td>smb://resprint/woodslpr</td>
-                                    <td>HP LaserJet 4050</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                             </table>
 					</li>
@@ -130,8 +130,7 @@
                         Set <strong>Print Using</strong> to <strong> Select Software.</strong></li>
                             <img class="imgBorder" src="/images/YosemitePrinterTutorial/10.ScreenShot.png" alt="" />
                             <li>
-                        Select the driver for your Residence Hall from the previous table. Using the filter will make it much easier to find. It will be <strong>HP LaserJet 9050</strong>,
-                                <strong>HP LaserJet 600 M601 M602 M603</strong>, <strong>HP LaserJet 4250</strong>, or <strong>HP LaserJet 4050 Series</strong>.
+                        Select the driver for your Residence Hall from the previous table. Using the filter will make it much easier to find. It will be <strong>HP LaserJet 600 M601 M602 M603</strong>.
                                 <br />After you've selected the appropriate driver, click on <strong>Add</strong>.</li>
                             <img class="imgBorder" src="/images/YosemitePrinterTutorial/11.ScreenShot.png" alt="" />
                             <li>

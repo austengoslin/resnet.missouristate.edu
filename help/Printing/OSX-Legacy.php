@@ -98,22 +98,22 @@
                                 <tr>
                                     <td>Kentwood Hall</td>
                                     <td>smb://sgf/resprint/kentwoodlpr</td>
-                                    <td>HP LaserJet 4250 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Monroe Apartments</td>
                                     <td>smb://sgf/resprint/monroelpr</td>
-                                    <td>HP LaserJet 4250 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Scholars House</td>
                                     <td>smb://sgf/resprint/scholarslpr</td>
-                                    <td>HP LaserJet 4250 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Sunvilla Tower</td>
                                     <td>smb://sgf/resprint/sunvillalpr</td>
-                                    <td>HP LaserJet 4250 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                                 <tr>
                                     <td>Wells House</td>
@@ -123,7 +123,7 @@
                                 <tr>
                                     <td>Woods House</td>
                                     <td>smb://sgf/resprint/woodslpr</td>
-                                    <td>HP LaserJet 4050 Foomatic/hpijs</td>
+                                    <td>HP LaserJet 600 M601 M602 M603</td>
                                 </tr>
                             </table>
 </li>
@@ -131,8 +131,7 @@
                         Set <strong>Print Using</strong> to <strong> Select a driver to use.</strong></li>
                             <img class="imgBorder" src="/images/Picture%2040.png" alt="" />
                             <li>
-                        Select the driver for your Residence Hall from the previous table. It will be <strong>HP LaserJet 4250 Foomatic/hpijs</strong>,
-                                <strong>HP LaserJet 4350 Foomatic/hpijs</strong>, <strong>HP LaserJet 9050 Foomatic/hpijs</strong>, <strong>HP LaserJet 600 M601 M602 M603</strong>, or <strong>HP LaserJet 4050 Foomatic/hpijs</strong>.
+                        Select the driver for your Residence Hall from the previous table. It will be <strong>HP LaserJet 600 M601 M602 M603</strong>.
                                 <br />After you've selected the appropriate driver, click on <strong>Add</strong>.</li>
                             <img class="imgBorder" src="/images/Picture%2042.png" alt="" />
                             <li>

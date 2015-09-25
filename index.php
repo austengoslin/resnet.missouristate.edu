@@ -182,7 +182,7 @@
             <!-- <h2>Announcements</h2> -->
             <!-- Post Starts -->
             <div class="post">
-                <img src="images/posts/Playstation_logo.svg" alt="PSN" class="thumbnail alignleft" width="77" height="77" />
+                <img src="images/posts/Playstation_logo.png" alt="PSN" class="thumbnail alignleft" width="77" height="77" />
                 <h4 class="title">PlayStation Network Status</h4>
                 <p class="post-meta">
                     <span class="post-author"><span class="small">by</span> Josiah McGurty</span>

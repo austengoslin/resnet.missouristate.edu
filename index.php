@@ -184,6 +184,18 @@
             <!-- <h2>Announcements</h2> -->
             <!-- Post Starts -->
             <div class="post">
+                <img src="images/posts/PSN.png" alt="PSN" class="thumbnail alignleft" width="77" height="77" />
+                <h4 class="title">PlayStation Network Status</h4>
+                <p class="post-meta">
+                    <span class="post-author"><span class="small">by</span> Josiah McGurty</span>
+                    <span class="post-date"><span class="small">on</span> September 25, 2015</span></p>
+                <div class="entry">
+                    <p>PlayStation Network is now working properly for all on-campus residents. <a href="/contact.php">Let us know</a> if you have any issues.</p>
+                </div>
+            </div>
+            <!-- /.post -->
+            <!-- Post Starts -->
+            <div class="post">
                 <img src="images/posts/bandwidthchart.png" alt="Cut wire" class="thumbnail alignleft" width="100" height="100" />
                 <h4 class="title">ResReg has been Reset</h4>
                 <p class="post-meta">

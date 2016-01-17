@@ -63,7 +63,7 @@
             <!-- Content -->
             <div id="Main">
 
-                <p>Testing Chef! Again! and Again!</p>
+                <p>Testing Chef! Again! and Again! and Again!</p>
 
                 <div id="tutorial">
                     <!-- start content -->

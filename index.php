@@ -63,6 +63,8 @@
             <!-- Content -->
             <div id="Main">
 
+                <p>Testing Chef!</p>
+
                 <div id="tutorial">
                     <!-- start content -->
                     <!-- <h2>New Resident Resources</h2> -->

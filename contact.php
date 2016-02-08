@@ -69,12 +69,12 @@
                         <tr>
                             <th>SATURDAY</th>
                             <th>:</th>
-                            <th>12PM - 4PM (Fall & Spring Semesters Only)</th>
+                            <th>Closed</th>
                         </tr>
                         <tr>
                             <th>SUNDAY</th>
                             <th>:</th>
-                            <th>12PM - 4PM (Fall & Spring Semesters Only)</th>
+                            <th>Closed</th>
                         </tr>
                     </table>
                     <br /><p>

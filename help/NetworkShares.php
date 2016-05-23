@@ -36,7 +36,7 @@
                     <h2>Accessing Network Shares</h2>
 
                     <p class="answer">
-            This will guide you through the setup of accessing network file shares such as magenta or eccentric.<br />
+            This will guide you through the setup of accessing network file shares such as the J Drive.<br />
 
                         <strong>Jump To: </strong><a href="#WINXPFILE" title="windows">Windows</a>&nbsp;|&nbsp; <a href="#OSXFILE" title="Mac OS X">Mac OS X</a>
                     </p>
@@ -44,11 +44,11 @@
 
                     <ol>
                         <li class="indent">Go to the Start Menu and select Run.</li>
-                        <li class="indent">Type in \\ followed by the name of the server. Click OK. (See Figure Below)</li>
-                        <img class="imgBorder" src="/images/netshares-windows-1.png" alt="netshares-windows-1" />
+                        <li class="indent">Type in \\ rlsresnet and replace X with the name of the drive you wish to access. Click OK. (See Figure Below)</li>
+                        <img class="imgBorder" src="/images/netshares-windows-1-update.png" alt="netshares-windows-1-update" />
                         <li class="indent">You should be presented with a login box.
                     Enter SGF\BearPass Login OR BearPass Login@SGF, and enter your network password and click Ok. (See Figure Below)</li>
-                        <img class="imgBorder" src="/images/netshares-windows-2.png" alt="netshares-windows-2" />
+                        <img class="imgBorder" src="/images/netshares-windows-2-update.png" alt="netshares-windows-2-update" />
                     </ol>
                     <h3><a href="#OSXFILE" name="OSXFILE">Accessing Network File Shares with Mac OSX</a></h3>
                     <p class="answer">

@@ -41,76 +41,24 @@
                     </p>
 
                     <ol class="indent">
-                        <li>Before you begin setting up Outlook, you should ensure you are using the correct password. Open up an Internet browser and go to <a href="http://outlook.com">Outlook.com</a>
-                            <ul class="normal">
-                                <li>For your Windows Live ID, enter your <strong>BearPass login</strong> followed by <strong>@live.missouristate.edu</strong></li>
-                                <li>For your Password, enter your Live@EDU E-mail password. If it does not work, you may need to change your password at <a href="https://cams.missouristate.edu/selfservice/changepassword.aspx">cams.missouristate.edu</a></li>
-                            </ul>
+                        <li>
+                        	First, go to the Google Play Store and download the Outlook app</a>
+                        </li>
+                        <img class="imgBorder" src="/help/images/bearmail/bearmail-android-1.png" alt="bearmail-android-1" />
+                        <li>
+                   		After downloading, hit Get Started. Youâ€™ll see this screen. Enter your BearPass Login (Private Id) followed by @live.missouristate.edu and press continue. 
                         </li>
                         <li>
-                    On your Android device, select the E-mail icon from the application drawer </li>
-                        <img class="imgBorder" src="/help/images/bearmail/bearmail-liveedu-android1.png" alt="E-mail icon" />
-                        <li>
-                    In the E-mail address field, enter your Bearpass ID followed by @live.missouristate.edu
+				Once you enter your email address, youâ€™ll see this screen. Select Office 365.
                         </li>
+                        <img class="imgBorder" src="/help/images/bearmail/bearmail-android-2.png" alt="android-2" width="220" />
                         <li>
-					For your password, enter your E-mail password, then select "Manual Setup".<br />
-                            <em>Note: Your password may be different than the password you use to log into the labs.</em>
+               			Now youâ€™ll see this screen. Hereâ€™s where it gets a little confusing so be careful to follow these instructions. 
+               			It will start off with your BearMail Address in the top box, you need to change this to your BearPass Login, what you use to login to my.missouristate.edu. 
+               			For the password use must use your emailâ€™s password. In summary, use your BearPass Login and your Email Password. Itâ€™s weird and doesnâ€™t make sense, I know. 
+               			If you have trouble go to https://cams.missouristate.edu/selfservice/changepassword.aspx, there you can change the passwords of both your Email and BearPass.
                         </li>
-                        <img class="imgBorder" src="/help/images/bearmail/bearmail-liveedu-android2.png" alt="Setup Screen 1" width="220" />
-                        <li>
-                    Select "Exchange account"
-                        </li>
-                        <img class="imgBorder" src="/help/images/bearmail/bearmail-liveedu-android3.png" alt="Manual Setup Screen" width="220" />
-                        <li>
-                    The following screen should appear as your phone checks the settings.
-                        </li>
-                        <img class="imgBorder" src="/help/images/bearmail/bearmail-liveedu-android4.png" alt="Checking incoming settings" width="220" />
-
-                        <li>
-                    Enter the following information on the next screen:
-                            <ul>
-                                <li>
-					Domain username: Your BearpassID @live.missouristate.edu
-                                </li>
-                                <li>
-					Password: Your E-mail password
-                                </li>
-                                <li>
-					Exchange server: m.outlook.com
-                                </li>
-                                <li>
-					Check both "Use secure connection (SSL)" and "Accept all SSL certificates"
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                    If you are prompted to give the server remote administration, select "OK"
-                        </li>
-                        <img class="imgBorder" src="/help/images/bearmail/bearmail-liveedu-android5.png" alt="Remote Administration" width="220" />
-                        <li>
-                    These next setting will vary depending upon your prefences.  We recommend the following setings:
-                            <ul>
-                                <li>Email check frequency: Automatic (Push)
-                                </li>
-                                <li>
-					Amount to synchronize: 3 days
-                                </li>
-                                <li>
-					Check “Notify me when email arrives”, “Sync contacts”, and “Sync calendar”
-                                </li>
-                                <li>
-					Select "Next" when you have set these preferences.
-                                </li>
-                            </ul>
-                        </li>
-                        <img class="imgBorder" src="/help/images/bearmail/bearmail-liveedu-android6.png" alt="Manual Setup Screen" width="220" />
-
-                        <li>
-					On the final screen, you can set a name for your Missouri State E-mail account.
-                            <br />
-					You account is now set-up!
-                        </li>
+                        <img class="imgBorder" src="/help/images/bearmail/bearmail-android-4.png" alt="android-4" width="220" />
                     </ol>
                     <p class="answer">
                 	If you have any difficulties with this tutorial, please feel free to

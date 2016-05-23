@@ -37,14 +37,14 @@
                     <!-- start content -->
                     <h2>Finding your MAC address</h2>
                     <p class="answer">
-                        <strong>Jump To: </strong><a href="#VISTA">Windows Vista or 7</a>&nbsp;|&nbsp;<a href="#OSX">Mac OS X</a>
+                        <strong>Jump To: </strong><a href="#VISTA">Windows</a>&nbsp;|&nbsp;<a href="#OSX">Mac OS X</a>
                     </p>
-                    <h3><a href="#VISTA" name="VISTA">On Windows Vista or 7</a></h3>
+                    <h3><a href="#VISTA" name="VISTA">On Windows</a></h3>
                     <ol class="indent">
 
                         <li>
-                    Select "Start" and type <strong>cmd</strong> into the Search menu. </li>
-                        <img class="imgBorder" src="/images/macid/macid-vista-1.png" alt="macid-vista-1" />
+                    Press the Windows Key and the R Key and type <strong>cmd</strong> into the box that appears. </li>
+                        <img class="imgBorder" src="/images/macid/macid-Windows-10.PNG" alt="macid-Windows-10" />
                         <li>In the newly opened window, type <strong>ipconfig /all</strong> and press enter.</li>
                         <img class="imgBorder" src="/images/macid/macid-vista-2.png" alt="macid-vista-2" width="575" />
                         <li>Displayed will be one or more types of connections.

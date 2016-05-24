@@ -57,13 +57,13 @@
                            Now you should see your Wired MAC Address on the right side. Write it down as you will need to input it on our
                            ResReg system soon.
                         </li>
-                        <img class="imgBorder" src="/images/consoles/XBONE-3" alt="Network" width="449" height="250" />
+                        <img class="imgBorder" src="/images/consoles/XBONE-3.png" alt="Network" width="449" height="250" />
 
                         <li>
                             Next, you will navigate to ResReg on the computer you have already registered there. Once you arrive you will click the
                             Add/Remove/Edit a Device button at the bottom of the screen then enter your Xbox One's MAC Address.
                         </li>
-                        <img class="imgBorder" src="/images/consoles/XBONE-4" alt="ResReg" width="449" height="250" />
+                        <img class="imgBorder" src="/images/consoles/XBONE-4.png" alt="ResReg" width="449" height="250" />
 
                        </ol>
                     <p class="answer">

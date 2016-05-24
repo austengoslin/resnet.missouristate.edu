@@ -20,7 +20,7 @@
             
         </script>
 
-        <title>Resnet :: Tutorials :: Game Consoles ::  Microsoft Xbox 360 Registration and Configuration</title>
+        <title>Resnet :: Tutorials :: Game Consoles ::  Microsoft Xbox One Registration and Configuration</title>
     </head>
     <?php
         $path = $_SERVER['DOCUMENT_ROOT'];
@@ -35,27 +35,37 @@
                 <div id="tutorial">
 
                     <!-- start content -->
-                    <h2>Microsoft Xbox 360 Registration and Configuration</h2>
+                    <h2>Microsoft Xbox One Registration and Configuration</h2>
+                   <p class="answer">
+                       Before registering your Xbox One through ResReg, you must have a computer registered to a port. 
+                        If you need to know how to do that, you can view our <a href="/help/resreg.php">tutorial</a>
+                   </p>
+                   
                     <ol>
 
-                        <li>Go to the <strong>System Settings</strong> area of the My Xbox Channel.</li>
-                        <img class="imgBorder" src="/images/consoles/consoles-xbox3602-2.png" alt="System Settings" width="449" height="250" />
+                        <li>
+                            Now that you have that done, all you need is your Xbox One's <strong>Wired MAC Address.</strong> To find it, 
+                            go to your console's settings and select Network.
+                        </li>
+                        <img class="imgBorder" src="/images/consoles/XBONE-1.png" alt="System Settings" width="449" height="250" />
+                        <li>
+                            Once there select Advanced Settings.
+                        </li>
+                        <img class="imgBorder" src="/images/consoles/XBONE-2.png" alt="Advanced Settings" width="449" height="250" />
 
-                        <li>Select <strong>Network Settings</strong>.</li>
-                        <img class="imgBorder" src="/images/consoles/consoles-xbox3602-3.png" alt="Network Settings" width="449" height="250" />
+                        <li>
+                           Now you should see your Wired MAC Address on the right side. Write it down as you will need to input it on our
+                           ResReg system soon.
+                        </li>
+                        <img class="imgBorder" src="/images/consoles/XBONE-3" alt="Network" width="449" height="250" />
 
-                        <li>Select the <strong>Configure Network</strong> option.</li>
-                        <img class="imgBorder" src="/images/consoles/consoles-xbox3602-4.png" alt="configure Network" width="449" height="250" />
+                        <li>
+                            Next, you will navigate to ResReg on the computer you have already registered there. Once you arrive you will click the
+                            Add/Remove/Edit a Device button at the bottom of the screen then enter your Xbox One's MAC Address.
+                        </li>
+                        <img class="imgBorder" src="/images/consoles/XBONE-4" alt="ResReg" width="449" height="250" />
 
-                        <li>Under the <strong>Basic Settings</strong> ensure the IP Address and DNS Settings are set to <strong>Automatic</strong>.</li>
-                        <img class="imgBorder" src="/images/consoles/consoles-xbox3602-5.png" alt="360 Basic Settings" width="449" height="250" />
-
-                        <li>Select <strong>Additional Settings</strong> and then view <strong>Advanced Settings</strong>.</li>
-                        <img class="imgBorder" src="/images/consoles/consoles-xbox3602-6.png" alt="360 Advanced Settings" width="449" height="250" />
-
-                        <li>At the bottom of this screen you'll see a heading called <strong>Wired MAC Address</strong>.</li>
-                        <img class="imgBorder" src="/images/consoles/consoles-xbox3602-7.png" alt="360 MAC address" width="449" height="250" /></li>
-                    </ol>
+                       </ol>
                     <p class="answer">
         	If you have any difficulties with this tutorial, please feel free to
                         <a href="/contact.php" title="contact us">contact</a> either the ResNet Offices (417 836-6100)

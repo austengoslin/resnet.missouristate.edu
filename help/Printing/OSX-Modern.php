@@ -36,7 +36,22 @@
                     <h3><a href="#YOSEMITEPRINT" name="YOSEMITEPRINT">Setting up the front desk printer on Mac OS X 10.10 Yosemite</a></h3>
                     <p class="answer">This will guide you through the setup of the front desk printer in your residence hall on a machine running Mac OS X 10.10 Yosemite<br />
                         <ol class="indent">
-
+                        <li> 
+                        	First you will need to allow your Computer to access the Drivers for the Printer. To do this click the System Preferences Icon on the Menu.
+                        </li>
+			 <img class="imgBorder" src="/images/printerSetup/OSX-Printer-1.png" alt="" />
+                        <li>
+                        	Next, click the lock icon in the bottom left corner of the screen.
+                        </li> 
+                             <img class="imgBorder" src="/images/printerSetup/OSX-Printer-2.png" alt="" />
+                        <li>
+                        	Now you will need to enter your log-in and password for your computer.
+                        </li>
+                         <img class="imgBorder" src="/images/printerSetup/OSX-Printer-3.png" alt="" />
+                         <li>
+                         	Next, select the <strong>Anywhere</strong> option, then click <strong>Allow From Anywhere</strong> when the Dialog Box appears, then close the System Preferences window.
+                         </li>
+                          <img class="imgBorder" src="/images/printerSetup/OSX-Printer-4.png" alt="" />
                             <li>
                                 <strong>Download</strong> and <strong>Install</strong> the HP Printer Drivers from <a href="https://support.apple.com/downloads/DL907/en_US/hpprinterdriver3.1.dmg">here</a>.<br />
 					(Please only click on the link once and wait for the download to finish.)</li>

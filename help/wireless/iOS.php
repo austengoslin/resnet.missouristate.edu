@@ -37,41 +37,27 @@
 
                 <div id="tutorial">
                     <!-- start content -->
-                    <h2>Configuring ResNet 40 on Apple iPhone / iPod Touch</h2>
-                    <p class="answer">
-                        <strong>Note:</strong> You must have <a href="http://www.apple.com/iphone/softwareupdate/">iPhone 2.0 Software Update</a> or better to connect to the wireless network.
-                    </p>
-
+                    <h2>Configuring MSU and MSU RESNET on iOS</h2>
 
                     <ol class="indent">
-                        <li>Tap <strong>Settings</strong>.</li>
-                        <img class="imgBorder" src="/images/wireless/wireless-iphone-01.png" alt="iPhone Home Screen" />
-                        <li>Tap <strong>Wi-Fi</strong>.</li>
-                        <img class="imgBorder" src="/images/wireless/wireless-iphone-02.png" alt="iPhone Settings Screen" />
-                        <li>Tap <strong>resnet 40</strong> from the <strong>Wi-Fi Networks</strong> screen</li>
                         <li>
-                    Enter the following credentials:
-                            <ul class="normal">
-                                <li>User Name: <strong>BearPass Login</strong></li>
-                                <li>Password: <strong>Missouri State Password</strong></li>
-                            </ul>
+                            Tap <strong>Settings</strong> And select <strong>Wifi</strong> on the left.
                         </li>
-                        <img class="imgBorder" src="/images/wireless/wireless-iphone-rn01.png" width="320" alt="iPhone Wi-Fi Networks Screen" />
+                        <img class="imgBorder" src="/images/wireless/iOS-Wifi-1.png" alt="iPhone Settings" />
                         <li>
-                    Tap <strong>Accept</strong> to accept the server certificate.</li>
-                        <img class="imgBorder" src="/images/wireless/wireless-iphone-rn02.png" width="320" alt="iPhone Wi-Fi Credentials Screen" />
+                            Tap MSU if you live Off-Campus or MSU ResNet if you live On-Campus and put in your Bearpass ID for the Username
+                            and Bearpass Password for the Password.
+                        </li>
+                        <img class="imgBorder" src="/images/wireless/iOS-Wifi-2.png" alt="iPhone Log-in" />
                         <li>
-                    You are now connected to <strong>resnet 40</strong></li>
-                        <img class="imgBorder" src="/images/wireless/wireless-iphone-rn03.png" width="320" alt="iPhone Wireless Certificate Screen" />
-                    </ol>
+                            Tap the trust button on the Top Right corner and the iPhone will connect to the Wifi.
+                        </li>
+                        <img class="imgBorder" src="/images/wireless/iOS-Wifi-3.png" width="320" alt="Certificate" />
                     <p class="answer">
             	If you have any difficulties with this tutorial, please feel free to
                         <a href="/contact.php" title="contact us">contact</a> either the ResNet Offices (417 836-6100)
                 or the open access computer labs (417 836-4519) for assistance.
                     </p>
-
-
-
                     <!-- end content -->
                 </div>
             </div>

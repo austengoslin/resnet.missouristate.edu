@@ -118,9 +118,9 @@
                             Many companies offer special pricing for students that can add up to big savings.
                             For example, both Dell and Apple offer discounts via the links provided below.
                         <ul>
-                            <li><a href="http://helpdesk.missouristate.edu/oit/Premier_Login_tmp2955.htm">Dell</a></li>
+                            <li><a href="http://helpdesk.missouristate.edu/hardware-for-home.htm">Dell</a></li>
 
-                            <li><a href="http://www.apple.com/education/store/">Apple</a> (You will need to select Missouri State)</li>
+                            <li><a href="http://helpdesk.missouristate.edu/hardware-for-home.htm">Apple</a> (You will need to select Missouri State)</li>
                         </ul>
                     </p>
                     <p class="answer">
